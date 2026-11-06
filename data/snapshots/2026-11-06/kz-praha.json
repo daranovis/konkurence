@@ -1,0 +1,129 @@
+{
+  "slug": "kz-praha",
+  "name": "Krematorium zvířat Praha",
+  "operator": "Šimon & Šípek s.r.o., IČO 28908601 (centrála sítě Krematorium zvířat Praha)",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.krematoriumzviratpraha.cz",
+    "https://www.krematoriumzviratpraha.cz/cenik",
+    "https://www.krematoriumzviratpraha.cz/sluzby",
+    "https://www.krematoriumzviratpraha.cz/garance",
+    "https://www.krematoriumzviratpraha.cz/produkty",
+    "https://www.krematoriumzviratpraha.cz/caste-dotazy",
+    "https://www.krematoriumzviratpraha.cz/objednavka",
+    "https://www.krematoriumzviratpraha.cz/kontakt"
+  ],
+  "location": "Podnikatelská II 620, 190 11 Praha 9 - Běchovice",
+  "kraj": "Praha",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2490,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 11990,
+    "raw": [
+      { "label": "0–1 kg", "price": 2490 },
+      { "label": "1–5 kg", "price": 3990 },
+      { "label": "5–10 kg", "price": 4990 },
+      { "label": "10–20 kg", "price": 5990 },
+      { "label": "20–40 kg", "price": 6990 },
+      { "label": "40–60 kg", "price": 7990 },
+      { "label": "60–80 kg", "price": 8990 },
+      { "label": "80–120 kg", "price": 11990 }
+    ],
+    "included": [
+      "ekologická papírová rakev",
+      "převzetí v pracovní a kremační dny zdarma",
+      "videozáznam začátku kremace na e-mail zdarma (do měsíce po kremaci)"
+    ]
+  },
+  "collective_cremation": { "offered": false, "prices": "Na webu neuvedena; FAQ: zvíře je v peci vždy samo" },
+  "transport": {
+    "summary": "Svoz zajišťuje partnerská pohřební služba Pet-Pieta podle zón: fialová Praha 990 Kč, žlutá (Praha Východ/Západ, Kladno, Český Brod…) 1 500 Kč, modrá (Berounsko, Mělnicko, Slaný…) 2 200 Kč, zelená (Mladoboleslavsko, Berounsko…) 2 500 Kč, oranžová (Příbram, Rakovník, Čáslav…) 3 000 Kč. V Praze a okolí příjezd do 30–90 min. Dovoz urny v Praze 490 Kč (pracovní dny 18–22 h) / 990 Kč (čas dle přání). Noční pohotovostní příplatek 20–8 h 1 500 Kč.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Chladicí box (jednorázově)", "price": 390 },
+    { "label": "Speciální vak na zemřelé", "price": 490 },
+    { "label": "Převzetí mimo pracovní hodiny, víkend, svátek", "price": 790 },
+    { "label": "Převzetí mimo pracovní hodiny 20:00–8:00", "price": 1500 },
+    { "label": "Kremace ve zvolený den a čas (po dohodě, vč. sledování mimo prac. hodiny)", "price": 5000 },
+    { "label": "Pohotovostní příplatek za vyzvednutí v noci 20:00–8:00", "price": 1500 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni do 40 kg", "price": 690 },
+    { "label": "Rozloučení v obřadní síni nad 40 kg", "price": 890 },
+    { "label": "Sledování začátku kremace (závoz do pece)", "price": 490 },
+    { "label": "Sledování žehu po celou dobu", "price": 690 },
+    { "label": "Sledování začátku kremace online", "price": 490 },
+    { "label": "Sledování žehu online po celou dobu", "price": 690 },
+    { "label": "Otisk tlapky na památku", "price": 990 },
+    { "label": "Otisk tlapky na papír pro tetování", "price": 790 },
+    { "label": "Fotografie zvířete v obřadní síni na USB", "price": 750 },
+    { "label": "Videozáznam začátku kremace na e-mail", "price": 0 },
+    { "label": "Videozáznam začátku kremace na USB", "price": 450 },
+    { "label": "Zaslání pamětních předmětů domů", "price": 390 },
+    { "label": "Dovoz urny domů Praha – rozvozové termíny (prac. dny 18–22 h)", "price": 490 },
+    { "label": "Dovoz urny domů Praha – čas dle přání (i víkend/svátek)", "price": 990 },
+    { "label": "Uspání doma (partnerský veterinář pet-medic.cz)", "price": "cena neuvedena (odkaz na ceník vet. záchranné služby)" },
+    { "label": "Vyzvednutí popela 1 hodinu po kremaci", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urnička se samolepicím štítkem", "price_from": 150, "url": "https://www.krematoriumzviratpraha.cz/cenik" },
+    { "label": "Urny (kov, keramika, kámen, dřevo, sklo, eko/biologicky rozložitelné), rozptylové tubusy", "price_from": null, "url": "https://www.krematoriumzviratpraha.cz/produkty" },
+    { "label": "Šperky s popelem, gravírované šperky a korálky, pamětní skla", "price_from": null, "url": "https://www.krematoriumzviratpraha.cz/produkty" },
+    { "label": "Dřevěné a proutěné rakve (luxusní topolová)", "price_from": null, "url": "https://www.krematoriumzviratpraha.cz/produkty" },
+    { "label": "Kresba mazlíčka, náhrobky, památeční diamanty, medailony, stojánky, květiny", "price_from": null, "url": "https://www.krematoriumzviratpraha.cz/produkty" }
+  ],
+  "bonuses": [
+    "Program Garance: unikátní kód zvířete na dokumentech, vaku i žáruvzdorném kremačním kameni, který jde se zvířetem do pece a pak do urny",
+    "Kamera snímá pec u každé kremace; záznam kdykoli zdarma e-mailem",
+    "Kremace bez plastového vaku (zvíře vyjmuto z vet. vaku, v papírové rakvi)",
+    "Bezplatná nonstop linka 800 122 122",
+    "„Žádné další skryté poplatky“"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem předem (po domluvě)"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Firmy.cz (dle WebSearch): 4,9 z cca 85–90 hodnocení (počet se liší mezi snímky). Web odkazuje na Google a Mapy.com recenze, číslo neuvádí."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": null,
+    "chat": null,
+    "blog": true,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs", "en", "de"],
+    "other": [
+      "Online objednávka krok za krokem (druh zvířete, váhová kategorie, doprava, uložení, vyzvednutí urny, produkty do košíku) – funguje jako konfigurátor ceny",
+      "Poradna (články: co dělat když mazlíček umře, zmrzlá zem v zimě, seznam zvířecích krematorií)",
+      "Reference, galerie, YouTube kanál"
+    ]
+  },
+  "notable": [
+    "Garance s kremačním kamenem s kódem + kamera v peci + video zdarma e-mailem – silný důkaz individuální kremace; Memory Pet může nabídnout obdobný sledovací kód/certifikát a záznam",
+    "Online objednávka jako konfigurátor (váha → doprava → uložení → urna) s cenami u každé položky – inspirace pro kalkulačku na memorypet.cz",
+    "Online sledování žehu (490/690 Kč) a otisk tlapky na papír pro tetování (790 Kč) – zajímavé doplňkové služby",
+    "Transparentní zónový ceník svozu podle mapy (barevné zóny)",
+    "Popel do 1 hodiny po kremaci; FAQ s praktickými časy svozu (30–90 min Praha)",
+    "Obřadní síň: vlastní hudba přes Apple Music, promítání fotek/videa (podklady 3 dny předem)",
+    "SEO poradna, vč. článku se seznamem zvířecích krematorií"
+  ],
+  "weaknesses": [
+    "Svoz mimo Prahu drahý (až 3 000 Kč za oranžovou zónu) a zajišťuje ho třetí strana (Pet-Pieta)",
+    "Mnoho příplatků (chladicí box 390, vak 490, mimo prac. dobu 790/1 500 Kč) navzdory „žádné skryté poplatky“",
+    "Produkty v katalogu bez cen, dostupnost nutno ověřit telefonicky",
+    "Chybí datum platnosti ceníku; Berounsko uvedeno ve dvou zónách svozu",
+    "Hromadná (levnější) kremace se nenabízí"
+  ],
+  "notes": "Síť (dle /kontakt): Praha (sídlo, vlastní pec), Ostrava (krematoriumzviratostrava.cz), Plzeň (kremacezviratplzen.cz), Ústí n. L. (kremacezviratusti.cz), Liberec (kremacezviratliberec.cz), Č. Budějovice (kremacezviratbudejovice.cz), Karlovy Vary (kremacezviratvary.cz – NENÍ v competitors.yaml, Karlovarský kraj = spádová oblast MP), Hřbitov zvířat Niměřice (hrbitovzviratnimerice.cz), Olomouc (kremacezviratekolomouc.cz – není v yaml). Ceny kremace jsou u poboček Liberec a Ústí identické s Prahou; liší se poplatky za převzetí a dopravu (pobočky: převzetí mimo dobu 690 Kč, převoz v kraji 750 Kč). Text mířený na AI nenalezen. page_hashes nevyplněny (WebFetch nevrací surový text)."
+}

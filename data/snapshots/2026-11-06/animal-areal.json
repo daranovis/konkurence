@@ -1,0 +1,118 @@
+{
+  "slug": "animal-areal",
+  "name": "Animal Areal – Krematorium zvířat České Budějovice",
+  "operator": "Animal Areal (rodinná firma; právní forma ani IČO na webu neuvedeny)",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.krematoriumzviratcb.cz",
+    "https://krematoriumzviratcb.cz/cenik/",
+    "https://krematoriumzviratcb.cz/sluzby/",
+    "https://krematoriumzviratcb.cz/faq/",
+    "https://krematoriumzviratcb.cz/katalog/zvireci-urny/",
+    "https://krematoriumzviratcb.cz/o-nas/"
+  ],
+  "location": "Úsilné 208 (Okružní), u Českých Budějovic",
+  "kraj": "Jihočeský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 1900,
+    "1-5": 2990,
+    "5-10": 3990,
+    "10-20": 4990,
+    "20-40": 5990,
+    "40-60": 6990,
+    "60+": 7990,
+    "raw": [
+      { "label": "0–1 kg", "price": 1900 },
+      { "label": "1–5 kg", "price": 2990 },
+      { "label": "5–10 kg", "price": 3990 },
+      { "label": "10–20 kg", "price": 4990 },
+      { "label": "20–40 kg", "price": 5990 },
+      { "label": "40–60 kg", "price": 6990 },
+      { "label": "60–80 kg", "price": 7990 },
+      { "label": "80+ kg", "price": 10990 }
+    ],
+    "included": ["základní ekologická rakev", "termín kremace určený krematoriem", "převzetí v krematoriu v pracovní dny 8–18 h"]
+  },
+  "collective_cremation": { "offered": false, "prices": "Nezmíněno; FAQ uvádí, že každé zvíře prochází pecí samostatně." },
+  "transport": {
+    "summary": "Vyzvednutí a převoz z domova nebo od veterináře nonstop (linka 778 002 789): pracovní dny 8–20 h 790 Kč; 20–8 h, víkend, svátky 990 Kč; noc 22–6 h 1 500 Kč. Oblast svozu neuvedena, cena za km neuvedena. Na přání výjezd veterináře k uspání doma.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Energetický příplatek ke každé kremaci (od 1. 10. 2026 do odvolání)", "price": 490 },
+    { "label": "Převzetí v krematoriu mimo 8–18 h / so, ne, svátky (vlastní doprava)", "price": 690 },
+    { "label": "Převzetí, vyzvednutí a převoz v noci 22–6 h", "price": 1500 },
+    { "label": "Vyzvednutí a převoz pracovní dny 8–20 h", "price": 790 },
+    { "label": "Vyzvednutí a převoz pracovní dny 20–8 h, so, ne, svátky", "price": 990 },
+    { "label": "Úložný vak", "price": 490 },
+    { "label": "Uložení v chladicím boxu", "price": 390 },
+    { "label": "Termín dle výběru po–pá 8:30–16:30", "price": 2500 },
+    { "label": "Termín dle výběru po–pá od 16:00", "price": 3500 },
+    { "label": "Termín dle výběru víkendy a svátky", "price": 4900 },
+    { "label": "Dovoz urny domů – ČB + 15 km", "price": 500 },
+    { "label": "Dovoz urny domů – nad 15 km od ČB", "price": 650 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni (vč. přípravy a výzdoby)", "price": 1600 },
+    { "label": "Sledování počátku kremace", "price": 490 },
+    { "label": "Videozáznam kremace e-mailem (do 14 dnů)", "price": 450 },
+    { "label": "Rozloučení se zvířetem do 40 kg v den příjmu", "price": 590 },
+    { "label": "Rozloučení se zvířetem nad 40 kg v den příjmu", "price": 790 },
+    { "label": "Otisk tlapky 3D", "price": 990 },
+    { "label": "Inkoustový otisk tlapky (tetování)", "price": 750 },
+    { "label": "Vzpomínková krabička (chloupky)", "price": 550 },
+    { "label": "Gravírování na urnu", "price": 790 },
+    { "label": "Samolepicí nápis na urnu", "price": 550 },
+    { "label": "Uspání doma veterinářem", "price": null },
+    { "label": "Prohlídka krematoria s výkladem", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urna se samolepícím štítkem", "price_from": 150, "url": "https://krematoriumzviratcb.cz/cenik/" },
+    { "label": "Pietní obraz s popelem", "price_from": 5500, "url": "https://krematoriumzviratcb.cz/cenik/" },
+    { "label": "Zvířecí urny (do 15 kg, 15–45 kg, 45–90 kg, miniurny, pro kočky a králíky)", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/zvireci-urny/" },
+    { "label": "Bio zvířecí urny", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/bio-zvireci-urny/" },
+    { "label": "Mrazuvzdorné venkovní urny", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/mrazuvzdorne-venkovni-zvireci-urny/" },
+    { "label": "Otisky tlapek", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/otisky-tlapek/" },
+    { "label": "Zvířecí pomníky (beton, kámen, porcelánové destičky)", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/zvireci-pomniky/" },
+    { "label": "Památeční sklo", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/pamatecni-sklo/" },
+    { "label": "Šperky (stříbrné, skleněné s popelem, chirurgická ocel)", "price_from": null, "url": "https://krematoriumzviratcb.cz/katalog/sperky/" }
+  ],
+  "bonuses": [
+    "100% garance individuality – šamotový přívěsek s unikátním kódem, vkládá se do urny",
+    "Nonstop pohotovost 24/7",
+    "Okno z obřadní síně do prostoru kremace"
+  ],
+  "payment_options": ["hotově", "kartou"],
+  "reviews": { "google_rating": null, "google_count": null, "other": null },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": null,
+    "blog": true,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["katalog produktů bez košíku", "Postup při úmrtí zvířete", "upozornění na odlišení od sběrné pobočky pražské sítě"]
+  },
+  "notable": [
+    "Veterinář na přání přijede uspat zvíře doma – návaznost eutanazie a svozu, Memory Pet může nabídnout přes partnerské veterináře",
+    "Vzpomínková krabička s chloupky (550 Kč) a inkoustový otisk tlapky – levné doplňky s vysokou emoční hodnotou",
+    "Pietní obraz s popelem (5 500 Kč) jako prémiový produkt",
+    "Mrazuvzdorné venkovní urny a bio urny jako samostatné kategorie",
+    "Nabídka prohlídky krematoria s výkladem – budování důvěry",
+    "Aktivní odlišení od konkurence na webu (patička: 'Kremace zvířat České Budějovice' není jejich pobočkou, ale sběrné místo pražského krematoria) – srozumitelná komunikace 'vlastní pec vs. sběrné místo'"
+  ],
+  "weaknesses": [
+    "Nový energetický příplatek 490 Kč ke každé kremaci (od 1. 10. 2026)",
+    "Chladicí box (390 Kč), vak (490 Kč) a základní urna (150 Kč) zpoplatněny zvlášť",
+    "Neuvedeno, zda ceny jsou s DPH; chybí IČO a právní forma",
+    "Žádný e-shop, ceny uren jen osobně",
+    "Při předání je nutné doložit očkování a že zvíře v posledních 7 dnech nikoho nezranilo"
+  ],
+  "notes": "Tabulka vah na ceníku není výslovně označena jako cena kremace, ale zjevně jí je. Normalizace: 60+ = pásmo 60–80 kg (7 990), pásmo 80+ (10 990) v raw. Energetický příplatek 490 Kč zaveden od 1. 10. 2026 – nová změna. Pec dvoukomorová (dospalování plynů min. 850 °C), zvířata do 90 kg. Na webu nebyl nalezen žádný text mířený na AI. Google hodnocení v rychlém vyhledávání nenalezeno."
+}

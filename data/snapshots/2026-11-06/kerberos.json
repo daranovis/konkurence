@@ -1,0 +1,105 @@
+{
+  "slug": "kerberos",
+  "name": "Zvířecí krematorium Kerberos",
+  "operator": "KERBEROS KREMATORIUM a.s. (IČO 24263419)",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kerberoskrematorium.cz/",
+    "https://www.kerberoskrematorium.cz/objednavka_kremace.php",
+    "https://www.kerberoskrematorium.cz/objednavka_urna.php",
+    "https://www.kerberoskrematorium.cz/doprava-a-vraceni.php",
+    "https://www.kerberoskrematorium.cz/kontakty.html"
+  ],
+  "location": "Kremační zařízení Zápy (Královická ulice, 250 01 Zápy); kancelář Praha 10-Strašnice (Brigádníků 3353/351b); pobočka Teplice (Dubská 714/20, 415 01 Teplice)",
+  "kraj": "Středočeský (+ Praha, Ústecký)",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 8990,
+    "raw": [
+      { "label": "do 1 kg", "price": 1990 },
+      { "label": "1–5 kg", "price": 3990 },
+      { "label": "5–10 kg", "price": 4990 },
+      { "label": "10–20 kg", "price": 5990 },
+      { "label": "20–40 kg", "price": 6990 },
+      { "label": "40–60 kg", "price": 7990 },
+      { "label": "60–80 kg", "price": 8990 },
+      { "label": "80 kg a více", "price": 10990 }
+    ],
+    "included": []
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Osobně na pobočce (Strašnice, Teplice) 0 Kč; svoz od zákazníka i od veterináře paušálem dle oblasti: Praha 990 Kč, Ústecký kraj 990 Kč, Středočeský kraj 1 990 Kč, Čechy 2 990 Kč (zdroj: https://www.kerberoskrematorium.cz/objednavka_kremace.php). Nonstop na telefonu (kontakty.html).",
+    "free": "osobní předání na pobočce",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [],
+  "services": [
+    { "label": "Zaslání urničky poštou", "price": 300 },
+    { "label": "Rozvoz urničky Praha / Ústecký kraj", "price": 990 },
+    { "label": "Rozvoz urničky Středočeský kraj", "price": 1990 },
+    { "label": "Rozvoz urničky Čechy", "price": 2990 },
+    { "label": "Rozvoz urničky po Praze v úterý 16–21 h", "price": 500 },
+    { "label": "SMS při zahájení kremace", "price": null },
+    { "label": "Obřadní síň a rozlučková místnost (virtuální prohlídka na webu)", "price": null },
+    { "label": "Odchytová služba (zmíněna u týmu)", "price": null }
+  ],
+  "products": [
+    { "label": "Kartonové urny", "price_from": 200, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Bio urny", "price_from": 850, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Dřevěné urny / miniurny", "price_from": 850, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Keramické urny", "price_from": 890, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Hliníkové urny", "price_from": 1190, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Skleněné urny", "price_from": 1590, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Urny s krystaly", "price_from": 2160, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Žulové urny", "price_from": 2990, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php" },
+    { "label": "Kolekce GLASSTAR (české sklo)", "price_from": null, "url": "https://www.kerberoskrematorium.cz/objednavka_urna.php?dodavatel=1700" }
+  ],
+  "bonuses": [],
+  "payment_options": ["bankovní převod s platebním QR kódem (e-shop)"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "WebSearch (firmy.cz): Praha-Strašnice 4,8 z 61 hodnocení – firmy.cz, ne Google. Na webu jen odkaz na napsání Google recenze."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": true,
+    "chat": null,
+    "blog": null,
+    "faq": null,
+    "eshop": true,
+    "languages": ["cs"],
+    "other": [
+      "online objednávka kremace jako průvodce (druh zvířete, váha, předání, vrácení urny) s cenou",
+      "e-shop uren s filtrem podle dodavatele (cca 17 dodavatelů)",
+      "virtuální prohlídka obřadní síně",
+      "obsahový seriál 'Kerberos spolupracuje' (GLASSTAR)",
+      "představení týmu jménem"
+    ]
+  },
+  "notable": [
+    "Online objednávka kremace krok za krokem (druh zvířete → váha → předání → vrácení urny) s okamžitou cenou – Memory Pet by mohl mít podobný konfigurátor",
+    "Paušální ceny svozu podle kraje (Praha/Ústecký 990, Středočeský 1 990, Čechy 2 990 Kč) – jednodušší komunikace než Kč/km",
+    "Volitelná SMS při zahájení kremace – levná, emočně silná služba",
+    "Levný večerní rozvoz uren po Praze v úterý 16–21 h za 500 Kč (pravidelná rozvozová 'linka')",
+    "Spolupráce s českou sklárnou GLASSTAR prezentovaná jako obsahový seriál; virtuální prohlídka obřadní síně",
+    "Představení týmu jménem a rolí (lidský přístup)"
+  ],
+  "weaknesses": [
+    "Hlavní stránka bez navigace a bez cen – ceník je schovaný v objednávkovém formuláři",
+    "Rozporné údaje na webu (16 vs. více než 13 let, 26 000 vs. více než 20 000 klientů, 10 vs. 7 zaměstnanců)",
+    "Není uvedeno, zda ceny zahrnují DPH, ani co je v ceně kremace",
+    "U Záp chybí telefon i otevírací doba"
+  ],
+  "notes": "Žádný text mířený na AI nenalezen. Ceník převzat z objednávkového formuláře objednavka_kremace.php (jen čteno, nic neodesláno). Kategorie 60–80 kg zapsána do 60+, cena 80+ kg (10 990 Kč) v raw."
+}

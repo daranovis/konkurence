@@ -1,0 +1,88 @@
+{
+  "slug": "vecna-loviste",
+  "name": "Věčná loviště",
+  "operator": "Věčná loviště s.r.o. (IČO 04200675)",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.vecnaloviste.cz/",
+    "https://www.vecnaloviste.cz/cenik",
+    "https://www.vecnaloviste.cz/sluzby",
+    "https://www.vecnaloviste.cz/caste-dotazy",
+    "https://www.vecnaloviste.cz/o-nas"
+  ],
+  "location": "Drnov 61, 274 01 Žižice (cca 30 min od Prahy)",
+  "kraj": "Středočeský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 4500,
+    "1-5": 4500,
+    "5-10": null,
+    "10-20": null,
+    "20-40": null,
+    "40-60": null,
+    "60+": null,
+    "raw": [
+      { "label": "do 1 kg (FAQ: kremace od 4 500 Kč)", "price": 4500 },
+      { "label": "5 kg – ukázková cena v kalkulátoru (cenik)", "price": 4500 },
+      { "label": "80–100 kg (FAQ)", "price": 18000 }
+    ],
+    "included": ["základní urna"]
+  },
+  "collective_cremation": { "offered": false, "prices": "pouze individuální kremace" },
+  "transport": {
+    "summary": "Vlastní dovoz 0 Kč; svoz z domu nebo od veterináře ve speciálním vaku, cena podle dojezdových zón / adresy v kalkulátoru (sazby na webu neuvedeny). Mimo otevírací dobu Po–Pá 9–17 nonstop po telefonické dohodě.",
+    "free": "vlastní dovoz",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Speciální převozní vak (doporučeno)", "price": 450 },
+    { "label": "Uložení v chladícím boxu (doporučeno)", "price": 300 },
+    { "label": "Převzetí mimo otevírací dobu (Po–Pá 9–17)", "price": 700 },
+    { "label": "Přednostní kremace ve zvoleném termínu", "price": 3500 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni", "price": 2900 },
+    { "label": "Doručení urny s popelem", "price": 600 },
+    { "label": "Zaslání urny přes Zásilkovnu", "price": null },
+    { "label": "Eutanazie doma ve spolupráci s certifikovaným veterinářem", "price": null }
+  ],
+  "products": [
+    { "label": "Základní urna (v ceně), designové a ručně vyráběné urny na místě", "price_from": null, "url": "https://www.vecnaloviste.cz/sluzby" }
+  ],
+  "bonuses": [
+    "Základní urna v ceně kremace",
+    "Garance individuální kremace – nikdy více zvířat najednou",
+    "Evidenční nerezový plíšek od převzetí po předání popela",
+    "Lze použít vlastní urnu"
+  ],
+  "payment_options": [],
+  "reviews": { "google_rating": 4.9, "google_count": 203, "other": "údaj uvedený na webu (o-nas), recenze zobrazené na hlavní stránce" },
+  "website_features": {
+    "online_order": null,
+    "price_calculator": true,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["kalkulátor ceny podle váhy (0,1–120 kg), adresy svozu a doplňků", "galerie", "Google recenze na webu"]
+  },
+  "notable": [
+    "Kalkulátor ceny: váha + adresa svozu + zaškrtávací doplňky označené 'doporučeno' → celková cena; Memory Pet by mohl převzít",
+    "Architektonicky oceňovaná budova (bývalý vojenský bunkr, zrcadlová stěna, Grand Prix Architektů 2021) – silný storytelling a PR",
+    "Obřad s hudbou přes Bluetooth, vlastními hračkami, svíčkou a květinami",
+    "Eutanazie doma ve spolupráci s veterinářem + následný převoz",
+    "Popel do 24–48 h, zaslání urny Zásilkovnou",
+    "Google hodnocení 4,9 (203) zobrazené přímo na webu"
+  ],
+  "weaknesses": [
+    "Výrazně dražší – od 4 500 Kč i pro zvířata do 1 kg, až 18 000 Kč (80–100 kg)",
+    "Úplný ceník podle kategorií není veřejně vypsán, jen přes kalkulátor",
+    "Ceny svozu nejsou transparentně uvedeny",
+    "Obřad 2 900 Kč, přednostní termín 3 500 Kč"
+  ],
+  "notes": "Žádný text mířený na AI nenalezen. Kalkulátor je dynamický – WebFetch zobrazil jen ukázku pro 5 kg (4 500 Kč; s vakem a chladicím boxem 5 250 Kč). Hodnota 1-5 = ukázková cena pro 5 kg (horní hranice kategorie), 0-1 z FAQ; ostatní kategorie nezjištěny (null) – doporučeno ověřit ručně v kalkulátoru. Pec: dvoukomorová B&L Cremation Systems."
+}

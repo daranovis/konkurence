@@ -1,0 +1,121 @@
+{
+  "slug": "kz-zlin",
+  "name": "Krematorium zvířat Zlín",
+  "operator": null,
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.krematoriumzviratzlin.cz",
+    "https://krematoriumzviratzlin.cz/cenik.htm",
+    "https://krematoriumzviratzlin.cz/sluzby.htm",
+    "https://krematoriumzviratzlin.cz/caste-dotazy.htm",
+    "https://krematoriumzviratzlin.cz/pamatecni-predmety",
+    "https://krematoriumzviratzlin.cz/o-krematoriu.htm"
+  ],
+  "location": "Dostihová 729, 763 15 Slušovice",
+  "kraj": "Zlínský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": "2024-03-17",
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1890,
+    "1-5": 3990,
+    "5-10": 4850,
+    "10-20": 5350,
+    "20-40": 6750,
+    "40-60": 7990,
+    "60+": 8490,
+    "raw": [
+      { "label": "0 – 1 kg", "price": 1890 },
+      { "label": "1 – 5 kg", "price": 3990 },
+      { "label": "5 – 10 kg", "price": 4850 },
+      { "label": "10 – 20 kg", "price": 5350 },
+      { "label": "20 – 30 kg", "price": 6050 },
+      { "label": "30 – 40 kg", "price": 6750 },
+      { "label": "40 – 50 kg", "price": 7250 },
+      { "label": "50 – 60 kg", "price": 7990 },
+      { "label": "60 – 70 kg", "price": 8490 },
+      { "label": "70 – 80 kg", "price": 8990 },
+      { "label": "nad 80 kg", "price": 9990 }
+    ],
+    "included": ["eko rakev", "základní plastová urna", "uložení v chladicím boxu do termínu kremace", "rozloučení ve smuteční síni při převzetí", "pamětní a kremační list"]
+  },
+  "collective_cremation": { "offered": false, "prices": "Neuvedeno; web zdůrazňuje pouze individuální kremaci." },
+  "transport": {
+    "summary": "Svoz vlastním vozem ve speciálním vaku z domova nebo od veterináře, výjezd ze Slušovic; do 30 km i nad 30 km 'dle dohody'. Box Onyx (samoobslužné sběrné boxy s kódem z SMS) ve Zlíně, Přerově, Uherském Hradišti, Uherském Brodu, Valašském Meziříčí a Ostravě. Nonstop bezplatná linka 800 28 11 11.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Převozní a úložný vak", "price": 490 },
+    { "label": "Vlastní převoz – převzetí Po–Pá 16:30–20 h", "price": 1000 },
+    { "label": "Vlastní převoz – převzetí So 8–20 h", "price": 1000 },
+    { "label": "Vlastní převoz – převzetí Ne a svátky 8–20 h", "price": 1500 },
+    { "label": "Okamžitá kremace v termínu dle výběru Po–Pá 8–16:30", "price": 4900 },
+    { "label": "Okamžitá kremace Po–Pá 16:30–20 h a So 8–20 h", "price": "dle dohody" },
+    { "label": "Okamžitá kremace Ne a svátky 8–20 h", "price": "dle dohody" },
+    { "label": "Doručení urny na adresu přepravní společností", "price": 390 }
+  ],
+  "services": [
+    { "label": "Rozloučení ve smuteční síni při převzetí", "price": 0 },
+    { "label": "Videozáznam začátku kremace", "price": 390 },
+    { "label": "Saténová výstélka malá", "price": 270 },
+    { "label": "Saténová výstélka střední", "price": 370 },
+    { "label": "Saténová výstélka velká", "price": 470 },
+    { "label": "Dřevěná rakev", "price": "dle katalogu" },
+    { "label": "Květinová vazba pro rozloučení", "price": "dle katalogu" },
+    { "label": "Sledování kremace na obrazovce ve smuteční síni / živě z domova / záznam e-mailem", "price": null },
+    { "label": "Pamětní list", "price": 0 }
+  ],
+  "products": [
+    { "label": "Předměty pro smuteční obřady (např. smuteční vazba ve tvaru tlapky)", "price_from": 299, "url": "https://krematoriumzviratzlin.cz/c-predmety-pro-smutecni-obrady" },
+    { "label": "Doplňky k urnám (stojánek)", "price_from": 390, "url": "https://krematoriumzviratzlin.cz/c-doplnky-k-urnam-a-pamatecnim-predmetum" },
+    { "label": "Odlitky a otisky tlapek", "price_from": 490, "url": "https://krematoriumzviratzlin.cz/c-odlitky-a-otisky-tlapek" },
+    { "label": "Urny", "price_from": 1990, "url": "https://krematoriumzviratzlin.cz/c-urny" },
+    { "label": "Miniurny", "price_from": 1990, "url": "https://krematoriumzviratzlin.cz/c-miniurny" },
+    { "label": "Pietní šperky", "price_from": null, "url": "https://krematoriumzviratzlin.cz/c-pietni-sperky" },
+    { "label": "Památeční sklo", "price_from": null, "url": "https://krematoriumzviratzlin.cz/c-pamatecni-sklo" },
+    { "label": "Skleněný hrob", "price_from": null, "url": "https://krematoriumzviratzlin.cz/c-skleneny-hrob" }
+  ],
+  "bonuses": [
+    "Asistenční a vodicí psi: sleva 50 % na kremaci bez ohledu na váhu",
+    "Canisterapeutičtí psi: sleva 20 % na kremaci",
+    "Služební a lovečtí psi: sleva 10 % na kremaci",
+    "Zoologické zahrady: sleva 50 % na kremaci",
+    "Senioři a ZTP: doručení urny zdarma",
+    "Garance nezaměnitelnosti: unikátní kód na přívěsku, který se vkládá do urny",
+    "Pamětní list zdarma po každé kremaci"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Firmy.cz: 4,8/5 z 21 hodnocení (podle souhrnu WebSearch, neověřeno přímo na firmy.cz)"
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": null,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": true,
+    "languages": ["cs"],
+    "other": ["Průvodce kremací", "online objednávka kremace (/objednavka-kremace)", "registrace zákazníka", "pamětní list ke stažení", "čestné prohlášení ke stažení"]
+  },
+  "notable": [
+    "Box Onyx – samoobslužné sběrné boxy v 6 městech (otevření kódem z SMS), urna doručena domů; obdoba Memory Pet Point, porovnat pokrytí a komunikaci",
+    "Strukturovaný slevový program pro asistenční/vodicí (50 %), canisterapeutické (20 %), služební a lovecké psy (10 %), ZOO (50 %) a seniory/ZTP (doručení urny zdarma) – Memory Pet může zvážit podobné sociální programy",
+    "Pamětní list zdarma ke každé kremaci (i ke stažení na webu)",
+    "Možnost sledovat kremaci živě z domova (stream) nebo dostat záznam e-mailem",
+    "Jemné váhové pásmo po 10 kg nad 20 kg a ceník s datem platnosti",
+    "E-shop se vzpomínkovými předměty přímo na webu krematoria, online objednávka kremace",
+    "FAQ s vysvětlením rozdílu krematorium vs. kafilerie a pravidly pohřbu na vlastním pozemku (SEO obsah)"
+  ],
+  "weaknesses": [
+    "Cena svozu neuvedena ('dle dohody') – netransparentní",
+    "Převzetí mimo provozní dobu zpoplatněno 1 000–1 500 Kč",
+    "Provozovatel krematoria na webu jasně neuveden",
+    "Hromadná kremace nenabízena"
+  ],
+  "notes": "Cenové kategorie normalizovány podle horní hranice: 20-40 = 30–40 kg (6 750), 40-60 = 50–60 kg (7 990), 60+ = 60–70 kg (8 490, vstupní cena pásma nad 60 kg; dražší pásma v raw). Jako správce osobních údajů/cookies uvedena Ideal Planet s.r.o. (Podolská 103/126, Praha 4, IČ 24850977) – nemusí jít o provozovatele krematoria. Krematorium vybudováno 2023 ve Slušovicích; tvrdí, že je jediné ve Zlínském a Moravskoslezském kraji. Na webu nebyl nalezen žádný text mířený na AI."
+}

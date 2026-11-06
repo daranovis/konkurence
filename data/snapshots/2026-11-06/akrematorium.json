@@ -1,0 +1,118 @@
+{
+  "slug": "akrematorium",
+  "name": "Akrematorium Strakonice (Krematorium pro zvířata Strakonice)",
+  "operator": "Akrematorium, s.r.o., IČ 07609833",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.akrematorium.cz",
+    "https://www.akrematorium.cz/krematorium-pro-zvirata-cenik-sluzeb-strakonice-jizni-cechy",
+    "https://www.akrematorium.cz/krematorium-pro-zvirata-produkty-strakonice-jizni-cechy",
+    "https://www.akrematorium.cz/krematorium-pro-zvirata-caste-dotazy-strakonice-jizni-cechy",
+    "https://www.akrematorium.cz/krematorium-pro-zvirata-o-nas-strakonice-jizni-cechy",
+    "https://www.akrematorium.cz/krematorium-pro-zvirata-ohlasy-klientu-strakonice-jizni-cechy"
+  ],
+  "location": "Heydukova 1644, 386 01 Strakonice",
+  "kraj": "Jihočeský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2000,
+    "1-5": 3000,
+    "5-10": 4000,
+    "10-20": 5000,
+    "20-40": 6000,
+    "40-60": 7000,
+    "60+": 8000,
+    "raw": [
+      { "label": "0 až 1 kg", "price": 2000 },
+      { "label": "1,10 až 5 kg", "price": 3000 },
+      { "label": "5,10 až 10 kg", "price": 4000 },
+      { "label": "10,10 až 20 kg", "price": 5000 },
+      { "label": "20,10 až 40 kg", "price": 6000 },
+      { "label": "40,10 až 60 kg", "price": 7000 },
+      { "label": "60,10 až 80 kg", "price": 8000 },
+      { "label": "80,10 kg a více", "price": 9000 }
+    ],
+    "included": ["základní kremace", "základní plastová urna", "krátké rozloučení ve smuteční síni", "administrativa", "termín kremace určuje krematorium"]
+  },
+  "collective_cremation": { "offered": false, "prices": "Ne – FAQ uvádí, že každé zvíře se zpopelňuje individuálně." },
+  "transport": {
+    "summary": "Svoz z domova nebo od veterináře vlastním vozem, nonstop pohotovost (+420 797 605 555), i o víkendech a svátcích po domluvě. Po Strakonicích nebo do 30 km 490 Kč, nad 30 km 12 Kč/km.",
+    "free": null,
+    "per_km": 12,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Energetický příplatek ke každé kremaci (od 1. 2. 2024 do odvolání)", "price": 490 },
+    { "label": "Uložení v chladicím boxu (jednorázově)", "price": 350 },
+    { "label": "Transportní (úložný) vak", "price": 400 },
+    { "label": "Pohotovostní příplatek – převzetí mimo pracovní dobu, víkend, svátek", "price": 900 },
+    { "label": "Svoz po Strakonicích nebo do 30 km", "price": 490 },
+    { "label": "Svoz nad 30 km (za km)", "price": 12 },
+    { "label": "Kremace na přání pracovní dny 9–14 h", "price": 2000 },
+    { "label": "Kremace na přání pracovní dny od 17 h", "price": 3200 },
+    { "label": "Kremace na přání víkendy a svátky", "price": 4900 },
+    { "label": "Zaslání urny / skla / šperku Českou poštou", "price": 300 }
+  ],
+  "services": [
+    { "label": "Poslední rozloučení v obřadní síni (vč. saténové výstelky a základní květinové výzdoby)", "price": 790 },
+    { "label": "Sledování začátku kremace (závoz do zařízení)", "price": 190 },
+    { "label": "Sledování žehu po celou dobu kremace", "price": 490 },
+    { "label": "Rozloučení v obřadní síni vč. sledování žehu a účasti po celou dobu", "price": 990 },
+    { "label": "Video záznam kremace na DVD (do 14 dnů)", "price": 350 },
+    { "label": "Saténová výstelka do základní ekologické rakve", "price": 400 },
+    { "label": "Pískování skleněné urny – 1 řádek (jméno)", "price": 370 },
+    { "label": "Pískování skleněné urny – 3 řádky (jméno a datace)", "price": 570 },
+    { "label": "Otisk tlapky", "price": 750 },
+    { "label": "Urna dle výběru", "price": "dle nabídky" },
+    { "label": "Šperk nebo památeční sklo s popelem", "price": "dle nabídky" }
+  ],
+  "products": [
+    { "label": "Urny na popel zvířátka (skleněné od českých sklářů, ekologické se Swarovski kamínky, kovové)", "price_from": null, "url": "https://www.akrematorium.cz/urny-na-popel-zviratka" },
+    { "label": "Šperky s popelem (ocelové s dutinkou)", "price_from": null, "url": "https://www.akrematorium.cz/sperky-s-popelem" },
+    { "label": "Památeční sklo", "price_from": null, "url": "https://www.akrematorium.cz/pamatecni-sklo" },
+    { "label": "Dřevěné frézované obrázky s portrétem", "price_from": null, "url": "https://www.akrematorium.cz/drevene-frezovane-obrazky-s-portretem" },
+    { "label": "Zvířecí pomníčky", "price_from": null, "url": "https://www.akrematorium.cz/zvireci-pomnicky" },
+    { "label": "Otisky tlapky", "price_from": null, "url": "https://www.akrematorium.cz/otisky-tlapky" },
+    { "label": "Ekologická biologicky rozložitelná urnička (novinka)", "price_from": null, "url": "https://www.akrematorium.cz/nove-v-nasi-nabidce" }
+  ],
+  "bonuses": [
+    "„100% Garance“ – zvíře je při žehu v peci vždy samo",
+    "Šamotové srdíčko / přívěsek s unikátním identifikačním kódem až do urny",
+    "Kamerový záznam každého žehu, evidence každého zpopelnění (údaje o zvířeti, čas, délka)",
+    "„Nemáme žádné další skryté poplatky“ – deklarace na ceníku",
+    "Zaměstnanci s osvědčením VFU Brno (2020)"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem na účet po vystavení faktury"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Na webu sekce Ohlasy klientů s cca 54 převážně pozitivními ohlasy; Google hodnocení na webu ani v rychlém vyhledávání nenalezeno."
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["Novinky", "Ke stažení (dokumenty)", "Jak postupovat", "Ohlasy klientů", "Instagram, Facebook", "dojezdové trasy z Prahy, ČB, Vimperka, Plzně, Klatov"]
+  },
+  "notable": [
+    "Odstupňované sledování kremace: začátek 190 Kč / celý žeh 490 Kč / obřad + celý žeh 990 Kč – jasný „upsell žebříček“",
+    "Kamerový záznam každého žehu a evidence kremace jako důkaz individuality – Memory Pet může nabídnout „protokol kremace“ zdarma",
+    "Rozsáhlá stránka s ~54 ohlasy klientů přímo na webu (sociální důkaz)",
+    "Pískování jména/data na skleněnou urnu jako levná personalizace (370/570 Kč)",
+    "Dřevěné frézované obrázky s portrétem zvířete jako netradiční vzpomínkový produkt",
+    "Ekologická biologicky rozložitelná urnička jako novinka"
+  ],
+  "weaknesses": [
+    "Energetický příplatek 490 Kč ke každé kremaci (od 2024) – reálná cena vyšší než v tabulce, i přes tvrzení „žádné skryté poplatky“",
+    "Chladicí box (350 Kč) a vak (400 Kč) nejsou v ceně",
+    "Bez e-shopu a bez cen uren na webu",
+    "Lokální působnost (jihozápadní Čechy), provozní doba jen 9–17 h"
+  ],
+  "notes": "Normalizace: 60+ = pásmo 60,10–80 kg (8 000), pásmo nad 80 kg (9 000) v raw. K ceně kremace se dle ceníku přičítá energetický příplatek 490 Kč (od 1. 2. 2024 do odvolání). Datum platnosti ceníku neuvedeno. Kremace zvířat do 90 kg. Na webu nebyl nalezen žádný text mířený na AI."
+}

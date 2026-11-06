@@ -1,0 +1,93 @@
+{
+  "slug": "memorypetpoint",
+  "name": "Memory Pet Point",
+  "operator": "Memory Servis s.r.o.",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.memorypetpoint.com",
+    "https://www.memorypetpoint.com/mista/",
+    "https://www.memorypetpoint.com/faq/",
+    "https://www.memorypetpoint.com/urny/",
+    "https://www.memorypet.cz/memory-pet-point/",
+    "https://pet-heaven.cz/memory-pet-point/"
+  ],
+  "location": "Praha 6 – Lysolaje (Sídlištní 136/24), Česká Lípa (Dubice 32), Liberec (Ostašovská 570), Plzeň 3 – Skvrňany (Daimlerova 1219), Trutnov (Kamenická); připravováno: Jičín, Havlíčkův Brod, Mladá Boleslav, Nymburk",
+  "kraj": "Praha",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 3990,
+    "5-10": 3990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 6990,
+    "60+": null,
+    "raw": [
+      { "label": "0–2 kg (kremace)", "price": 1990 },
+      { "label": "2–10 kg (kremace)", "price": 3990 },
+      { "label": "10–30 kg (kremace)", "price": 5990 },
+      { "label": "30–60 kg (kremace)", "price": 6990 },
+      { "label": "Uložení a vak (ke každé kategorii)", "price": 500 }
+    ],
+    "included": ["rozloučení v MPP", "keramická kremační známka s unikátním číslem", "úložný vak", "uložení v chladicím zařízení", "přeprava do krematoria", "kremace", "základní plastová urna", "administrativa", "doručení urny do výdejního místa"]
+  },
+  "collective_cremation": { "offered": false, "prices": "Nenabízí – pouze individuální kremace (FAQ)" },
+  "transport": {
+    "summary": "Klient přiváží zvíře sám do samoobslužného boxu 24/7; převoz do krematoria zajišťuje personál v pravidelném svozu (když je MPP plný, nejpozději do 7 dnů), je v ceně. Urna se vrací do MPP / výdejního místa zdarma, nejpozději do 7 dnů od uložení; kurýr za příplatek.",
+    "free": "převoz z MPP do krematoria a vrácení urny do MPP/výdejního místa",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Uložení a vak", "price": 500 },
+    { "label": "Doručení urny kurýrem místo svozu do MPP", "price": "příplatek (výše neuvedena)" },
+    { "label": "Přítomnost při zahájení kremace (MPP Plzeň, dle pet-heaven.cz)", "price": 500 }
+  ],
+  "services": [
+    { "label": "Soukromé samoobslužné rozloučení 24/7", "price": "v ceně" },
+    { "label": "Výdejní schránky s PIN kódem", "price": "v ceně" }
+  ],
+  "products": [
+    { "label": "Památeční sklo", "price_from": null, "url": "https://www.memoryurny.cz/kategorie/pamatecni-sklo/" },
+    { "label": "Šperky See You", "price_from": null, "url": "https://www.memoryurny.cz/kategorie/sperky-see-you/" },
+    { "label": "Zvířecí urny", "price_from": null, "url": "https://www.memoryurny.cz/kategorie/zvireci-urny/" },
+    { "label": "Zvířecí stříbrné šperky na popel", "price_from": null, "url": "https://www.memoryurny.cz/kategorie/zvireci-stribrne-sperky/" },
+    { "label": "Zvířecí otisky tlapek", "price_from": null, "url": "https://www.memoryurny.cz/kategorie/otisky-tlapek/" }
+  ],
+  "bonuses": [
+    "Odložená platba až 30 dní nebo 3 splátky bez navýšení",
+    "Bez pohotovostních příplatků – přístup 24/7",
+    "Převoz do krematoria a doručení urny do výdejního místa zdarma",
+    "'Konečná cena bez skrytých poplatků'",
+    "Zvýhodněné ceny urn v e-shopu memoryurny.cz",
+    "Program spolupráce – umístění MPP na pozemku partnera"
+  ],
+  "payment_options": ["online platba", "odložená platba (až 30 dní)", "3 splátky bez navýšení"],
+  "reviews": null,
+  "website_features": {
+    "online_order": true,
+    "price_calculator": false,
+    "chat": false,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["rezervace /order/", "návod k uložení zvířete", "výdejní schránky s PIN (SMS, platnost 48 h)", "galerie, reference", "video na YouTube", "zákaznický login"]
+  },
+  "notable": [
+    "Unikátní samoobslužný model 24/7 bez pohotovostních příplatků – nemá ho žádný sledovaný konkurent",
+    "Keramická kremační známka s unikátním číslem vložená do urny jako důkaz nezaměnitelnosti",
+    "Odložená platba 30 dní / 3 splátky bez navýšení a SMS PIN k výdejní schránce"
+  ],
+  "weaknesses": [
+    "Ceny na webu bez měny ('1 990,-') a bez uvedení DPH; FAQ zároveň říká, že ceny se řídí ceníkem konkrétního provozovatele – rozpor s 'konečnou cenou'",
+    "Váhové kategorie (0–2, 2–10, 10–30, 30–60 kg) nesouhlasí s ceníkem memorypet.cz; nad 60 kg cena chybí",
+    "Na stránce pet-heaven.cz se pro MPP Plzeň uvádí 'od 2 490 Kč' a jiný telefon (704 114 149), na memorypetpoint.com nejnižší cena 1 990 + 500 Kč – nekonzistentní komunikace",
+    "Stránka /mista/ neuvádí adresy ani otevírací info (jen detail); adresy jsou na memorypet.cz/memory-pet-point/",
+    "Web neuvádí, které krematorium konkrétně zvíře z daného MPP kremuje (FAQ zmiňuje Českou Lípu a Chodov u Karlových Varů)",
+    "Jiný telefon (481 012 204) a e-mail než krematorium – roztříštěné kontakty"
+  ],
+  "notes": "Vlastní síť (Memory Servis s.r.o.). MPP Plzeň vznikl ve spolupráci se SOULS IN PET HEAVEN s.r.o. (Chodov) – viz pet-heaven.cz/memory-pet-point/. Normalizace cen: kategorie MemoryPet přiřazeny podle kategorie MPP, do které spadá horní hranice (1-5 → 2–10 kg; 20-40 → 30–60 kg); cena +500 Kč za uložení a vak se připočítává ke každé kategorii a není v normalizovaných číslech. Text mířený na AI nenalezen. Google hodnocení nezjištěno."
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Snapshot zvířecího krematoria",
+  "type": "object",
+  "required": ["slug", "name", "checked_at", "sources", "cremation_prices"],
+  "properties": {
+    "slug": { "type": "string" },
+    "name": { "type": "string" },
+    "operator": { "type": ["string", "null"], "description": "Provozovatel / síť, do které patří" },
+    "checked_at": { "type": "string", "format": "date" },
+    "sources": { "type": "array", "items": { "type": "string" }, "description": "URL přečtených stránek" },
+    "page_hashes": { "type": "object", "additionalProperties": { "type": "string" }, "description": "URL -> sha256 textu stránky (pro rychlou detekci změn)" },
+    "location": { "type": ["string", "null"] },
+    "kraj": { "type": ["string", "null"] },
+    "type": { "enum": ["vlastni_krematorium", "pobocka", "zprostredkovatel", "nezjisteno"] },
+    "price_list_valid_from": { "type": ["string", "null"] },
+    "prices_include_vat": { "type": ["boolean", "null"] },
+    "cremation_prices": {
+      "type": "object",
+      "description": "Individuální kremace v Kč, normalizováno na kategorie MemoryPet. Pokud se kategorie konkurenta nekryjí, použij cenu kategorie, do které spadá horní hranice, a originál zapiš do raw.",
+      "properties": {
+        "0-1": { "type": ["number", "null"] },
+        "1-5": { "type": ["number", "null"] },
+        "5-10": { "type": ["number", "null"] },
+        "10-20": { "type": ["number", "null"] },
+        "20-40": { "type": ["number", "null"] },
+        "40-60": { "type": ["number", "null"] },
+        "60+": { "type": ["number", "null"] },
+        "raw": { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "price": { "type": ["number", "null"] } } } },
+        "included": { "type": "array", "items": { "type": "string" }, "description": "Co je v ceně (rakev, urna, ...)" }
+      }
+    },
+    "collective_cremation": { "type": ["object", "null"], "properties": { "offered": { "type": "boolean" }, "prices": { "type": "string" } } },
+    "transport": { "type": ["object", "null"], "properties": { "summary": { "type": "string" }, "free": { "type": ["string", "null"] }, "per_km": { "type": ["number", "null"] }, "nonstop": { "type": ["boolean", "null"] } } },
+    "surcharges": { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "price": { "type": ["number", "string", "null"] } } }, "description": "Termín, víkend, chlazení, vak, ..." },
+    "services": { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "price": { "type": ["number", "string", "null"] } } }, "description": "Obřad, sledování žehu, foto/video, otisk tlapky, ..." },
+    "products": { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "price_from": { "type": ["number", "null"] }, "url": { "type": ["string", "null"] } } } },
+    "bonuses": { "type": "array", "items": { "type": "string" }, "description": "Slevy, akce, garance, zdarma služby, partnerství" },
+    "payment_options": { "type": "array", "items": { "type": "string" } },
+    "reviews": { "type": ["object", "null"], "properties": { "google_rating": { "type": ["number", "null"] }, "google_count": { "type": ["number", "null"] }, "other": { "type": ["string", "null"] } } },
+    "website_features": {
+      "type": "object",
+      "properties": {
+        "online_order": { "type": ["boolean", "null"] },
+        "price_calculator": { "type": ["boolean", "null"] },
+        "chat": { "type": ["boolean", "null"] },
+        "blog": { "type": ["boolean", "null"] },
+        "faq": { "type": ["boolean", "null"] },
+        "eshop": { "type": ["boolean", "null"] },
+        "languages": { "type": "array", "items": { "type": "string" } },
+        "other": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "notable": { "type": "array", "items": { "type": "string" }, "description": "Silné stránky / zajímavé nápady, které stojí za pozornost" },
+    "weaknesses": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": ["string", "null"] }
+  }
+}

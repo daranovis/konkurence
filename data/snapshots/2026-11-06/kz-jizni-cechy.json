@@ -1,0 +1,47 @@
+{
+  "slug": "kz-jizni-cechy",
+  "name": "Kremace zvířat Jižní Čechy",
+  "operator": null,
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kremacezviratjiznicechy.cz",
+    "https://kremacezviratjiznicechy.cz"
+  ],
+  "location": null,
+  "kraj": "Jihočeský",
+  "type": "nezjisteno",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": null,
+    "1-5": null,
+    "5-10": null,
+    "10-20": null,
+    "20-40": null,
+    "40-60": null,
+    "60+": null,
+    "raw": [],
+    "included": []
+  },
+  "collective_cremation": null,
+  "transport": null,
+  "surcharges": [],
+  "services": [],
+  "products": [],
+  "bonuses": [],
+  "payment_options": [],
+  "reviews": { "google_rating": null, "google_count": null, "other": null },
+  "website_features": {
+    "online_order": null,
+    "price_calculator": null,
+    "chat": null,
+    "blog": null,
+    "faq": null,
+    "eshop": null,
+    "languages": [],
+    "other": []
+  },
+  "notable": [],
+  "weaknesses": ["Web nefunkční – chybné přesměrování"],
+  "notes": "Web nedostupný (2026-11-06): https://www.kremacezviratjiznicechy.cz vrací HTTP 301 s hlavičkou 'Location: https:///' (prázdný host); podstránky (/cenik, /kontakt/) přesměrovávají na neplatné 'https://cenik/' apod. Varianta bez www přesměruje zpět na www. Rychlé WebSearch web nenašlo. Pravděpodobně jde o sběrné místo pražské sítě (Animal Areal na svém webu uvádí, že 'Kremace zvířat České Budějovice' je sběrnou pobočkou pražského krematoria) – neověřeno, může jít i o jiný subjekt. Doporučeno zkontrolovat znovu příště."
+}

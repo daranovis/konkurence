@@ -1,0 +1,175 @@
+{
+  "slug": "kz-jihlava",
+  "name": "Krematorium zvířat Jihlava",
+  "operator": "Pobočka/partner Krematoria zvířat Brno (oficiální partner od 2017); IČO na webu 62871404",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://krematoriumzviratjihlava.cz/",
+    "https://krematoriumzviratjihlava.cz/cenik/",
+    "https://krematoriumzviratjihlava.cz/jak-postupovat/",
+    "https://krematoriumzviratjihlava.cz/produkty/",
+    "https://krematoriumzviratjihlava.cz/kontakt/"
+  ],
+  "location": "U Rybníka 9, 586 01 Jihlava",
+  "kraj": "Vysočina",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": "2022-11-01",
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 3890,
+    "5-10": 4390,
+    "10-20": 5090,
+    "20-40": 6090,
+    "40-60": 6590,
+    "60+": 7290,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 1990
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3890
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4390
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5090
+      },
+      {
+        "label": "20–30 kg",
+        "price": 5590
+      },
+      {
+        "label": "30–40 kg",
+        "price": 6090
+      },
+      {
+        "label": "40–60 kg",
+        "price": 6590
+      },
+      {
+        "label": "nad 60 kg",
+        "price": 7290
+      }
+    ],
+    "included": [
+      "základní žeh (rakev a urna zvlášť)",
+      "transport do kremačního zařízení v Brně a zpět zdarma",
+      "rozptyl na loučce v Brně zdarma",
+      "chlazení zdarma",
+      "fotografie ze závozu zdarma"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "neuvedeno"
+  },
+  "transport": {
+    "summary": "Převoz ve speciálním vaku do pohřebního ústavu v Jihlavě 600 Kč, mimo Jihlavu 22 Kč/km; převzetí zvířete den (7–19) 700 Kč, noc (19–7) 1 200 Kč. Transport Jihlava–Brno a zpět zdarma.",
+    "free": "transport do Brna a zpět",
+    "per_km": 22,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí zvířete – den 7–19",
+      "price": 700
+    },
+    {
+      "label": "Převzetí zvířete – noc 19–7",
+      "price": 1200
+    },
+    {
+      "label": "Speciální vak",
+      "price": 300
+    },
+    {
+      "label": "Kartonová rakev dle velikosti",
+      "price": "200–600"
+    }
+  ],
+  "services": [
+    {
+      "label": "Digitální fotografie z rozloučení (se saténovou sadou a květinami)",
+      "price": 1290
+    },
+    {
+      "label": "Online sledování rozloučení a kremace (se saténovou sadou a květinami)",
+      "price": 1290
+    },
+    {
+      "label": "Doručení urny poštou",
+      "price": 350
+    },
+    {
+      "label": "Fotografie ze závozu",
+      "price": 0
+    },
+    {
+      "label": "Rozptyl na loučce v Brně",
+      "price": 0
+    },
+    {
+      "label": "Uložení v chladicím zařízení",
+      "price": 0
+    }
+  ],
+  "products": [
+    {
+      "label": "Plastová urna",
+      "price_from": 150,
+      "url": "https://krematoriumzviratjihlava.cz/cenik/"
+    },
+    {
+      "label": "Urny, diamanty, šperky, odlitky, pamětní sklo, šperky se srstí (bez cen)",
+      "price_from": null,
+      "url": "https://krematoriumzviratjihlava.cz/produkty/"
+    }
+  ],
+  "bonuses": [
+    "Kremace zdarma pro vodicí psy nevidomých bez ohledu na váhu (platí se jen rakev a urna)",
+    "Sleva 10 % pro canisterapeuty a psy z canisterapie",
+    "Platba až při převzetí urny"
+  ],
+  "payment_options": [
+    "bankovní převod (účet KB uveden)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": null
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": false,
+    "blog": false,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "formuláře ke stažení",
+      "fotogalerie"
+    ]
+  },
+  "notable": [
+    "Nonstop příjem objednávek po telefonu (Po–Ne) – i malá pobočka komunikuje nonstop dostupnost",
+    "Svoz rozdělený na převoz + převzetí den/noc – transparentní noční příplatek",
+    "Fotografie ze závozu zdarma – drobný důkaz péče, který může Memory Pet posílat klientům",
+    "Osobní příběh provozovatelů (manželé, chovatelé německých dog) – lokální důvěryhodnost"
+  ],
+  "weaknesses": [
+    "Kremace probíhá v Brně, urna zpravidla až 2. pracovní den po kremaci",
+    "Starý ceník (od 11/2022), patička 2016 – zastaralý web",
+    "Drahý svoz (převzetí 700/1 200 Kč + převoz 600 Kč nebo 22 Kč/km)",
+    "Produkty bez cen"
+  ],
+  "notes": "Web uvádí, že jde o pobočku pro Krematorium zvířat Brno; kremace v Brně. IČO 62871404 se liší od IČO Brna (03553990) – pobočku patrně provozuje jiný subjekt (na webu nepojmenován). GPS na kontaktu je shodná s Brnem-Chrlicemi (zřejmě zkopírovaná). Žádný text mířený na AI nenalezen."
+}

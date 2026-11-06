@@ -1,0 +1,102 @@
+{
+  "slug": "kz-usti",
+  "name": "Kremace zvířat Ústí nad Labem",
+  "operator": "Krematorium zvířat Praha (Šimon & Šípek s.r.o.) – web uvádí „Jsme pobočka Krematoria zvířat Praha“",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kremacezviratusti.cz",
+    "https://www.kremacezviratusti.cz/cenik",
+    "https://www.kremacezviratusti.cz/caste-dotazy"
+  ],
+  "location": "Masarykova 1688/49, 400 01 Ústí nad Labem (krajská kancelář)",
+  "kraj": "Ústecký",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2490,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 11990,
+    "raw": [
+      { "label": "0–1 kg", "price": 2490 },
+      { "label": "1–5 kg", "price": 3990 },
+      { "label": "5–10 kg", "price": 4990 },
+      { "label": "10–20 kg", "price": 5990 },
+      { "label": "20–40 kg", "price": 6990 },
+      { "label": "40–60 kg", "price": 7990 },
+      { "label": "60–80 kg", "price": 8990 },
+      { "label": "80–120 kg", "price": 11990 }
+    ],
+    "included": [
+      "ekologická rakev",
+      "převzetí v krajské kanceláři v pracovní dny 8–18 h zdarma",
+      "videozáznam začátku kremace na e-mail zdarma (do měsíce)"
+    ]
+  },
+  "collective_cremation": { "offered": false, "prices": "Neuvedena; FAQ: nekremují více zvířat najednou" },
+  "transport": {
+    "summary": "Vyzvednutí a převoz do krajské kanceláře v Ústeckém kraji 750 Kč. Dovoz urny: Ústí + 15 km a Teplice 500 Kč, zbytek Ústeckého kraje 650 Kč. FAQ: v Ústí a okolí příjezd do 30–90 min, jinde v kraji týž den. Pohotovost nonstop po telefonu.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Převzetí prac. dny 18–21 h a 6–8 h, svátky a víkend", "price": 690 },
+    { "label": "Chladicí box (jednorázově)", "price": 390 },
+    { "label": "Speciální vak na zemřelé v chladicím boxu", "price": 490 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni do 40 kg", "price": 690 },
+    { "label": "Rozloučení v obřadní síni nad 40 kg", "price": 890 },
+    { "label": "Sledování počátku kremace", "price": 490 },
+    { "label": "Sledování žehu po celou dobu", "price": 690 },
+    { "label": "Sledování počátku kremace online", "price": 490 },
+    { "label": "Sledování žehu online", "price": 690 },
+    { "label": "Otisk tlapky na památku", "price": 990 },
+    { "label": "Otisk tlapky na papír pro tetování", "price": 790 },
+    { "label": "Fotografie v obřadní síni na USB", "price": 750 },
+    { "label": "Videozáznam začátku kremace na e-mail", "price": 0 },
+    { "label": "Videozáznam začátku kremace na USB", "price": 450 },
+    { "label": "Zaslání pamětních předmětů domů", "price": 390 },
+    { "label": "Rozloučení v kanceláři (naposledy pohladit)", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urnička se samolepicím štítkem", "price_from": 150, "url": "https://www.kremacezviratusti.cz/cenik" },
+    { "label": "Urny, dřevěné rakve z topolu, šperky, pamětní sklo, květiny (katalog bez cen)", "price_from": null, "url": "https://www.kremacezviratusti.cz/produkty" }
+  ],
+  "bonuses": [
+    "Program Garance (unikátní kód, kamera v peci, záznam zdarma e-mailem)",
+    "„Žádné další skryté poplatky“"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem na účet (i předem po domluvě)"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Web zobrazuje 2–3 textové reference, odkazy na Google a Seznam bez čísla."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": null,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["Šablona webu identická s centrálou"]
+  },
+  "notable": [
+    "Lokální doména + kancelář v centru Ústí; marketingově tvrdí „první a jediná zvířecí pohřební služba v Ústí nad Labem a okolí“",
+    "Paušál za převoz v rámci kraje (750 Kč) a levný dovoz urny včetně Teplic (500 Kč) – jednoduché a srozumitelné",
+    "Lokální SEO: výčet měst (Teplice, Chomutov, Most, Litoměřice, Děčín)"
+  ],
+  "weaknesses": [
+    "Pouze kancelář, kremace/obřadní síň v Praze – rozloučení u žehu znamená cestu do Prahy",
+    "Velmi krátká otevírací doba (většinou 8–12 h, Čt do 17 h)",
+    "Neuvedena doprava mimo Ústecký kraj ani lhůta vrácení popela"
+  ],
+  "notes": "Ceník kremace identický s Prahou i Libercem. Na rozdíl od Liberce chybí položka „doprava mimo kraj“. Tel. +420 735 177 120. Text mířený na AI nenalezen."
+}

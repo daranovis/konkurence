@@ -1,0 +1,121 @@
+{
+  "slug": "fatima",
+  "name": "FATIMA Kremace zvířat",
+  "operator": "Kremace zvířat Fatima s. r. o., IČO 23391090 (jednatelka Barbora Nováková); kremace v partnerském Krematoriu zvířat v Praze nebo v Ostravě",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kremacezviratfatima.cz",
+    "https://www.kremacezviratfatima.cz/cenik",
+    "https://www.kremacezviratfatima.cz/kontakty",
+    "https://www.kremacezviratfatima.cz/faq",
+    "https://www.kremacezviratfatima.cz/pruvodce-kremaci",
+    "https://www.kremacezviratfatima.cz/pamatecni-predmety",
+    "https://kremacezviratfatima.cz/urny/"
+  ],
+  "location": "Kancelář: Dukelská třída 1/1, 500 02 Hradec Králové; sídlo společnosti: Ořechová 293, 533 52 Staré Hradiště",
+  "kraj": "Královéhradecký / Pardubický",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": "2026-10-03",
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 2490,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 8990,
+    "raw": [
+      { "label": "0–1 kg", "price": 2490 },
+      { "label": "1–5 kg", "price": 3990 },
+      { "label": "5–10 kg", "price": 4990 },
+      { "label": "10–20 kg", "price": 5990 },
+      { "label": "20–40 kg", "price": 6990 },
+      { "label": "40–60 kg", "price": 7990 },
+      { "label": "60–80 kg", "price": 8990 },
+      { "label": "80–120 kg", "price": 11990 }
+    ],
+    "included": [
+      "samotný žeh (cena NEzahrnuje chlazení, kremační vak ani základní urnu)",
+      "videozáznam začátku kremace na e-mail zdarma",
+      "kremační kámen s unikátním kódem a certifikát"
+    ]
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Vyzvednutí doma: km × 2 × 22 Kč + 790 Kč, min. 1 090 Kč. Dovoz urny na adresu: km × 2 × 22 Kč, min. 490 Kč. Z veterinárních klinik podle zón A–E (0–80 km): vyzvednutí 1 090 / 1 230 / 1 890 / 2 550 / 3 650 Kč, dovoz urny 490 / 650 / 1 100 / 1 760 / 2 860 Kč. Doručení urny kurýrem PPL/Zásilkovna 250–300 Kč. Ceny dopravy se mohou měnit dle cen PHM.",
+    "free": "Převzetí zvířete a vyzvednutí urny na provozovně (v pracovní dny)",
+    "per_km": 22,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Kremační vak", "price": 440 },
+    { "label": "Chlazení těla (až 7 dnů / do termínu kremace)", "price": 590 },
+    { "label": "Pohotovostní příplatek (pracovní volno a mimo pracovní dobu)", "price": 1500 },
+    { "label": "Vyzvednutí urny na provozovně mimo pracovní dny a svátky", "price": 850 },
+    { "label": "Storno – vrácení zvířete/zrušení objednávky", "price": "30 % ceny kremace + poskytnuté služby" }
+  ],
+  "services": [
+    { "label": "Videozáznam ze začátku kremace na e-mail", "price": 0 },
+    { "label": "Videozáznam ze začátku kremace na USB", "price": 620 },
+    { "label": "Gravírování USB disku", "price": 550 },
+    { "label": "Výstelka do rakve", "price": "od 390" },
+    { "label": "Řezaná grafika – jméno na urnu", "price": 599 },
+    { "label": "Řezaná grafika – jméno a data na urnu", "price": 799 },
+    { "label": "Otisk tlapky (inkoust vhodný pro tetování)", "price": 490 },
+    { "label": "Gravírování tlapky na urnu", "price": 889 },
+    { "label": "Gravírování textu na urny", "price": "od 1320" },
+    { "label": "Rozloučení v obřadní síni do 40 kg", "price": 690 },
+    { "label": "Rozloučení v obřadní síni nad 40 kg", "price": 890 },
+    { "label": "Sledování počátku kremace (závoz do pece)", "price": 490 },
+    { "label": "Sledování počátku kremace online", "price": 490 },
+    { "label": "Sledování žehu po celou dobu", "price": 690 },
+    { "label": "Sledování žehu online po celou dobu", "price": 690 },
+    { "label": "Fotografie zvířete v obřadní síni na USB", "price": 750 },
+    { "label": "Eutanazie v domácím prostředí (smluvní veterináři)", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urna bílá", "price_from": 150, "url": "https://kremacezviratfatima.cz/urny/" },
+    { "label": "Základní plastová urna černá", "price_from": 250, "url": "https://kremacezviratfatima.cz/urny/" },
+    { "label": "Urny (dřevěné, kamenné, bio, porcelánové, kovové, skleněné…; ceny neuvedeny)", "price_from": null, "url": "https://kremacezviratfatima.cz/urny/" },
+    { "label": "Šperky", "price_from": null, "url": "https://kremacezviratfatima.cz/sperky/" },
+    { "label": "Rakve", "price_from": null, "url": "https://kremacezviratfatima.cz/rakve/" },
+    { "label": "Památeční sklo", "price_from": null, "url": "https://kremacezviratfatima.cz/pamatecni-sklo/" },
+    { "label": "Kresby", "price_from": null, "url": "https://kremacezviratfatima.cz/kresby/" },
+    { "label": "Náhrobky", "price_from": null, "url": "https://kremacezviratfatima.cz/nahrobky/" }
+  ],
+  "bonuses": [
+    "Sleva 10 % na žeh: držitelé ZTP, zvířata z útulku, asistenční, služební a lovečtí psi (slevy se nesčítají)",
+    "Videozáznam začátku kremace zdarma",
+    "Kremační kámen s unikátním kódem uložený v urně + certifikát",
+    "Možnost použít památku koupenou jinde",
+    "Nabídka >5 000 památečních předmětů"
+  ],
+  "payment_options": ["hotově", "kartou", "bankovním převodem"],
+  "reviews": { "google_rating": null, "google_count": null, "other": "Firmy.cz (dle WebSearch): 5,0, počet hodnocení nekonzistentní (20 vs. 29)" },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": null,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["Průvodce kremací krok za krokem", "Online dotazník pro kremaci (přístup přes kód z kremačního kamene)", "PDF seznam veterinárních klinik dle zón", "stránka Eutanazie"]
+  },
+  "notable": [
+    "Zónový ceník svozu z veterinárních klinik (A–E se jmenovitým seznamem klinik a PDF) – transparentní model, který může Memory Pet převzít pro veterinární partnery",
+    "Sociální sleva 10 % (ZTP, útulková, asistenční, služební a lovecká zvířata)",
+    "Kremační kámen s kódem, který zůstává v urně, + online dotazník přístupný přes kód",
+    "Personalizace urny jako služba s cenou a termínem (jméno 599 Kč, jméno+data 799 Kč, gravír tlapky 889 Kč, do 10 dní)",
+    "Doručení urny kurýrem PPL/Zásilkovna 250–300 Kč jako levná alternativa k dovozu"
+  ],
+  "weaknesses": [
+    "Vlastní pec nemá – kremace týdně ve všední dny v partnerském KZ Praha nebo Ostrava; urna obvykle do 10 dní",
+    "Cena žehu nezahrnuje vak (440 Kč), chlazení (590 Kč) ani urnu (150 Kč) – reálná cena vyšší než u KZ sítě",
+    "Drahý svoz (min. 1 090 Kč, zóna E 3 650 Kč) a pohotovostní příplatek 1 500 Kč",
+    "Storno 30 % ceny kremace",
+    "DPH na ceníku neuvedeno"
+  ],
+  "notes": "URL z competitors.yaml (kremacezviratfatima.com) nefunguje – DNS ENOTFOUND (s i bez www); web běží na kremacezviratfatima.cz. 'Staré Hradiště' je jen sídlo společnosti (Ořechová 293), nikoli provozovna – web uvádí jedinou kancelář v Hradci Králové. Nenalezen žádný text mířený na AI. Ceník platný k 3. 10. 2026. Kategorie 60+ = cena 60–80 kg (8 990), 80–120 kg 11 990 Kč v raw."
+}

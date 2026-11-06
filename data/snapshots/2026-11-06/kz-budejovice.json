@@ -1,0 +1,101 @@
+{
+  "slug": "kz-budejovice",
+  "name": "Kremace zvířat České Budějovice",
+  "operator": "Krematorium zvířat Praha (pobočka; právnická osoba na webu neuvedena)",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kremacezviratbudejovice.cz",
+    "https://www.kremacezviratbudejovice.cz/cenik",
+    "https://www.kremacezviratbudejovice.cz/sluzby",
+    "https://www.kremacezviratbudejovice.cz/caste-dotazy"
+  ],
+  "location": "Pražská třída 99, 370 04 České Budějovice",
+  "kraj": "Jihočeský",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 2990,
+    "5-10": 3990,
+    "10-20": 4990,
+    "20-40": 5990,
+    "40-60": 6990,
+    "60+": 7990,
+    "raw": [
+      { "label": "0–1 kg", "price": 1990 },
+      { "label": "1–5 kg", "price": 2990 },
+      { "label": "5–10 kg", "price": 3990 },
+      { "label": "10–20 kg", "price": 4990 },
+      { "label": "20–40 kg", "price": 5990 },
+      { "label": "40–60 kg", "price": 6990 },
+      { "label": "60–80 kg", "price": 7990 },
+      { "label": "80–120 kg", "price": 11990 }
+    ],
+    "included": [
+      "ekologická papírová rakev",
+      "vyjmutí z vaku a očištění před kremací",
+      "kamerový záznam každé kremace",
+      "videozáznam začátku kremace na e-mail zdarma"
+    ]
+  },
+  "collective_cremation": { "offered": false, "prices": "Hromadnou kremaci neprovozují (FAQ)" },
+  "transport": {
+    "summary": "Vyzvednutí a převoz do krajské kanceláře (ČB a Jihočeský kraj) 750 Kč. Dovoz urny do 15 km od ČB 500 Kč, dál v kraji 650 Kč. Zaslání pamětních předmětů 390 Kč. V ČB a okolí příjezd do 30–90 minut, jinde v kraji v den telefonátu.",
+    "free": "Převzetí v krajské kanceláři v pracovní dny 8–18 h",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Jednorázový poplatek za uložení v chladicím boxu", "price": 390 },
+    { "label": "Speciální vak na zemřelé (uložení v chladicím boxu)", "price": 490 },
+    { "label": "Převzetí mimo pracovní dobu (18–21, 6–8 h, víkendy, svátky)", "price": 690 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni do 40 kg", "price": 690 },
+    { "label": "Rozloučení v obřadní síni nad 40 kg", "price": 890 },
+    { "label": "Sledování začátku kremace (závoz do pece)", "price": 490 },
+    { "label": "Sledování žehu po celou dobu", "price": 690 },
+    { "label": "Online sledování začátku kremace", "price": 490 },
+    { "label": "Online sledování žehu po celou dobu", "price": 690 },
+    { "label": "Videozáznam začátku kremace e-mailem", "price": 0 },
+    { "label": "Videozáznam začátku kremace na USB", "price": 450 },
+    { "label": "Otisk tlapky na památku", "price": 990 },
+    { "label": "Otisk tlapky na papír pro tetování", "price": 790 },
+    { "label": "Fotografie zvířete v obřadní síni na USB", "price": 750 },
+    { "label": "Uspání doma (smluvený veterinář)", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urnička se samolepicím štítkem", "price_from": 150, "url": "https://www.kremacezviratbudejovice.cz/cenik" },
+    { "label": "Urny, šperky, pamětní sklo, dřevěné rakve (katalog, ceny neuvedeny)", "price_from": null, "url": "https://www.kremacezviratbudejovice.cz/produkty" }
+  ],
+  "bonuses": [
+    "Systém Garance: unikátní kód zvířete + kamera snímající pec",
+    "Videozáznam začátku kremace e-mailem zdarma",
+    "Základní ekologická rakev zdarma",
+    "Deklarováno: žádné skryté poplatky"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem (předem po domluvě)"],
+  "reviews": { "google_rating": null, "google_count": null, "other": "Na webu 2 reference; odkazy na Google a Mapy.com recenze bez čísel" },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": false,
+    "chat": null,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs"],
+    "other": ["online sledování žehu", "galerie", "reference", "stránka Garance"]
+  },
+  "notable": [
+    "Nejnižší ceny v síti KZ Praha: o 1 000 Kč levnější než Plzeň/Ostrava ve všech kategoriích do 80 kg (1–5 kg 2 990 Kč) – zřejmě regionální cenová strategie",
+    "Jednotný svoz 750 Kč po celém Jihočeském kraji (jednoduchá komunikace ceny)",
+    "Garance + video zdarma jako standard, slib příjezdu 30–90 min"
+  ],
+  "weaknesses": [
+    "Není zřejmé, zda se kremuje v ČB, nebo v Praze (FAQ odkazuje na 'naše pražské krematorium')",
+    "Kancelář většinou otevřená jen 8–12 h",
+    "Ceny uren a šperků na webu chybí"
+  ],
+  "notes": "Šablona sítě Krematorium zvířat Praha. Nenalezen žádný text mířený na AI. Ceník bez data platnosti. Kategorie 60+ = cena 60–80 kg (7 990), 80–120 kg 11 990 Kč v raw. Stránku /produkty jsem nečetl samostatně (struktura stejná jako Plzeň)."
+}

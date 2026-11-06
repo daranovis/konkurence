@@ -1,0 +1,203 @@
+{
+  "slug": "anyt",
+  "name": "ANYT Krematorium zvířat Olomouc",
+  "operator": "ANYT CREMATORY s.r.o.",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.anyt.cz/",
+    "https://www.anyt.cz/cenik/",
+    "https://www.anyt.cz/sluzby/",
+    "https://www.anyt.cz/o-nas/",
+    "https://www.anyt.cz/jak-to-funguje/",
+    "https://www.anyt.cz/produkty/",
+    "https://www.anyt.cz/produkty/mosazne-urny/",
+    "https://www.anyt.cz/reference/"
+  ],
+  "location": "Libušina 342/97, 779 00 Olomouc-Chválkovice",
+  "kraj": "Olomoucký",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": "2026-11-04",
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1900,
+    "1-5": 3790,
+    "5-10": 4590,
+    "10-20": 5390,
+    "20-40": 6390,
+    "40-60": 7590,
+    "60+": null,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 1900
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3790
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4590
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5390
+      },
+      {
+        "label": "20–30 kg",
+        "price": 5990
+      },
+      {
+        "label": "30–40 kg",
+        "price": 6390
+      },
+      {
+        "label": "40–50 kg",
+        "price": 7290
+      },
+      {
+        "label": "50–60 kg",
+        "price": 7590
+      }
+    ],
+    "included": [
+      "kartonová rakev/box",
+      "základní plastová urna",
+      "číslovaná nerezová identifikační známka",
+      "uložení urny do vyzvednutí zdarma"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "neuvedeno"
+  },
+  "transport": {
+    "summary": "Svoz z Olomouce (Libušina 97): do 15 km 690 Kč, nad 15 km 17 Kč/km; v ceně čekání, nakládka/vykládka a dezinfekce. Oblast Střední a Severní Morava a Slezsko. Objednávka telefonem + e-mail, předem zasílají cenovou kalkulaci k potvrzení.",
+    "free": null,
+    "per_km": 17,
+    "nonstop": false
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí zvířete nebo výdej urny mimo provozní dobu (Po–Pá 8–16:30)",
+      "price": 850
+    },
+    {
+      "label": "Vlastní výběr kremačního dne (jen Po–Pá)",
+      "price": 1900
+    },
+    {
+      "label": "Speciální veterinární přepravní vak",
+      "price": 400
+    },
+    {
+      "label": "Chladicí box (jednorázově)",
+      "price": 320
+    },
+    {
+      "label": "Saténová výstelka malá/střední/velká",
+      "price": "270/370/470"
+    }
+  ],
+  "services": [
+    {
+      "label": "Poslední rozloučení v rozlučkové místnosti v den příjmu",
+      "price": 300
+    },
+    {
+      "label": "Nápis na urnu z vinylové fólie (jméno, data)",
+      "price": 190
+    },
+    {
+      "label": "Doručení urny kurýrem (PPL)",
+      "price": 350
+    },
+    {
+      "label": "Kartonový box pro tělo",
+      "price": 0
+    },
+    {
+      "label": "Syntetický diamant z popela nebo srsti",
+      "price": null
+    },
+    {
+      "label": "Zatavení popela do skla",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Památeční sklo Memory Crystal",
+      "price_from": null,
+      "url": "https://www.anyt.cz/produkty/pamatecni-sklo-memory-crystal/"
+    },
+    {
+      "label": "Mosazné urny (cca 16 variant dle váhy)",
+      "price_from": null,
+      "url": "https://www.anyt.cz/produkty/mosazne-urny/"
+    },
+    {
+      "label": "Šperky na popel (nerez)",
+      "price_from": null,
+      "url": "https://www.anyt.cz/produkty/sperky-na-popel/"
+    },
+    {
+      "label": "Skleněné miniurny Glasstar",
+      "price_from": null,
+      "url": "https://www.anyt.cz/produkty/sklenene-miniurny-glasstar/"
+    },
+    {
+      "label": "Hliníkové urny",
+      "price_from": null,
+      "url": "https://www.anyt.cz/produkty/hlinikove-urny/"
+    }
+  ],
+  "bonuses": [
+    "Rakev (kartonový box) a plastová urna v ceně kremace",
+    "Uložení urny v krematoriu do vyzvednutí bez poplatku",
+    "Cenová kalkulace svozu předem e-mailem"
+  ],
+  "payment_options": [
+    "platební karta (ceník: platba pouze kartou)",
+    "hotovost, převod, dobírka (dle stránky Jak to funguje)"
+  ],
+  "reviews": {
+    "google_rating": 5.0,
+    "google_count": 125,
+    "other": "Google widget na anyt.cz/reference: 5,0 z 125 recenzí; dále 26 textových referencí"
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": false,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "Google recenze widget",
+      "dokumenty ke stažení",
+      "katalog produktů bez cen",
+      "sekce Jak to funguje s praktickými radami"
+    ]
+  },
+  "notable": [
+    "Placená volba konkrétního dne kremace (1 900 Kč) – Memory Pet může nabídnout garantovaný termín jako příplatkovou službu",
+    "Číslovaná nerezová identifikační známka pro každé zvíře – viditelná záruka správného popela",
+    "Google widget 5,0 / 125 recenzí na webu – sociální důkaz",
+    "Upozornění, že ne každý poskytovatel v Olomouci kremuje v Olomouci – komunikace vlastní pece proti zprostředkovatelům",
+    "Personalizace urny vinylovým nápisem za 190 Kč – levný upsell",
+    "Praktické rady k převozu těla (deka, savé podložky, ne igelit)"
+  ],
+  "weaknesses": [
+    "Není nonstop; příjem jen Po–Pá 8–16:30, jinak +850 Kč",
+    "Svoz není zdarma ani v Olomouci (do 15 km 690 Kč)",
+    "Produkty bez cen",
+    "Ceník končí kategorií 50–60 kg, nad 60 kg neuvedeno",
+    "Rozpor v platbách (ceník: jen kartou vs. Jak to funguje: hotovost/karta/převod/dobírka)",
+    "Na hlavní stránce statistiky 0+ (rozbitý widget počítadel)"
+  ],
+  "notes": "Ceník platný od 4. 11. 2026 – změněn 2 dny před sběrem, při dalším sběru porovnat. Kategorie 60+ kg v ceníku chybí (null). Normalizace: 20–40 = cena 30–40 kg, 40–60 = cena 50–60 kg. Žádný text mířený na AI nenalezen."
+}
