@@ -27,3 +27,5 @@ Podrobné odůvodnění je v [reports/initial-analysis.md](reports/initial-analy
 | 19 | Online sledování žehu (placené) | služba | střední | střední | navrženo | 2026-11-06 |
 | 20 | Zveřejnit odloženou platbu / 3 splátky i pro krematorium | cena | nízká | střední | navrženo | 2026-11-06 |
 | 21 | Německá verze webu; eutanazie doma s partnerským veterinářem | rozšíření | vysoká | nízký | navrženo | 2026-11-06 |
+| 22 | Reagovat na cenu KZ Karlovy Vary (1–5 kg 1 990 Kč): regionální akce/cena pro Karlovarský kraj nebo zvýraznit MPP Plzeň | cena | nízká | střední | navrženo | 2026-11-06 |
+| 23 | Oslovit odchytovou službu Petr Prokeš (K. Vary) jako partnera pro svoz v Karlovarském kraji | partnerství | nízká | nízký | navrženo | 2026-11-06 |

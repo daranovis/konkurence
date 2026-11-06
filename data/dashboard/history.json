@@ -1,0 +1,1234 @@
+[
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 2000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "akrematorium",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 8000
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1900
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 2990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "animal-areal",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1900
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3790
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4590
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5390
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6390
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "anyt",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7590
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "fatima",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 8990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "goodbye",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 8990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kerberos",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 8990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 2990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 3490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 4490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 5490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 6490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kremace-mazlicku",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 7290
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 2930
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 4690
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 5240
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 6290
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 7340
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 8390
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-brno",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 9440
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 2990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-budejovice",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3890
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4390
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5090
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6090
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 6590
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-jihlava",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 7290
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-liberec",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 11990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 2190
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-olomouc",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 8490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-ostrava",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 8990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-plzen",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 8990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-praha",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 11990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-usti",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 11990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 2990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 4990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-vary",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "0-1",
+  "price": 1890
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "5-10",
+  "price": 4850
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "10-20",
+  "price": 5350
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "20-40",
+  "price": 6750
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "40-60",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "kz-zlin",
+  "is_own": false,
+  "in_region": false,
+  "category": "60+",
+  "price": 8490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2100
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "5-10",
+  "price": 4300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypet",
+  "is_own": true,
+  "in_region": true,
+  "category": "60+",
+  "price": 8300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "0-1",
+  "price": 1990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "5-10",
+  "price": 3990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "10-20",
+  "price": 5990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "20-40",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "memorypetpoint",
+  "is_own": true,
+  "in_region": true,
+  "category": "40-60",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 1490
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 3690
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 3690
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 4690
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 5690
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 6990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "pet-heaven",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 7990
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vecna-loviste",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 4500
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vecna-loviste",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 4500
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "0-1",
+  "price": 2800
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "1-5",
+  "price": 2800
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "5-10",
+  "price": 3800
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "10-20",
+  "price": 4900
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "20-40",
+  "price": 5900
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "40-60",
+  "price": 7300
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "vitem",
+  "is_own": false,
+  "in_region": true,
+  "category": "60+",
+  "price": 8300
+ }
+]

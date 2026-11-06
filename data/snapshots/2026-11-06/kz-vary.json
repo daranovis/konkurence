@@ -1,0 +1,129 @@
+{
+  "slug": "kz-vary",
+  "name": "Kremace zvířat Karlovy Vary",
+  "operator": "Šimon & Šípek s.r.o., IČ 28908601 (Krematorium zvířat Praha) – web uvádí „Jsme pobočka Krematoria zvířat Praha“",
+  "checked_at": "2026-11-06",
+  "sources": [
+    "https://www.kremacezviratvary.cz",
+    "https://www.kremacezviratvary.cz/cenik",
+    "https://www.kremacezviratvary.cz/o-nas",
+    "https://www.kremacezviratvary.cz/sluzby",
+    "https://www.kremacezviratvary.cz/garance",
+    "https://www.kremacezviratvary.cz/produkty",
+    "https://www.kremacezviratvary.cz/caste-dotazy",
+    "https://www.kremacezviratvary.cz/kontakt",
+    "https://www.kremacezviratvary.cz/reference",
+    "https://www.kremacezviratvary.cz/de/preisliste"
+  ],
+  "page_hashes": {
+    "https://www.kremacezviratvary.cz/cenik": "e4ff22252238473ba3cbcb3e3536696aaee831ba10184ecb092cc387f85ba112",
+    "https://www.kremacezviratvary.cz/o-nas": "54e2363de84cad2475ee10a2da67cac21a264db31e38883e80b89846769b175a",
+    "https://www.kremacezviratvary.cz/kontakt": "f0a0649c407334ed3d2b6ed411d27eccc432c0de68e138c1002d675f6c0ab0d5",
+    "https://www.kremacezviratvary.cz/de/preisliste": "5779842c9bfd2e9b7bbf9a458157c86845626174ddb1c576a3b496faa1959f02"
+  },
+  "location": "17. listopadu 408/5, 360 05 Karlovy Vary (krajská kancelář s chladicím boxem; kremace v Praze-Běchovicích)",
+  "kraj": "Karlovarský",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1490,
+    "1-5": 1990,
+    "5-10": 2990,
+    "10-20": 3990,
+    "20-40": 4990,
+    "40-60": 5990,
+    "60+": 6990,
+    "raw": [
+      { "label": "0–1 kg", "price": 1490 },
+      { "label": "1–5 kg", "price": 1990 },
+      { "label": "5–10 kg", "price": 2990 },
+      { "label": "10–20 kg", "price": 3990 },
+      { "label": "20–40 kg", "price": 4990 },
+      { "label": "40–60 kg", "price": 5990 },
+      { "label": "60–80 kg", "price": 6990 },
+      { "label": "80–120 kg", "price": 9990 }
+    ],
+    "included": [
+      "ekologická papírová rakev",
+      "vyjmutí z vaku a očištění před kremací",
+      "kamerový záznam každé kremace (Garance)",
+      "převzetí v krajské kanceláři v pracovní dny 8–18 h zdarma",
+      "videozáznam začátku kremace na e-mail zdarma (do měsíce)"
+    ]
+  },
+  "collective_cremation": { "offered": false, "prices": "Neuvedena; pouze individuální kremace (FAQ: zvíře je v peci vždy samo)" },
+  "transport": {
+    "summary": "Vyzvednutí (doma/u veterináře) a převoz do krajské kanceláře v Karlovarském kraji 750 Kč. Dovoz urny domů v Karlovarském kraji 500 Kč. Zaslání pamětních předmětů 390 Kč. Doprava mimo Karlovarský kraj neuvedena. FAQ: v Karlových Varech a okolí příjezd do 30–90 min, jinde v kraji v den zavolání. Pohotovost 24/7 po telefonu; /kontakt: příjem každý den vč. víkendů a svátků 6–21 h. Zvíře se z KV odváží ke kremaci do Krematoria zvířat Praha, urna se vyzvedává v KV.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    { "label": "Převzetí v pracovní dny 18–21 h a 6–8 h, o víkendu a svátcích", "price": 690 },
+    { "label": "Chladicí box (jednorázově)", "price": 390 },
+    { "label": "Speciální vak na zemřelé v chladicím boxu", "price": 490 }
+  ],
+  "services": [
+    { "label": "Rozloučení v obřadní síni (v Praze) do 40 kg", "price": 690 },
+    { "label": "Rozloučení v obřadní síni (v Praze) nad 40 kg", "price": 890 },
+    { "label": "Sledování začátku kremace", "price": 490 },
+    { "label": "Sledování žehu po celou dobu", "price": 690 },
+    { "label": "Online sledování začátku kremace", "price": 490 },
+    { "label": "Online sledování žehu", "price": 690 },
+    { "label": "Otisk tlapky na památku", "price": 990 },
+    { "label": "Otisk tlapky na papír pro tetování", "price": 790 },
+    { "label": "Fotografie v obřadní síni na USB", "price": 750 },
+    { "label": "Videozáznam začátku kremace na e-mail", "price": 0 },
+    { "label": "Videozáznam začátku kremace na USB", "price": 450 },
+    { "label": "Zaslání pamětních předmětů domů", "price": 390 },
+    { "label": "Rozloučení v kanceláři v KV (naposledy pohladit)", "price": null },
+    { "label": "Uspání doma smluvním veterinářem", "price": null }
+  ],
+  "products": [
+    { "label": "Základní plastová urnička se samolepicím štítkem", "price_from": 150, "url": "https://www.kremacezviratvary.cz/cenik" },
+    { "label": "Urny (dovoz z Německa, keramické se Swarovski, dřevo, kov, ekologické), šperky na popel, pamětní sklo, památeční diamanty, dřevěné rakve, kresba mazlíčka, náhrobky, květiny (katalog bez cen v ceníku)", "price_from": null, "url": "https://www.kremacezviratvary.cz/produkty" }
+  ],
+  "bonuses": [
+    "Program Garance (kód + kremační kámen, kamera v peci, záznam zdarma na e-mail)",
+    "„Žádné další skryté poplatky“",
+    "Člen Asociace zvířecího pohřebnictví a Sdružení pohřebnictví ČR",
+    "Hlavní partner: Pohřební ústav pro malá zvířata Pet-pieta; partner ČAVLMZ a VET NURSE ACADEMY"
+  ],
+  "payment_options": ["hotově", "kartou", "převodem na účet (předem po domluvě)"],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Web /reference: 6 textových referencí (všechny Karlovy Vary, tlačítko Načíst další), opakovaně chválí jmenovitě místní pracovnici; odkazy na Google a Seznam bez čísla."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": true,
+    "chat": null,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": ["cs", "de", "ru"],
+    "other": [
+      "Šablona webu identická s centrálou KZ Praha (Garance, Produkty, Objednávka, Reference, Galerie)",
+      "Objednávkový systém s výpočtem ceny („Spočítat cenu a objednat“)",
+      "Německá (/de) a ruská (/ru) jazyková verze vč. ceníku",
+      "Kontaktní formulář a formulář pro zaslání reference s hodnocením",
+      "Přehled všech poboček sítě"
+    ]
+  },
+  "notable": [
+    "Nejlevnější ceník v síti KZ a jeden z nejlevnějších v ČR: 1–5 kg 1 990 Kč, 10–20 kg 3 990 Kč (Liberec/Praha 3 990 / 5 990, MP 3 300 / 5 300, Pet Heaven Chodov 3 690 / 4 690). Síť zjevně cenově útočí v Karlovarském kraji (spádová oblast MP) – MP by měla pro Karlovarsko zvážit regionální cenu/akci, nebo jasně komunikovat přidanou hodnotu (vlastní obřadní síň, nonstop svoz, Memory Pet Point Plzeň).",
+    "Paušál za svoz v celém kraji 750 Kč a dovoz urny 500 Kč – u MP spadají okresy Karlovy Vary, Sokolov a Cheb do „ostatní okresy 12 Kč/km“; zvážit pevnou zónovou cenu pro Karlovarský kraj, aby byla celková cena srovnatelná.",
+    "Německá a ruská verze webu (vč. ceníku) – v KV kraji (lázně, cizinci, příhraničí) dává smysl; inspirace pro MP: DE/RU (případně EN) landing page pro Karlovarsko.",
+    "Personifikovaný lokální kontakt („Jsem tu pro Vás v Karlovarském kraji“) – reference chválí konkrétní pracovnici jménem; MP může u regionů a Memory Pet Pointů uvádět konkrétní osobu s fotkou.",
+    "Příjem zvířat každý den 6–21 h a pohotovost 24/7 i bez stálé obsluhy kanceláře – levný model regionální přítomnosti (kancelář + chladicí box), podobný Memory Pet Point."
+  ],
+  "weaknesses": [
+    "V Karlových Varech jen kancelář s chladicím boxem; kremace, obřadní síň a sledování žehu oknem probíhají v Praze-Běchovicích – rozloučení vyžaduje cestu do Prahy, popel se vrací přes KV kancelář.",
+    "Krátká otevírací doba kanceláře (Po, St–Pá 8–12, Út 8–17); rozpory: ceník „převzetí zdarma 8–18 h“, FAQ „Po–Pá 6–21“, kontakt „každý den 6–21“.",
+    "Neuvedena cena svozu mimo Karlovarský kraj ani lhůta vrácení popela; ceny uren jen v katalogu, ne vše skladem.",
+    "Německý ceník nesouhlasí s českým (příplatek mimo pracovní dobu 590 Kč vs. 690 Kč; navíc noční převzetí 22–6 h 1 500 Kč, které v CZ verzi chybí)."
+  ],
+  "notes": "Ceny NEJSOU stejné jako u ostatních poboček sítě: KV 1–5 kg 1 990 Kč a 10–20 kg 3 990 Kč vs. Liberec 3 990 / 5 990 Kč – ve všech kategoriích od 1 kg o 2 000 Kč levnější, 0–1 kg o 1 000 Kč (1 490 vs 2 490). Poplatky (převzetí 690, box 390, vak 490, svoz v kraji 750, urna 500) a služby jsou stejné jako v Liberci. Ověřeno v surovém HTML CZ i DE ceníku. Místo kremace: /o-nas „…uložíme ho do chladicího boxu a poté ho odvezeme do Krematoria zvířat Praha, kde proběhne následná kremace“; obřadní síň a okno pro sledování žehu jsou v pražském krematoriu (FAQ). Provozovatel uveden na /kontakt (Šimon & Šípek s.r.o., IČ 28908601). Kategorie 60+ = cena 60–80 kg (80–120 kg 9 990 Kč v raw), stejně jako většina snapshotů. Tel. +420 733 125 120, info@KremaceZviratVary.cz. Text mířený na AI nenalezen."
+}

@@ -18,41 +18,77 @@ baseline:
 
 competitors:
   # --- Síť Krematorium zvířat Praha (Běchovice) ---
-  - { slug: kz-praha, name: Krematorium zvířat Praha, url: https://www.krematoriumzviratpraha.cz, kraj: Praha, type: vlastni_krematorium, operator: Krematorium zvířat Praha, priority: high, pages: [https://www.krematoriumzviratpraha.cz/cenik, https://www.krematoriumzviratpraha.cz/sluzby, https://www.krematoriumzviratpraha.cz/produkty, https://www.krematoriumzviratpraha.cz/garance, https://www.krematoriumzviratpraha.cz/kontakt] }
-  - { slug: kz-liberec, name: Kremace zvířat Liberec, url: https://www.kremacezviratliberec.cz, kraj: Liberecký, type: pobocka, operator: Krematorium zvířat Praha, priority: high, pages: [https://www.kremacezviratliberec.cz/cenik, https://www.kremacezviratliberec.cz/sluzby] }
-  - { slug: kz-usti, name: Kremace zvířat Ústí nad Labem, url: https://www.kremacezviratusti.cz, kraj: Ústecký, type: pobocka, operator: Krematorium zvířat Praha, priority: high, pages: [https://www.kremacezviratusti.cz/cenik, https://www.kremacezviratusti.cz/caste-dotazy] }
-  - { slug: kz-plzen, name: Kremace zvířat Plzeň, url: https://www.kremacezviratplzen.cz, kraj: Plzeňský, type: pobocka, operator: Krematorium zvířat Praha, priority: medium, pages: [https://www.kremacezviratplzen.cz/cenik, https://www.kremacezviratplzen.cz/sluzby, https://www.kremacezviratplzen.cz/produkty, https://www.kremacezviratplzen.cz/caste-dotazy] }
-  - { slug: kz-budejovice, name: Kremace zvířat Budějovice, url: https://www.kremacezviratbudejovice.cz, kraj: Jihočeský, type: pobocka, operator: Krematorium zvířat Praha, priority: low, pages: [https://www.kremacezviratbudejovice.cz/cenik, https://www.kremacezviratbudejovice.cz/sluzby, https://www.kremacezviratbudejovice.cz/caste-dotazy] }
-  - { slug: kz-ostrava, name: Krematorium zvířat Ostrava, url: https://www.krematoriumzviratostrava.cz, kraj: Moravskoslezský, type: vlastni_krematorium, operator: Krematorium zvířat Praha (vlastní pec), priority: low, pages: [https://www.krematoriumzviratostrava.cz/cenik, https://www.krematoriumzviratostrava.cz/sluzby, https://www.krematoriumzviratostrava.cz/caste-dotazy] }
-  - { slug: pet-pieta, name: Pohřební ústav PET-PIETA, url: https://www.pietnisluzby.cz, kraj: Praha, type: zprostredkovatel, operator: Krematorium zvířat Praha, priority: medium, status: web v rekonstrukci 2026-11-06, pages: [https://www.pietnisluzby.cz] }
-  - { slug: fatima, name: Kremace zvířat Fatima, url: https://www.kremacezviratfatima.cz, kraj: Královéhradecký, type: zprostredkovatel, operator: Krematorium zvířat Praha, priority: high, pages: [https://www.kremacezviratfatima.cz/cenik, https://www.kremacezviratfatima.cz/faq, https://www.kremacezviratfatima.cz/pruvodce-kremaci, https://kremacezviratfatima.cz/urny/] }
+  - { slug: kz-praha, name: Krematorium zvířat Praha, url: https://www.krematoriumzviratpraha.cz, kraj: Praha, type: vlastni_krematorium, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: high, pages: [https://www.krematoriumzviratpraha.cz/cenik, https://www.krematoriumzviratpraha.cz/sluzby, https://www.krematoriumzviratpraha.cz/produkty, https://www.krematoriumzviratpraha.cz/garance, https://www.krematoriumzviratpraha.cz/kontakt] }
+  - { slug: kz-liberec, name: Kremace zvířat Liberec, url: https://www.kremacezviratliberec.cz, kraj: Liberecký, type: pobocka, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: high, pages: [https://www.kremacezviratliberec.cz/cenik, https://www.kremacezviratliberec.cz/sluzby] }
+  - { slug: kz-usti, name: Kremace zvířat Ústí nad Labem, url: https://www.kremacezviratusti.cz, kraj: Ústecký, type: pobocka, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: high, pages: [https://www.kremacezviratusti.cz/cenik, https://www.kremacezviratusti.cz/caste-dotazy] }
+  - { slug: kz-plzen, name: Kremace zvířat Plzeň, url: https://www.kremacezviratplzen.cz, kraj: Plzeňský, type: pobocka, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: medium, pages: [https://www.kremacezviratplzen.cz/cenik, https://www.kremacezviratplzen.cz/sluzby, https://www.kremacezviratplzen.cz/produkty, https://www.kremacezviratplzen.cz/caste-dotazy] }
+  - { slug: kz-budejovice, name: Kremace zvířat Budějovice, url: https://www.kremacezviratbudejovice.cz, kraj: Jihočeský, type: pobocka, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: low, pages: [https://www.kremacezviratbudejovice.cz/cenik, https://www.kremacezviratbudejovice.cz/sluzby, https://www.kremacezviratbudejovice.cz/caste-dotazy] }
+  - { slug: kz-ostrava, name: Krematorium zvířat Ostrava, url: https://www.krematoriumzviratostrava.cz, kraj: Moravskoslezský, type: vlastni_krematorium, operator: Krematorium zvířat Praha (vlastní pec), added: 2026-11-06, priority: low, pages: [https://www.krematoriumzviratostrava.cz/cenik, https://www.krematoriumzviratostrava.cz/sluzby, https://www.krematoriumzviratostrava.cz/caste-dotazy] }
+  - { slug: pet-pieta, name: Pohřební ústav PET-PIETA, url: https://www.pietnisluzby.cz, kraj: Praha, type: zprostredkovatel, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: medium, status: web v rekonstrukci 2026-11-06, pages: [https://www.pietnisluzby.cz] }
+  - { slug: fatima, name: Kremace zvířat Fatima, url: https://www.kremacezviratfatima.cz, kraj: Královéhradecký, type: zprostredkovatel, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: high, pages: [https://www.kremacezviratfatima.cz/cenik, https://www.kremacezviratfatima.cz/faq, https://www.kremacezviratfatima.cz/pruvodce-kremaci, https://kremacezviratfatima.cz/urny/] }
   # --- Střední Čechy / Praha ---
-  - { slug: kerberos, name: Zvířecí krematorium Kerberos, url: https://www.kerberoskrematorium.cz, kraj: Středočeský (+ pobočka Teplice), type: vlastni_krematorium, priority: high, pages: [https://www.kerberoskrematorium.cz/objednavka_kremace.php, https://www.kerberoskrematorium.cz/objednavka_urna.php, https://www.kerberoskrematorium.cz/kontakty.html] }
-  - { slug: vecna-loviste, name: Věčná loviště, url: https://www.vecnaloviste.cz, kraj: Středočeský, type: vlastni_krematorium, priority: high, pages: [https://www.vecnaloviste.cz/cenik, https://www.vecnaloviste.cz/sluzby, https://www.vecnaloviste.cz/caste-dotazy] }
-  - { slug: goodbye, name: Goodbye.cz, url: https://goodbye.cz/zvireci-krematorium/, kraj: nezjištěno, type: nezjisteno, priority: high, pages: [https://goodbye.cz/zvireci-krematorium/cena/, https://goodbye.cz/zvireci-krematorium/] }
+  - { slug: kerberos, name: Zvířecí krematorium Kerberos, url: https://www.kerberoskrematorium.cz, kraj: Středočeský (+ pobočka Teplice), type: vlastni_krematorium, added: 2026-11-06, priority: high, pages: [https://www.kerberoskrematorium.cz/objednavka_kremace.php, https://www.kerberoskrematorium.cz/objednavka_urna.php, https://www.kerberoskrematorium.cz/kontakty.html] }
+  - { slug: vecna-loviste, name: Věčná loviště, url: https://www.vecnaloviste.cz, kraj: Středočeský, type: vlastni_krematorium, added: 2026-11-06, priority: high, pages: [https://www.vecnaloviste.cz/cenik, https://www.vecnaloviste.cz/sluzby, https://www.vecnaloviste.cz/caste-dotazy] }
+  - { slug: goodbye, name: Goodbye.cz, url: https://goodbye.cz/zvireci-krematorium/, kraj: nezjištěno, type: nezjisteno, added: 2026-11-06, priority: high, pages: [https://goodbye.cz/zvireci-krematorium/cena/, https://goodbye.cz/zvireci-krematorium/] }
   # --- Karlovarský ---
-  - { slug: pet-heaven, name: PET HEAVEN, url: https://pet-heaven.cz, kraj: Karlovarský, type: vlastni_krematorium, priority: high, pages: [https://pet-heaven.cz/cenik/, https://pet-heaven.cz/sluzby/, https://pet-heaven.cz/produkty/, https://pet-heaven.cz/memory-pet-point/] }
-  - { slug: vitem, name: Kremace zvířat Vitem, url: https://www.kremacezviratvitem.cz, kraj: Karlovarský, type: zprostredkovatel, operator: Krematorium zvířat Praha, priority: medium, pages: [https://www.kremacezviratvitem.cz/cenik.html, https://www.kremacezviratvitem.cz/sluzby.html, https://www.kremacezviratvitem.cz/produkty.html, https://www.kremacezviratvitem.cz/garance.html] }
+  - { slug: pet-heaven, name: PET HEAVEN, url: https://pet-heaven.cz, kraj: Karlovarský, type: vlastni_krematorium, added: 2026-11-06, priority: high, pages: [https://pet-heaven.cz/cenik/, https://pet-heaven.cz/sluzby/, https://pet-heaven.cz/produkty/, https://pet-heaven.cz/memory-pet-point/] }
+  - { slug: vitem, name: Kremace zvířat Vitem, url: https://www.kremacezviratvitem.cz, kraj: Karlovarský, type: zprostredkovatel, operator: Krematorium zvířat Praha, added: 2026-11-06, priority: medium, pages: [https://www.kremacezviratvitem.cz/cenik.html, https://www.kremacezviratvitem.cz/sluzby.html, https://www.kremacezviratvitem.cz/produkty.html, https://www.kremacezviratvitem.cz/garance.html] }
   # --- Morava a Vysočina ---
-  - { slug: kz-brno, name: Krematorium zvířat Brno, url: https://www.krematoriumzvirat.cz, kraj: Jihomoravský (+ pobočka Znojmo), type: vlastni_krematorium, priority: medium, pages: [https://krematoriumzvirat.cz/cenik/, https://krematoriumzvirat.cz/kategorie-produktu/urny/, https://krematoriumzvirat.cz/pametnisklo/, https://krematoriumzvirat.cz/jak-postupovat/] }
-  - { slug: kz-jihlava, name: Krematorium zvířat Jihlava, url: https://www.krematoriumzviratjihlava.cz, kraj: Vysočina, type: zprostredkovatel, operator: Krematorium zvířat Brno, priority: low, pages: [https://krematoriumzviratjihlava.cz/cenik/, https://krematoriumzviratjihlava.cz/jak-postupovat/] }
-  - { slug: kremace-mazlicku, name: Kremace mazlíčků Ostrava, url: https://www.kremacemazlicku.cz, kraj: Moravskoslezský, type: zprostredkovatel, priority: low, pages: [https://www.kremacemazlicku.cz/cenik/, https://www.kremacemazlicku.cz/sluzby/, https://www.kremacemazlicku.cz/reference/, https://www.kremacemazlicku.cz/pametni-sklo/] }
-  - { slug: anyt, name: ANYT Krematorium zvířat Olomouc, url: https://www.anyt.cz, kraj: Olomoucký, type: vlastni_krematorium, priority: low, pages: [https://www.anyt.cz/cenik/, https://www.anyt.cz/sluzby/, https://www.anyt.cz/jak-to-funguje/, https://www.anyt.cz/reference/] }
-  - { slug: kz-zlin, name: Krematorium zvířat Zlín, url: https://www.krematoriumzviratzlin.cz, kraj: Zlínský, type: vlastni_krematorium, priority: low, pages: [https://krematoriumzviratzlin.cz/cenik.htm, https://krematoriumzviratzlin.cz/sluzby.htm, https://krematoriumzviratzlin.cz/pamatecni-predmety] }
+  - { slug: kz-brno, name: Krematorium zvířat Brno, url: https://www.krematoriumzvirat.cz, kraj: Jihomoravský (+ pobočka Znojmo), type: vlastni_krematorium, added: 2026-11-06, priority: medium, pages: [https://krematoriumzvirat.cz/cenik/, https://krematoriumzvirat.cz/kategorie-produktu/urny/, https://krematoriumzvirat.cz/pametnisklo/, https://krematoriumzvirat.cz/jak-postupovat/] }
+  - { slug: kz-jihlava, name: Krematorium zvířat Jihlava, url: https://www.krematoriumzviratjihlava.cz, kraj: Vysočina, type: zprostredkovatel, operator: Krematorium zvířat Brno, added: 2026-11-06, priority: low, pages: [https://krematoriumzviratjihlava.cz/cenik/, https://krematoriumzviratjihlava.cz/jak-postupovat/] }
+  - { slug: kremace-mazlicku, name: Kremace mazlíčků Ostrava, url: https://www.kremacemazlicku.cz, kraj: Moravskoslezský, type: zprostredkovatel, added: 2026-11-06, priority: low, pages: [https://www.kremacemazlicku.cz/cenik/, https://www.kremacemazlicku.cz/sluzby/, https://www.kremacemazlicku.cz/reference/, https://www.kremacemazlicku.cz/pametni-sklo/] }
+  - { slug: anyt, name: ANYT Krematorium zvířat Olomouc, url: https://www.anyt.cz, kraj: Olomoucký, type: vlastni_krematorium, added: 2026-11-06, priority: low, pages: [https://www.anyt.cz/cenik/, https://www.anyt.cz/sluzby/, https://www.anyt.cz/jak-to-funguje/, https://www.anyt.cz/reference/] }
+  - { slug: kz-zlin, name: Krematorium zvířat Zlín, url: https://www.krematoriumzviratzlin.cz, kraj: Zlínský, type: vlastni_krematorium, added: 2026-11-06, priority: low, pages: [https://krematoriumzviratzlin.cz/cenik.htm, https://krematoriumzviratzlin.cz/sluzby.htm, https://krematoriumzviratzlin.cz/pamatecni-predmety] }
   # --- Jižní Čechy ---
-  - { slug: akrematorium, name: Akrematorium Strakonice, url: https://www.akrematorium.cz, kraj: Jihočeský, type: vlastni_krematorium, priority: low, pages: [https://www.akrematorium.cz/krematorium-pro-zvirata-cenik-sluzeb-strakonice-jizni-cechy, https://www.akrematorium.cz/krematorium-pro-zvirata-produkty-strakonice-jizni-cechy, https://www.akrematorium.cz/krematorium-pro-zvirata-caste-dotazy-strakonice-jizni-cechy] }
-  - { slug: kz-jizni-cechy, name: Kremace zvířat Jižní Čechy, url: https://www.kremacezviratjiznicechy.cz, kraj: Jihočeský, type: nezjisteno, priority: low, status: web nedostupný 2026-11-06, pages: [https://www.kremacezviratjiznicechy.cz] }
-  - { slug: animal-areal, name: Animal Areal Úsilné, url: https://www.krematoriumzviratcb.cz, kraj: Jihočeský, type: nezjisteno, priority: low, pages: [https://krematoriumzviratcb.cz/cenik/, https://krematoriumzviratcb.cz/sluzby/, https://krematoriumzviratcb.cz/katalog/zvireci-urny/] }
+  - { slug: akrematorium, name: Akrematorium Strakonice, url: https://www.akrematorium.cz, kraj: Jihočeský, type: vlastni_krematorium, added: 2026-11-06, priority: low, pages: [https://www.akrematorium.cz/krematorium-pro-zvirata-cenik-sluzeb-strakonice-jizni-cechy, https://www.akrematorium.cz/krematorium-pro-zvirata-produkty-strakonice-jizni-cechy, https://www.akrematorium.cz/krematorium-pro-zvirata-caste-dotazy-strakonice-jizni-cechy] }
+  - { slug: kz-jizni-cechy, name: Kremace zvířat Jižní Čechy, url: https://www.kremacezviratjiznicechy.cz, kraj: Jihočeský, type: nezjisteno, added: 2026-11-06, priority: low, status: web nedostupný 2026-11-06, pages: [https://www.kremacezviratjiznicechy.cz] }
+  - { slug: animal-areal, name: Animal Areal Úsilné, url: https://www.krematoriumzviratcb.cz, kraj: Jihočeský, type: nezjisteno, added: 2026-11-06, priority: low, pages: [https://krematoriumzviratcb.cz/cenik/, https://krematoriumzviratcb.cz/sluzby/, https://krematoriumzviratcb.cz/katalog/zvireci-urny/] }
+  # --- Přidáno týdenním hledáním (krok 0) ---
+  - { slug: kz-vary, name: Kremace zvířat Karlovy Vary, url: https://www.kremacezviratvary.cz, kraj: Karlovarský, type: pobocka, operator: Krematorium zvířat Praha (kremuje v Běchovicích), added: 2026-11-06, found_via: stránka poboček KZ Praha, priority: high, pages: [https://www.kremacezviratvary.cz/cenik, https://www.kremacezviratvary.cz/o-nas, https://www.kremacezviratvary.cz/kontakt, https://www.kremacezviratvary.cz/de/preisliste] }
+  - { slug: kz-olomouc, name: Kremace zvířat Olomouc, url: https://www.kremacezviratekolomouc.cz, kraj: Olomoucký, type: pobocka, operator: Krematorium zvířat Ostrava (síť KZ Praha), added: 2026-11-06, found_via: stránka poboček KZ Praha, priority: low, pages: [https://www.kremacezviratekolomouc.cz/cenik, https://www.kremacezviratekolomouc.cz/o-nas] }
+  - { slug: prokes-odchyty-kv, name: Petr Prokeš – záchranná, odchytová a pietní služba, url: https://odchytykvk.cz, kraj: Karlovarský, type: zprostredkovatel, operator: kremace údajně přes PET HEAVEN (nepotvrzeno), added: 2026-11-06, found_via: firmy.cz (kraj Karlovarský), priority: medium, pages: [https://odchytykvk.cz/cenik/, https://odchytykvk.cz/] }
 
-# Zdroje pro měsíční hledání nových subjektů
-discovery_sources:
-  - https://zvirecipohrebnictvi.cz/zvireci-krematoria-seznam/
-  - https://en.firmy.cz/Trades-and-services/Community-services/Animal-care/Pet-funeral-services-and-crematoriums
-  - WebSearch: "zvířecí krematorium", "kremace psa cena", "kremace zvířat <kraj>"
+# Týdenní hledání nových subjektů (krok 0 skillu konkurence-check)
+discovery:
+  directories:
+    - https://zvirecipohrebnictvi.cz/zvireci-krematoria-seznam/
+    - https://www.firmy.cz/Remesla-a-sluzby/Spolecenske-sluzby/Sluzby-pece-o-zvirata/Pohrebni-sluzby-pro-zvirata
+    - https://en.firmy.cz/Trades-and-services/Community-services/Animal-care/Pet-funeral-services-and-crematoriums
+  network_pages:   # stránky poboček známých sítí – hlídat nové pobočky
+    - https://www.krematoriumzviratpraha.cz/kontakt
+    - https://www.kerberoskrematorium.cz
+    - https://www.krematoriumzvirat.cz
+  search_queries:
+    - "zvířecí krematorium"
+    - "kremace psa cena"
+    - "kremace zvířat nonstop svoz"
+    - "samoobslužný box kremace zvířat"
+    - "kremace zvířat {kraj}"   # každý týden 4 kraje podle rotace níže, za měsíc se projdou všechny
+  kraje_rotation:
+    - [Liberecký, Ústecký, Královéhradecký, Praha]
+    - [Středočeský, Karlovarský, Plzeňský, Pardubický]
+    - [Jihočeský, Vysočina, Jihomoravský, Olomoucký]
+    - [Zlínský, Moravskoslezský, Liberecký, Ústecký]
 
-# Kandidáti k zařazení (zjištěno 2026-11-06 ze stránky kontaktů KZ Praha) – zatím bez snapshotu
+# Nalezené, ale nesledované subjekty (hřbitovy, lidské pohřební služby, mrtvé weby...). Discovery je znovu nenavrhuje.
+excluded:
+  - { name: Pohřební služba Aeternitas, url: https://www.aeternitas.cz, reason: lidská pohřební služba bez nabídky pro zvířata, date: 2026-11-06 }
+  - { name: Kamenictví a Pohřební služba Horák, url: https://www.kamenictvi-horak.cz, reason: lidské kamenictví a pohřební služba, date: 2026-11-06 }
+  - { name: Pohřebnictví NOSTALGIE, url: https://www.nostalgie.cz, reason: "lidská pohřební služba; kremace zvířat jen ve skrytých SEO metadatech – sledovat, jestli ji nezačnou nabízet", date: 2026-11-06 }
+  - { name: Poslední pac, url: https://poslednipac.cz, reason: jen pomníky pro zvířata, date: 2026-11-06 }
+  - { name: Zvířecí nebe, url: https://www.zvireci-nebe.cz, reason: jen prodej rakví pro zvířata, date: 2026-11-06 }
+  - { name: Josef Mihula – hřbitov zvířat, url: https://www.hrbitovzvirat.cz, reason: hřbitov zvířat, date: 2026-11-06 }
+  - { name: NENIA – hřbitov pro domácí zvířata, url: https://www.firmy.cz/detail/1992341-nenia-hrbitov-pro-domaci-zvirata-stara-voda.html, reason: hřbitov zvířat bez webu, date: 2026-11-06 }
+  - { name: Hřbitov zvířat Niměřice, url: https://www.hrbitovzviratnimerice.cz, reason: hřbitov sítě KZ Praha, ne krematorium, date: 2026-11-06 }
+  - { name: Rainbow-vet eutanazie doma, url: https://rainbow-vet.cz, reason: jen eutanazie doma, kremaci neuvádí, date: 2026-11-06 }
+  - { name: Convax Czech Trade (Praha-Bohnice), url: https://www.firmy.cz/detail/13874725-convax-czech-trade-praha-bohnice.html, reason: "tvrdí krematorium pro zvířata, ale nemá funkční web (nebemazlicku.cz prázdná) – neověřitelné, ověřit ručně v ARES", date: 2026-11-06 }
+
+  - { name: "Hřbitovy zvířat (Kutná Hora, Jimlín, Trhové Sviny, Pardubice, HK Kukleny, Draháň)", url: "zvirecihrbitov.cz, zvirecihrbitovjimlin.cz, nebezvirat.blgz.cz, smp-pce.cz, tshk.cz, petpieta.cz", reason: čisté hřbitovy zvířat, date: 2026-11-06 }
+  - { name: pohrbyzvirat.cz, url: http://www.pohrbyzvirat.cz, reason: vlastní doména Memory Pet (přesměrování na memorypet.cz), date: 2026-11-06 }
+  - { name: krematoriumzviratjiznicechy.cz, url: http://www.krematoriumzviratjiznicechy.cz, reason: nefunkční doména stejného provozovatele jako kz-jizni-cechy, date: 2026-11-06 }
+  - { name: Pomahamezitlepe.cz, url: https://www.pomahamezitlepe.cz, reason: e-shop s potřebami pro zvířata, date: 2026-11-06 }
+  - { name: Krematorium pro domácí zvířata Hýskov (záměr EIA 2014), url: https://portal.cenia.cz/eiasea/detail/EIA_STC1762, reason: ukončený záměr, provoz neexistuje, date: 2026-11-06 }
+
+# Kandidáti k zařazení – zatím bez snapshotu (web nedostupný apod.). Discovery je každý týden zkouší znovu.
 candidates:
-  - { slug: kz-vary, name: Kremace zvířat Karlovy Vary, url: https://www.kremacezviratvary.cz, kraj: Karlovarský, type: pobocka, operator: Krematorium zvířat Praha, priority: high }
-  - { slug: kz-olomouc, name: Kremace zvířat Olomouc, url: https://www.kremacezviratekolomouc.cz, kraj: Olomoucký, type: pobocka, operator: Krematorium zvířat Praha, priority: low }
-  - { slug: kz-znojmo, name: Kremace zvířat Znojmo, url: https://www.kremacezviratznojmo.cz, kraj: Jihomoravský, type: pobocka, operator: Krematorium zvířat Brno, priority: low, status: HTTP 503 2026-11-06 }
-  - { slug: zone-box-onyx, name: Box Onyx (Krematorium zvířat Zlín), url: https://www.krematoriumzviratzlin.cz, kraj: Zlínský, note: samoobslužné boxy – přímá obdoba Memory Pet Point }
+  - { slug: kz-znojmo, name: Kremace zvířat Znojmo, url: https://www.kremacezviratznojmo.cz, kraj: Jihomoravský, type: pobocka, operator: Krematorium zvířat Brno, added: 2026-11-06, priority: low, status: HTTP 503 (2026-11-06, opakovaně) }

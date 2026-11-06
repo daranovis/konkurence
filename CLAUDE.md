@@ -16,10 +16,16 @@ Tohle repo sleduje konkurenci zvířecího krematoria **Memory Pet Krematorium**
 - Výstupy piš česky.
 
 ## Struktura
-- `competitors.yaml` – seznam sledovaných subjektů a stránek ke kontrole.
+- `competitors.yaml` – zdroj pravdy: sledovaní konkurenti (`competitors`), kandidáti, vyřazení (`excluded`) a zdroje pro týdenní hledání nových (`discovery`). Každý týden se hledají noví a hned se analyzují.
+- `konkurenti.md` – čitelný seznam konkurentů, generuje `scripts/build_competitor_list.py` (needitovat ručně).
 - `data/schema.json` – schéma snapshotu jednoho subjektu.
 - `data/snapshots/YYYY-MM-DD/<slug>.json` – snapshoty (včetně `memorypet` jako baseline).
 - `reports/initial-analysis.md` – první srovnávací analýza.
 - `reports/weekly/YYYY-MM-DD.md` – týdenní reporty změn.
 - `recommendations.md` – backlog doporučení se stavem. Zamítnutá doporučení znovu nenavrhuj.
 - `.claude/skills/konkurence-check/SKILL.md` – postup týdenní kontroly.
+- `scripts/check_weekly_run.py` – ověří, že za aktuální týden existuje report (exit 1 = chybí).
+
+## Spouštění
+- **Hlavní běh:** cloud rutina každé pondělí v 10:00 (https://claude.ai/code/routines/trig_013PtwtPaHLxCzAgqUc3XPZJ). Běží v cloudu, i když je PC vypnuté.
+- **Pojistka:** lokální naplánovaná úloha `konkurence-pojistka` v Claude desktop aplikaci, denně ve 12:30. Když je aplikace zavřená, spustí se hned po jejím otevření. Spustí `check_weekly_run.py` a jen když report za týden chybí, provede celou kontrolu lokálně.
