@@ -1,0 +1,204 @@
+{
+  "slug": "kz-liberec",
+  "name": "Kremace zvířat Liberec",
+  "operator": "Krematorium zvířat Praha (Šimon & Šípek s.r.o.) – web uvádí „Jsme pobočka Krematoria zvířat Praha“",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.kremacezviratliberec.cz",
+    "https://www.kremacezviratliberec.cz/cenik",
+    "https://www.kremacezviratliberec.cz/sluzby",
+    "https://www.kremacezviratliberec.cz/caste-dotazy",
+    "https://www.kremacezviratliberec.cz/produkty"
+  ],
+  "page_hashes": {
+    "https://www.kremacezviratliberec.cz/cenik": "e1fa2ecd27715f0aacf15577b91afae535fc5864ea56e31f8b4573c17213c11a",
+    "https://www.kremacezviratliberec.cz/sluzby": "82eee67eec86250306325716ab97cff39825c6c108bd777fbf55c085d39c02b8"
+  },
+  "location": "nám. Míru 257/12, 460 14 Liberec (krajská kancelář)",
+  "kraj": "Liberecký",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2490,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 11990,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 2490
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3990
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4990
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5990
+      },
+      {
+        "label": "20–40 kg",
+        "price": 6990
+      },
+      {
+        "label": "40–60 kg",
+        "price": 7990
+      },
+      {
+        "label": "60–80 kg",
+        "price": 8990
+      },
+      {
+        "label": "80–120 kg",
+        "price": 11990
+      }
+    ],
+    "included": [
+      "ekologická rakev",
+      "převzetí v kanceláři v pracovní dny 8–18 h zdarma",
+      "videozáznam začátku kremace na e-mail zdarma (do měsíce)"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "Neuvedena; pouze individuální kremace"
+  },
+  "transport": {
+    "summary": "Vyzvednutí a převoz do krajské kanceláře v Libereckém kraji 750 Kč; doprava mimo Liberecký kraj 1 250 Kč. Dovoz urny: Liberec + 15 km 500 Kč, Liberecký kraj nad 15 km 650 Kč, mimo kraj 1 000 Kč. FAQ: v Liberci a okolí příjezd do 30–90 min, jinde v kraji v den zavolání. Pohotovost 24/7 po telefonu.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí 18–21 h, 6–8 h, svátky a víkend",
+      "price": 690
+    },
+    {
+      "label": "Chladicí box (jednorázově)",
+      "price": 390
+    },
+    {
+      "label": "Speciální vak na zemřelé v chladicím boxu",
+      "price": 490
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení v obřadní síni do 40 kg",
+      "price": 690
+    },
+    {
+      "label": "Rozloučení v obřadní síni nad 40 kg",
+      "price": 890
+    },
+    {
+      "label": "Sledování začátku kremace",
+      "price": 490
+    },
+    {
+      "label": "Sledování žehu po celou dobu",
+      "price": 690
+    },
+    {
+      "label": "Online sledování začátku kremace",
+      "price": 490
+    },
+    {
+      "label": "Online sledování žehu",
+      "price": 690
+    },
+    {
+      "label": "Otisk tlapky na památku",
+      "price": 990
+    },
+    {
+      "label": "Otisk tlapky na papír pro tetování",
+      "price": 790
+    },
+    {
+      "label": "Fotografie v obřadní síni na USB",
+      "price": 750
+    },
+    {
+      "label": "Videozáznam začátku kremace na e-mail",
+      "price": 0
+    },
+    {
+      "label": "Videozáznam začátku kremace na USB",
+      "price": 450
+    },
+    {
+      "label": "Zaslání pamětních předmětů domů",
+      "price": 390
+    },
+    {
+      "label": "Rozloučení v kanceláři (naposledy pohladit)",
+      "price": null
+    },
+    {
+      "label": "Uspání doma smluvním veterinářem",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Základní plastová urnička se štítkem",
+      "price_from": 150,
+      "url": "https://www.kremacezviratliberec.cz/cenik"
+    },
+    {
+      "label": "Urny, dřevěné rakve, šperky, sklo, květiny (katalog bez cen)",
+      "price_from": null,
+      "url": "https://www.kremacezviratliberec.cz/produkty"
+    }
+  ],
+  "bonuses": [
+    "Program Garance (kamera v peci, záznam zdarma)",
+    "„Žádné další skryté poplatky“"
+  ],
+  "payment_options": [
+    "hotově",
+    "kartou",
+    "převodem na účet"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Web zobrazuje 3 textové reference, odkazy na Google a Seznam bez čísla."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": null,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "Šablona webu identická s centrálou (Garance, Produkty, Objednávka, Reference, Galerie)"
+    ]
+  },
+  "notable": [
+    "Lokální doména a „krajská kancelář“ v centru Liberce (nám. Míru) – přímá konkurence MP v Liberci; ceny kremace stejné jako Praha",
+    "Jasně nacenněný převoz v kraji paušálem 750 Kč a dovoz urny 500/650 Kč – srovnat s MP nonstop svozem",
+    "Lokální SEO: výčet měst (Liberec, Jablonec, Turnov, Frýdlant, Tanvald) na úvodní stránce"
+  ],
+  "weaknesses": [
+    "V Liberci jen kancelář s chladicím boxem, obřadní síň a pec jsou v Praze (sledování žehu oknem jen v Praze)",
+    "Krátká otevírací doba kanceláře (Po–Čt 8–12, Pá 8–17), příjem jen po telefonické domluvě",
+    "Rozpor: převzetí zdarma „8–18 h“ vs. otevírací doba kanceláře",
+    "Instagram odkazuje na pražský profil; neuvedena lhůta vrácení popela"
+  ],
+  "notes": "Ceník kremace identický s Prahou. FAQ je nejednoznačné ohledně místa kremace („k nám do krematoria“), obřadní síň a okno pro sledování žehu jsou popsány u pražského krematoria – v Liberci zřejmě jen svozová/sběrná kancelář. Tel. +420 733 122 150. Text mířený na AI nenalezen."
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "kz-ostrava",
+  "name": "Krematorium zvířat Ostrava",
+  "operator": "Krematorium zvířat Praha (síť dle competitors.yaml; na webu jen '© 2026 Krematorium zvířat Ostrava')",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.krematoriumzviratostrava.cz",
+    "https://www.krematoriumzviratostrava.cz/cenik",
+    "https://www.krematoriumzviratostrava.cz/sluzby",
+    "https://www.krematoriumzviratostrava.cz/caste-dotazy"
+  ],
+  "page_hashes": {
+    "https://www.krematoriumzviratostrava.cz/cenik": "4bb185e88f09533a5cfeb4a5aa98299e656a9e3c7fc322cd470578974ad593ff",
+    "https://www.krematoriumzviratostrava.cz/sluzby": "8753e892d6b0e1c119580281635fef9fa5bd6682f504015584a2678afc21052b",
+    "https://www.krematoriumzviratostrava.cz/caste-dotazy": "953c0437ff52ff4a75be42b28150fe269ac0c7b50a8d276cadd47ecdc40b6f3d"
+  },
+  "location": "Holvekova 99/30, 718 00 Ostrava - Kunčičky",
+  "kraj": "Moravskoslezský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2490,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 8990,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 2490
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3990
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4990
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5990
+      },
+      {
+        "label": "20–40 kg",
+        "price": 6990
+      },
+      {
+        "label": "40–60 kg",
+        "price": 7990
+      },
+      {
+        "label": "60–80 kg",
+        "price": 8990
+      },
+      {
+        "label": "80–120 kg",
+        "price": 11990
+      }
+    ],
+    "included": [
+      "ekologická papírová rakev",
+      "vyjmutí z vaku a očištění před kremací",
+      "kamerový záznam každé kremace",
+      "videozáznam začátku kremace na e-mail zdarma"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "Hromadnou kremaci neprovozují (FAQ)"
+  },
+  "transport": {
+    "summary": "Vyzvednutí doma/u veterináře a převoz po Ostravě 750 Kč, po Moravskoslezském kraji 1 500 Kč. Dovoz urny v Ostravě 500 Kč, v kraji 750 Kč. Zaslání pamětních předmětů 390 Kč. V Ostravě a okolí příjezd do 30–90 minut.",
+    "free": "Převzetí v krematoriu v pracovní nebo kremační dny a hodiny",
+    "per_km": null,
+    "nonstop": null
+  },
+  "surcharges": [
+    {
+      "label": "Jednorázový poplatek za chladicí box",
+      "price": 390
+    },
+    {
+      "label": "Speciální vak pro uložení v chladicím boxu",
+      "price": 490
+    },
+    {
+      "label": "Převzetí v pracovní dny 18–21 a 6–8 h, o víkendu a svátcích",
+      "price": 690
+    },
+    {
+      "label": "Kremace v den a čas dle přání (dle kapacity), vč. sledování mimo pracovní dny/svátky",
+      "price": 5000
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení v obřadní síni do 40 kg",
+      "price": 690
+    },
+    {
+      "label": "Rozloučení v obřadní síni nad 40 kg",
+      "price": 890
+    },
+    {
+      "label": "Sledování začátku kremace (závoz do pece)",
+      "price": 490
+    },
+    {
+      "label": "Sledování žehu po celou dobu kremace",
+      "price": 690
+    },
+    {
+      "label": "Sledování začátku kremace online",
+      "price": 490
+    },
+    {
+      "label": "Sledování žehu online po celou dobu",
+      "price": 690
+    },
+    {
+      "label": "Otisk tlapky na památku",
+      "price": 990
+    },
+    {
+      "label": "Otisk tlapky na papír pro tetování",
+      "price": 790
+    },
+    {
+      "label": "Fotografie zvířete v obřadní síni na USB",
+      "price": 750
+    },
+    {
+      "label": "Videozáznam začátku kremace na e-mail",
+      "price": 0
+    },
+    {
+      "label": "Videozáznam začátku kremace na USB",
+      "price": 450
+    },
+    {
+      "label": "Uspání doma (smluvní veterinář)",
+      "price": null
+    },
+    {
+      "label": "Popel k vyzvednutí do 1 hodiny po kremaci",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Základní plastová urnička se samolepicím štítkem",
+      "price_from": 150,
+      "url": "https://www.krematoriumzviratostrava.cz/cenik"
+    },
+    {
+      "label": "Okrasné urny, šperky, pamětní sklo, dřevěné rakve (katalog, ceny neuvedeny)",
+      "price_from": null,
+      "url": "https://www.krematoriumzviratostrava.cz/produkty"
+    }
+  ],
+  "bonuses": [
+    "Systém Garance: unikátní kód zvířete + kamera, prezentováno jako jediný takový systém v ČR",
+    "Videozáznam začátku kremace e-mailem zdarma",
+    "Základní ekologická rakev zdarma",
+    "Bezplatná linka 800 310 310",
+    "Deklarováno: žádné skryté poplatky"
+  ],
+  "payment_options": [
+    "hotově",
+    "kartou",
+    "převodem (předem po domluvě)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Na webu 2 reference; odkazy na Google a Seznam recenze bez čísel"
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": false,
+    "chat": null,
+    "blog": true,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs",
+      "en",
+      "pl"
+    ],
+    "other": [
+      "Poradna (články, mj. o ceně kremace)",
+      "Novinky (aktuální změny otevírací doby)",
+      "online sledování žehu",
+      "galerie",
+      "reference"
+    ]
+  },
+  "notable": [
+    "Prémiová služba 'kremace v den a čas dle přání' za +5 000 Kč – možný vzor pro placenou expresní/termínovou kremaci",
+    "Popel k vyzvednutí do 1 hodiny po kremaci (rychlost jako argument)",
+    "Bezplatná linka 800 a polská + anglická jazyková verze (příhraniční trh)",
+    "Sekce Poradna s SEO články typu 'kolik stojí kremace' a Novinky s aktuálními oznámeními",
+    "Vše na jednom místě: obřadní síň, chladicí box, vlastní pec"
+  ],
+  "weaknesses": [
+    "Svoz po kraji 1 500 Kč paušál",
+    "Nejasný nonstop režim – otevírací doba Po–Pá 8–18, ale příjem i o víkendech a svátcích po domluvě",
+    "Ceny uren a šperků na webu chybí"
+  ],
+  "notes": "Vlastní kremační pec v Ostravě-Kunčičkách (FAQ/služby); Fatima uvádí Ostravu jako partnerské krematorium. Šablona sítě KZ Praha. Na webu oznámení: pátek 6. 11. otevřeno do 16:00, převzetí zvířat v sobotu (k 2026-11-09 stále zobrazeno, neaktualizováno). Nenalezen žádný text mířený na AI. Kategorie 60+ = cena 60–80 kg (8 990), 80–120 kg 11 990 Kč v raw."
+}

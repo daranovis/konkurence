@@ -1,0 +1,247 @@
+{
+  "slug": "pet-heaven",
+  "name": "PET HEAVEN – zvířecí krematorium Chodov",
+  "operator": "SOULS IN PET HEAVEN s.r.o. (spolupráce s Memory Servis s.r.o. na MPP Plzeň)",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://pet-heaven.cz",
+    "https://pet-heaven.cz/cenik/",
+    "https://pet-heaven.cz/sluzby/",
+    "https://pet-heaven.cz/produkty/",
+    "https://pet-heaven.cz/memory-pet-point/"
+  ],
+  "page_hashes": {
+    "https://pet-heaven.cz/cenik/": "d57e71ac3d84fea92c1a9c7d9ead05691e4198a77a16fcaf6337bca66a2fc244",
+    "https://pet-heaven.cz/sluzby/": "c207cf4c4dbf5f1a5fd8a8f6b55bccb3b7176ff670ed18b32f3cd1dd5ad12149",
+    "https://pet-heaven.cz/produkty/": "de0b86da7e5f488b0901798741e24351231edf7402033a966176e74be85eb26d",
+    "https://pet-heaven.cz/memory-pet-point/": "8023e0f18c189a05b206d90cb0a381e771671247b5a4eff1692d37059ec8cefe"
+  },
+  "location": "Horní 1231, 357 35 Chodov (u Karlových Varů)",
+  "kraj": "Karlovarský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": "2026-03-14",
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 1490,
+    "1-5": 3690,
+    "5-10": 3690,
+    "10-20": 4690,
+    "20-40": 5690,
+    "40-60": 6990,
+    "60+": 7990,
+    "raw": [
+      {
+        "label": "do 0,99 kg",
+        "price": 1490
+      },
+      {
+        "label": "1–3,99 kg",
+        "price": 2690
+      },
+      {
+        "label": "4–9,99 kg",
+        "price": 3690
+      },
+      {
+        "label": "10–19,99 kg",
+        "price": 4690
+      },
+      {
+        "label": "20–39,99 kg",
+        "price": 5690
+      },
+      {
+        "label": "40–59,99 kg",
+        "price": 6990
+      },
+      {
+        "label": "60–80 kg",
+        "price": 7990
+      }
+    ],
+    "included": [
+      "ekologická rakev",
+      "kremační služby",
+      "administrativa",
+      "základní plastová urna"
+    ]
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Svoz od zákazníka/veterináře nonstop, cena tam i zpět: do 30 km 750 Kč, 31–90 km 1 000 Kč, 91–150 km 1 200 Kč, 151–200 km 1 500 Kč, nad 201 km smluvní. Dovoz urny do 30 km 500 Kč, nad 30 km 500 Kč + 10 Kč/km; kurýr na dobírku 350 Kč; do boxu Memory Pet Point 300 Kč. Zdroj: https://pet-heaven.cz/cenik/",
+    "free": "převzetí zvířete v krematoriu v provozní době",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí zvířete mimo pracovní dobu",
+      "price": 950
+    },
+    {
+      "label": "Individuální výběr kremačního dne v provozní době",
+      "price": 3000
+    },
+    {
+      "label": "Individuální výběr kremačního dne mimo provozní dobu",
+      "price": 4000
+    },
+    {
+      "label": "Uložení v chladicím boxu do kremace (paušál)",
+      "price": 600
+    },
+    {
+      "label": "Transportní/úložný vak",
+      "price": 400
+    },
+    {
+      "label": "Předání památečního předmětu mimo provozní dobu",
+      "price": 800
+    },
+    {
+      "label": "Pohotovostní příplatek mimo provozní dobu",
+      "price": "výše neuvedena"
+    }
+  ],
+  "services": [
+    {
+      "label": "Poslední rozloučení v obřadní místnosti (vč. saténové výstelky)",
+      "price": 1000
+    },
+    {
+      "label": "Poslední rozloučení se sledováním žehu (vč. saténové výstelky)",
+      "price": 1500
+    },
+    {
+      "label": "Poslední rozloučení mimo pracovní dobu",
+      "price": 2000
+    },
+    {
+      "label": "Saténová výstelka do rakve",
+      "price": 500
+    },
+    {
+      "label": "Saténový sáček",
+      "price": 100
+    },
+    {
+      "label": "Kremace na počkání / individuální termín (6:00–22:00, Po–Ne, po domluvě)",
+      "price": null
+    },
+    {
+      "label": "Kremace na splátky bez navýšení",
+      "price": null
+    },
+    {
+      "label": "Připravováno: rozptyl popela, zasazení bio urny, vzpomínková tryzna",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Urny skleněné",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/urny-sklenene/"
+    },
+    {
+      "label": "Urny kovové",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/urny-kovove/"
+    },
+    {
+      "label": "Urny hliníkové",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/urny-hlinikove/"
+    },
+    {
+      "label": "Urny keramické",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/urny-keramicke/"
+    },
+    {
+      "label": "Bio urny",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/bio-urny/"
+    },
+    {
+      "label": "Úprava památečních předmětů",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/uprava-pamatecnich-predmetu/"
+    },
+    {
+      "label": "Památeční otisky tlapek",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/pamatecni-otisky-tlapek/"
+    },
+    {
+      "label": "Památeční šperky SEE YOU",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/pamatecni-sperky-see-you"
+    },
+    {
+      "label": "Šperky na popel",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/sperky-na-popel/"
+    },
+    {
+      "label": "Památeční sklo",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/pamatecni-sklo/"
+    },
+    {
+      "label": "Doprodej uren",
+      "price_from": null,
+      "url": "https://pet-heaven.cz/produkty/doprodej-uren/"
+    }
+  ],
+  "bonuses": [
+    "Sleva 5 % pro seniory 60+ s trvalým bydlištěm v Karlovarském, Ústeckém a Plzeňském kraji",
+    "Sleva 5 % pro adoptovaná zvířata a zvířata z útulku",
+    "Sleva 20 % pro asistenční a služební zvířata",
+    "Slevy nelze sčítat, neposkytují se zpětně, nárok nutno doložit",
+    "Kremace na splátky bez navýšení",
+    "Spolupráce s Memory Servis – MPP Plzeň (od 2 490 Kč, převoz v ceně)"
+  ],
+  "payment_options": [
+    "splátky bez navýšení (podmínky na samostatné stránce)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "firmy.cz 4,9 / 66 hodnocení (dle WebSearch); na webu recenze z Facebooku a Google bez souhrnného čísla"
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": false,
+    "blog": true,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "stránka 'Jak postupovat'",
+      "aktuality",
+      "reference",
+      "Facebook, Instagram",
+      "cookie banner s volbou Odmítnout"
+    ]
+  },
+  "notable": [
+    "Kremace na počkání 6:00–22:00 i o víkendu – Memory Pet by mohl nabídnout 'expres' kremaci s jasným časovým oknem",
+    "Sleva 5 % pro zvířata z útulku/adoptovaná – snadno převzatelná sociálně laděná akce (Memory Pet ji nemá)",
+    "Kilometrový zónový ceník svozu (do 30/90/150/200 km) – srozumitelné i pro okresy mimo zóny Memory Pet",
+    "Kremační přívěsek s evidenčním číslem na tlapce, který se vkládá do urny (podobné kremační známce MPP)",
+    "Připravované služby: rozptyl popela, zasazení bio urny, vzpomínková tryzna",
+    "Aktuální datum ceníku (14. 3. 2026) působí důvěryhodněji než ceník Memory Pet z 2022"
+  ],
+  "weaknesses": [
+    "U ceníku neuvedeno DPH ani platební metody; výše pohotovostního příplatku neuvedena",
+    "Vak (400 Kč) a chlazení (600 Kč) nejsou v ceně kremace",
+    "Ceny produktů (urny, šperky) na webu chybí, žádný e-shop ani online objednávka",
+    "Chybný odkaz v produktech (hliníkové urny → /urny-porcelanove)",
+    "Individuální termín drahý (3 000 / 4 000 Kč vs. Memory Pet 1 900 / 2 900 / 4 900 Kč)"
+  ],
+  "notes": "Spíše partner než čistý konkurent: provozuje MPP Plzeň ve spolupráci s Memory Servis s.r.o., ceník má položku 'Zaslání urny do boxu pro klienty Memory pet point' a FAQ memorypetpoint.com zmiňuje krematorium v Chodově. Normalizace cen: kategorie Pet Heaven (0–0,99 / 1–3,99 / 4–9,99 / 10–19,99 / 20–39,99 / 40–59,99 / 60–80) byly zarovnány na hranice MemoryPet (x,99 ≈ x); u 1-5 použita kategorie s horní hranicí 5 kg (4–9,99 = 3 690); 60+ = cena 60–80 kg. Při čistě mechanickém pravidle 'horní hranice' by 0-1 vyšla na 2 690 a ostatní o kategorii výš. Text mířený na AI nenalezen. Firma uvádí 8+ let tradice; tel. +420 704 702 072 nonstop, info@pet-heaven.cz."
+}

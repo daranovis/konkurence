@@ -1,0 +1,265 @@
+{
+  "slug": "kz-brno",
+  "name": "Krematorium zvířat Brno",
+  "operator": "KREMATORIUM ZVÍŘAT BRNO s.r.o. (IČO 03553990)",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://krematoriumzvirat.cz/",
+    "https://krematoriumzvirat.cz/cenik/",
+    "https://krematoriumzvirat.cz/jak-postupovat/",
+    "https://krematoriumzvirat.cz/produkty/",
+    "https://krematoriumzvirat.cz/kategorie-produktu/urny/",
+    "https://krematoriumzvirat.cz/pametnisklo/",
+    "https://krematoriumzvirat.cz/kontakt/"
+  ],
+  "page_hashes": {
+    "https://krematoriumzvirat.cz/cenik/": "6da13eb286b4c43c59da07219225f3962c95e5d124299736a5234c833e47c9f9",
+    "https://krematoriumzvirat.cz/kategorie-produktu/urny/": "01f326e878ddc96afa75d0a12bb62707c421be9e1e88636c620e9b4c8707ef8d",
+    "https://krematoriumzvirat.cz/pametnisklo/": "b43504dbf0584877030a37163617aa646e6fdb636badbde60cdfb433f266cccf",
+    "https://krematoriumzvirat.cz/jak-postupovat/": "a3ce10e6cd758bf39c7d3ba30ce7b9ffe9d64f7b960886a2a26bfc08c6669a0d"
+  },
+  "location": "Tovární 11a, 643 00 Brno-Chrlice",
+  "kraj": "Jihomoravský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": "2025-01-01",
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2930,
+    "1-5": 4690,
+    "5-10": 5240,
+    "10-20": 6290,
+    "20-40": 7340,
+    "40-60": 8390,
+    "60+": 9440,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 2930
+      },
+      {
+        "label": "1–5 kg",
+        "price": 4690
+      },
+      {
+        "label": "5–10 kg",
+        "price": 5240
+      },
+      {
+        "label": "10–20 kg",
+        "price": 6290
+      },
+      {
+        "label": "20–30 kg",
+        "price": 6790
+      },
+      {
+        "label": "30–40 kg",
+        "price": 7340
+      },
+      {
+        "label": "40–60 kg",
+        "price": 8390
+      },
+      {
+        "label": "nad 60 kg",
+        "price": 9440
+      }
+    ],
+    "included": [
+      "základní žeh (rakev i urna se platí zvlášť)",
+      "rozptyl na vlastní loučce zdarma",
+      "uložení v chladicím zařízení zdarma"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "neuvedeno"
+  },
+  "transport": {
+    "summary": "Svoz ve speciálním vaku: Brno-město 1 190 Kč, Brno-venkov 1 290 Kč, oblast žlutého pásma 1 690 Kč, jiné oblasti 14 Kč/km + zpět. Osobní účast při závozu zdarma.",
+    "free": "převzetí v provozní době (Po–Pá 8–20) zdarma při vlastním dovozu",
+    "per_km": 14,
+    "nonstop": false
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí mimo pracovní dobu (So–Ne a svátky 8–20)",
+      "price": 750
+    },
+    {
+      "label": "Kartonová rakev dle velikosti",
+      "price": "200–600"
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení ve smuteční síni s úpravou a saténovou sadou s květinami",
+      "price": 1590
+    },
+    {
+      "label": "Rozloučení bez úprav a ozdob",
+      "price": 450
+    },
+    {
+      "label": "Digitální fotografie z rozloučení (se saténovou sadou a květinami)",
+      "price": 1290
+    },
+    {
+      "label": "Sledování rozloučení a kremace online kamerou (se saténovou sadou a květinami)",
+      "price": 1290
+    },
+    {
+      "label": "Přítomnost u kremace",
+      "price": null
+    },
+    {
+      "label": "Doručení urny poštou",
+      "price": 350
+    },
+    {
+      "label": "Osobní doručení urny kurýrem v Brně",
+      "price": 650
+    },
+    {
+      "label": "Rozptyl na vlastní loučce",
+      "price": 0
+    },
+    {
+      "label": "Uložení v chladicím zařízení",
+      "price": 0
+    }
+  ],
+  "products": [
+    {
+      "label": "Urna plastová",
+      "price_from": 150,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny ekologické",
+      "price_from": 450,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny hliníkové",
+      "price_from": 1300,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny dřevěné",
+      "price_from": 1500,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny skleněné",
+      "price_from": 1600,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny mosazné",
+      "price_from": 1800,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urny keramické (Siena, Swarovski)",
+      "price_from": 2100,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Urna alabastrová",
+      "price_from": 2200,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/urny/"
+    },
+    {
+      "label": "Pamětní sklo – křišťálová kapka/kulička/slza/srdce na krk",
+      "price_from": 2490,
+      "url": "https://krematoriumzvirat.cz/pametnisklo/"
+    },
+    {
+      "label": "Pamětní sklo – křišťálové srdce",
+      "price_from": 2790,
+      "url": "https://krematoriumzvirat.cz/pametnisklo/"
+    },
+    {
+      "label": "Pamětní sklo – křišťálový obelisk",
+      "price_from": 3290,
+      "url": "https://krematoriumzvirat.cz/pametnisklo/"
+    },
+    {
+      "label": "LED podstavec ke sklu",
+      "price_from": 319,
+      "url": "https://krematoriumzvirat.cz/pametnisklo/"
+    },
+    {
+      "label": "Diamanty z popela",
+      "price_from": null,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/diamanty/"
+    },
+    {
+      "label": "Šperky",
+      "price_from": null,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/sperky/"
+    },
+    {
+      "label": "Odlitky",
+      "price_from": null,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/odlitky/"
+    },
+    {
+      "label": "Šperky se srstí",
+      "price_from": null,
+      "url": "https://krematoriumzvirat.cz/kategorie-produktu/sperky-se-srsti/"
+    }
+  ],
+  "bonuses": [
+    "Kremace zdarma pro vodicí psy nevidomých (dle domovské stránky)",
+    "Sleva 10 % pro canisterapeuty",
+    "Rozptyl, chlazení a osobní účast při závozu zdarma",
+    "Platba až při převzetí urny",
+    "Pamětní list s údaji o zpopelněném zvířátku zdarma ke všem dokumentům (domovská stránka)"
+  ],
+  "payment_options": [
+    "hotovost",
+    "platební karta",
+    "bankovní převod (účet ČS uveden na kontaktu)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Firmy.cz 4,8 (49–50 recenzí) dle WebSearch; na webu žádná hodnocení"
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": false,
+    "blog": true,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs",
+      "en"
+    ],
+    "other": [
+      "katalog uren s cenami po velikostech",
+      "dokumenty ke stažení (Zpráva o úhynu, Čestné prohlášení, VOP)",
+      "fotogalerie",
+      "sekce Novinky s články na domovské stránce (poslední 17. 5. 2024)",
+      "virtuální prohlídka krematoria, video"
+    ]
+  },
+  "notable": [
+    "Online kamera – sledování rozloučení a kremace na dálku (1 290 Kč) – Memory Pet by mohl nabídnout livestream pro majitele, kteří nemohou přijet",
+    "Sociální program: kremace zdarma pro vodicí psy nevidomých + 10 % sleva canisterapeutům – levný PR/CSR nápad",
+    "Zónový ceník svozu (město / venkov / žluté pásmo / km) – přehledné pevné ceny podle zón",
+    "Pamětní sklo s kódem a certifikátem pravosti proti záměně",
+    "Katalog uren s cenou po velikostech (malá/střední/velká) přímo na webu",
+    "Platba až při převzetí urny"
+  ],
+  "weaknesses": [
+    "Nejvyšší ceny kremace z regionu (1–5 kg 4 690 Kč) a rakev i urna se platí zvlášť",
+    "Svoz relativně drahý (od 1 190 Kč v Brně)",
+    "Není nonstop – mimo 8–20 klient čeká do druhého dne",
+    "Bez FAQ, online objednávky a kalkulačky"
+  ],
+  "notes": "Pobočka Znojmo (kremacezviratznojmo.cz) – web vrátil HTTP 503 (s i bez www), nebylo možné ověřit. Stránka Kontakt neuvádí žádné pobočky (ani Jihlavu, ani Znojmo). Žádný text mířený na AI nenalezen. Hodnocení Google nezjištěno; údaj firmy.cz pouze z výsledků WebSearch."
+}

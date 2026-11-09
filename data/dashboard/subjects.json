@@ -24,7 +24,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.akrematorium.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "animal-areal",
@@ -51,7 +51,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.krematoriumzviratcb.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "anyt",
@@ -78,7 +78,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://www.anyt.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "fatima",
@@ -105,7 +105,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratfatima.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "goodbye",
@@ -132,7 +132,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://goodbye.cz/zvireci-krematorium/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kerberos",
@@ -159,7 +159,7 @@
   "price_calculator": true,
   "nonstop_transport": true,
   "url": "https://www.kerberoskrematorium.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kremace-mazlicku",
@@ -186,7 +186,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://www.kremacemazlicku.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-brno",
@@ -213,7 +213,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://krematoriumzvirat.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-budejovice",
@@ -240,7 +240,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratbudejovice.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-jihlava",
@@ -267,7 +267,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://krematoriumzviratjihlava.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-jizni-cechy",
@@ -294,7 +294,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://www.kremacezviratjiznicechy.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-liberec",
@@ -321,7 +321,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratliberec.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-olomouc",
@@ -348,7 +348,7 @@
   "price_calculator": true,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratekolomouc.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-ostrava",
@@ -375,7 +375,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://www.krematoriumzviratostrava.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-plzen",
@@ -402,7 +402,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratplzen.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-praha",
@@ -429,7 +429,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.krematoriumzviratpraha.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-usti",
@@ -456,7 +456,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratusti.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-vary",
@@ -483,7 +483,7 @@
   "price_calculator": true,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratvary.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "kz-zlin",
@@ -510,7 +510,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.krematoriumzviratzlin.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "memorypet",
@@ -537,7 +537,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.memorypet.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "memorypetpoint",
@@ -564,7 +564,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.memorypetpoint.com",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "pet-heaven",
@@ -591,7 +591,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://pet-heaven.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "pet-pieta",
@@ -618,7 +618,7 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.pietnisluzby.cz",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "prokes-odchyty-kv",
@@ -645,7 +645,7 @@
   "price_calculator": false,
   "nonstop_transport": false,
   "url": "https://odchytykvk.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "vecna-loviste",
@@ -656,13 +656,13 @@
   "type_label": "vlastní pec",
   "is_own": false,
   "in_region": true,
-  "p_0_1": 4500,
+  "p_0_1": 2700,
   "p_1_5": 4500,
-  "p_5_10": null,
-  "p_10_20": null,
-  "p_20_40": null,
-  "p_40_60": null,
-  "p_60": null,
+  "p_5_10": 5500,
+  "p_10_20": 6500,
+  "p_20_40": 7500,
+  "p_40_60": 8500,
+  "p_60": 9500,
   "prices_include_vat": true,
   "price_list_valid_from": null,
   "google_rating": 4.9,
@@ -672,7 +672,7 @@
   "price_calculator": true,
   "nonstop_transport": true,
   "url": "https://www.vecnaloviste.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  },
  {
   "slug": "vitem",
@@ -699,6 +699,6 @@
   "price_calculator": false,
   "nonstop_transport": true,
   "url": "https://www.kremacezviratvitem.cz/",
-  "checked_at": "2026-11-06"
+  "checked_at": "2026-11-09"
  }
 ]

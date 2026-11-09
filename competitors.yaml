@@ -88,7 +88,9 @@ excluded:
   - { name: krematoriumzviratjiznicechy.cz, url: http://www.krematoriumzviratjiznicechy.cz, reason: nefunkční doména stejného provozovatele jako kz-jizni-cechy, date: 2026-11-06 }
   - { name: Pomahamezitlepe.cz, url: https://www.pomahamezitlepe.cz, reason: e-shop s potřebami pro zvířata, date: 2026-11-06 }
   - { name: Krematorium pro domácí zvířata Hýskov (záměr EIA 2014), url: https://portal.cenia.cz/eiasea/detail/EIA_STC1762, reason: ukončený záměr, provoz neexistuje, date: 2026-11-06 }
+  - { name: kremacezviratjihlava.cz, url: http://kremacezviratjihlava.cz, reason: "parkovaná doména (FORPSI, bez obsahu); odkaz z webu KZ Brno, pobočku Jihlava pokrývá krematoriumzviratjihlava.cz", date: 2026-11-09 }
+  - { name: POHŘEBNÍ ÚSTAV MUSIL JAROSLAV (Moravský Krumlov, Miroslav, Znojmo), url: https://pohrebniustavmusil.cz, reason: "lidská pohřební služba; kremaci zvířat uvádí jen nabídka na firmy.cz, na vlastním webu není – sledovat", date: 2026-11-09 }
 
 # Kandidáti k zařazení – zatím bez snapshotu (web nedostupný apod.). Discovery je každý týden zkouší znovu.
 candidates:
-  - { slug: kz-znojmo, name: Kremace zvířat Znojmo, url: https://www.kremacezviratznojmo.cz, kraj: Jihomoravský, type: pobocka, operator: Krematorium zvířat Brno, added: 2026-11-06, priority: low, status: HTTP 503 (2026-11-06, opakovaně) }
+  - { slug: kz-znojmo, name: Kremace zvířat Znojmo, url: https://www.kremacezviratznojmo.cz, kraj: Jihomoravský, type: pobocka, operator: Krematorium zvířat Brno, added: 2026-11-06, priority: low, status: "HTTP 503 (2026-11-06, opakovaně; znovu 2026-11-09)" }

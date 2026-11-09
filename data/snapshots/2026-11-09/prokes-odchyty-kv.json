@@ -1,0 +1,122 @@
+{
+  "slug": "prokes-odchyty-kv",
+  "name": "Petr Prokeš – záchranná, odchytová a pietní služba",
+  "operator": "Petr Prokeš, IČ 02317435 (Záchranná a odchytová služba pro zvířata); související spolek Záchranka pro zvířata, z.s., IČO 07635923",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://odchytykvk.cz/",
+    "https://odchytykvk.cz/cenik/",
+    "https://odchytykvk.cz/kontakty/",
+    "https://odchytykvk.cz/o-nas/",
+    "https://odchytykvk.cz/zachranka-pro-zvirata-z-s/"
+  ],
+  "page_hashes": {
+    "https://odchytykvk.cz/cenik/": "38047362db0f839e6d35cd348f32c062c92b77a1e5ee51ced988d53ad05f4cfb",
+    "https://odchytykvk.cz/": "210e2e3bdf9cf4a455297c425552938b8b0bd0f867b522453c1955ec9456ee1e"
+  },
+  "location": "Sídlo: Severní 870/11, 360 05 Karlovy Vary; stanice: Mostecká 135/1, 362 63 Dalovice",
+  "kraj": "Karlovarský",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": null,
+    "1-5": null,
+    "5-10": null,
+    "10-20": null,
+    "20-40": null,
+    "40-60": null,
+    "60+": null,
+    "raw": [],
+    "included": []
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "Neuvedena. Levná alternativa: uložení těla v mrazicím boxu a předání asanačnímu podniku (poplatek za asanaci 45 Kč/kg)."
+  },
+  "transport": {
+    "summary": "Pietní služby: 30 Kč/km, přepravní vak a desinfekce vozu 200 Kč, práce posádky 500 Kč/h, přeprava do pohřebních ústavů dle dohody. Příplatek 500 Kč o víkendech, svátcích a ve všední dny 19–7 h. Majitel může tělo také sám dovézt do stanice v Dalovicích. Telefon Po–Pá 7–19 (605 058 410), mimo pracovní dobu 840 889 988 (Po–Pá 19–22, víkendy a svátky 7–22) – nonstop neuveden.",
+    "free": null,
+    "per_km": 30,
+    "nonstop": false
+  },
+  "surcharges": [
+    {
+      "label": "Víkend, státní svátek, všední dny 19:00–7:00",
+      "price": 500
+    },
+    {
+      "label": "Přepravní vak a desinfekce vozu (pietní služby)",
+      "price": 200
+    },
+    {
+      "label": "Práce posádky (pietní služby)",
+      "price": "500 Kč/h"
+    }
+  ],
+  "services": [
+    {
+      "label": "Převoz uhynulého zvířete (pietní služby)",
+      "price": "30 Kč/km"
+    },
+    {
+      "label": "Přeprava do pohřebních ústavů / krematoria",
+      "price": "dle dohody"
+    },
+    {
+      "label": "Uložení v mrazicím boxu a předání asanačnímu podniku (poplatek za asanaci)",
+      "price": "45 Kč/kg"
+    },
+    {
+      "label": "Zajištění kremace v krematoriu pro zvířata (web jmenuje Pet Heaven Chodov u Sokolova)",
+      "price": null
+    },
+    {
+      "label": "Zajištění pohřbu na psím hřbitově / pohřbení na vlastní zahradě",
+      "price": null
+    },
+    {
+      "label": "Záchranná služba – výjezd, první pomoc, převoz k veterináři",
+      "price": "40 Kč/km + materiál a ošetření"
+    },
+    {
+      "label": "Přeprava zvířat pro soukromé osoby",
+      "price": "30 Kč/km"
+    }
+  ],
+  "products": [],
+  "bonuses": [],
+  "payment_options": [],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Na hlavní stránce 1 textová reference (poděkování za záchranu fenky)."
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": null,
+    "blog": false,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "WordPress web záchranné a odchytové služby; pietní služby jen jako jedna ze tří sekcí",
+      "Sekce Naše zvířata (Našli se, V léčení, Našli domov, Hledají), Ztratil se mi pes, Potřebuji odchyt",
+      "Veřejná sbírka a transparentní účet spolku Záchranka pro zvířata, z.s."
+    ]
+  },
+  "notable": [
+    "Jediné krematorium, které web jmenuje, je Pet Heaven Chodov u Sokolova („i zde je možno zajistit poslední cestu“), bez ceny a bez formálně uvedené spolupráce; MP ani KZ Vary nezmíněny. Pro MP: Prokeš je potenciální svozový partner/doporučitel v Karlovarském kraji (vlastní vozy, mrazicí box v Dalovicích, 30 Kč/km), kde MP nemá pobočku ani zónový paušál – případné oslovení je rozhodnutí majitele.",
+    "Cenově citlivý segment: nabízí asanaci za 45 Kč/kg (mrazicí box → asanační podnik) jako „skromnější řešení“ – MP může na webu komunikovat dostupnou důstojnou alternativu ke kafilerii (např. ekonomickou/hromadnou kremaci) a cílit na ni u veterinářů a odchytových služeb.",
+    "Silná lokální důvěra (12+ let, spolupráce s veterináři, policií a obcemi) – odchytové a záchranné služby jsou kanál doporučení pro pietní služby; MP může zvážit partnerský program pro záchranné/odchytové služby v krajích bez pobočky."
+  ],
+  "weaknesses": [
+    "Pietní služby jen jako doplněk záchranné/odchytové činnosti – bez ceníku kremace, uren, obřadu či vrácení popela; kremaci jen zprostředkuje.",
+    "Není nonstop (telefon nejpozději do 22 h).",
+    "Web neuvádí DPH, platnost ceníku ani platební možnosti; text o Pet Heaven („v nedávné době bylo… otevřeno“) působí zastarale."
+  ],
+  "notes": "Kremační ceny na webu nejsou → všechny null. Pietní služby (hlavní stránka): pohřbení na vlastní zahrádce, pohřeb na některém ze psích hřbitovů, zpopelnění v některém krematoriu pro zvířata (jmenovitě Pet Heaven v Chodově u Sokolova), nebo dovoz těla do stanice, uložení v mrazicím boxu a předání asanačnímu podniku. Ceník /cenik/ sekce Pietní služby: 30 Kč/km, asanace 45 Kč/kg, přepravní vak a desinfekce vozu 200 Kč, přeprava do pohřebních ústavů dle dohody, práce posádky 500 Kč/h; obecný příplatek 500 Kč (víkend/svátek/19–7). Údaj v competitors.yaml „kremace údajně přes PET HEAVEN (nepotvrzeno)“: web Pet Heaven uvádí jen jako možnost, formální spolupráci nepotvrzuje. Kontakty: 605 058 410, 840 889 988, p.prokes-zosz@email.cz. page_hashes od 2026-11-09 doplněny, ale hash přes curl je u tohoto WordPress webu nestabilní (dynamický obsah ve skriptech) – změny ověřovat porovnáním obsahu. Text mířený na AI nenalezen."
+}

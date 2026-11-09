@@ -1,6 +1,6 @@
 # Seznam konkurentů Memory Pet
 
-*Automaticky generováno z `competitors.yaml` (2026-11-06). Needituj ručně, uprav YAML a spusť `python scripts/build_competitor_list.py`.*
+*Automaticky generováno z `competitors.yaml` (2026-11-09). Needituj ručně, uprav YAML a spusť `python scripts/build_competitor_list.py`.*
 
 Sledujeme **24 subjektů**. Každý týden se hledají noví a hned se analyzují (skill `konkurence-check`, krok 0).
 Pro srovnání Memory Pet: 1–5 kg **3 300 Kč**, 10–20 kg **5 300 Kč**.
@@ -13,7 +13,7 @@ Pro srovnání Memory Pet: 1–5 kg **3 300 Kč**, 10–20 kg **5 300 Kč**.
 | 3 | Kremace zvířat Fatima | [kremacezviratfatima.cz](https://www.kremacezviratfatima.cz) | Královéhradecký | zprostředkovatel | Krematorium zvířat Praha | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
 | 4 | Kremace zvířat Liberec | [kremacezviratliberec.cz](https://www.kremacezviratliberec.cz) | Liberecký | pobočka / sběrné místo | Krematorium zvířat Praha | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
 | 5 | Krematorium zvířat Praha | [krematoriumzviratpraha.cz](https://www.krematoriumzviratpraha.cz) | Praha | vlastní pec | Krematorium zvířat Praha | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
-| 6 | Věčná loviště | [vecnaloviste.cz](https://www.vecnaloviste.cz) | Středočeský | vlastní pec | – | high | 4 500 | – | 2026-11-06 | aktivní |
+| 6 | Věčná loviště | [vecnaloviste.cz](https://www.vecnaloviste.cz) | Středočeský | vlastní pec | – | high | 4 500 | 6 500 | 2026-11-06 | aktivní |
 | 7 | Zvířecí krematorium Kerberos | [kerberoskrematorium.cz](https://www.kerberoskrematorium.cz) | Středočeský (+ pobočka Teplice) | vlastní pec | – | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
 | 8 | Goodbye.cz | [goodbye.cz](https://goodbye.cz/zvireci-krematorium/) | nezjištěno | nezjištěno | – | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
 | 9 | Kremace zvířat Ústí nad Labem | [kremacezviratusti.cz](https://www.kremacezviratusti.cz) | Ústecký | pobočka / sběrné místo | Krematorium zvířat Praha | high | 3 990 | 5 990 | 2026-11-06 | aktivní |
@@ -78,3 +78,5 @@ Pro srovnání Memory Pet: 1–5 kg **3 300 Kč**, 10–20 kg **5 300 Kč**.
 - krematoriumzviratjiznicechy.cz: http://www.krematoriumzviratjiznicechy.cz, důvod: nefunkční doména stejného provozovatele jako kz-jizni-cechy
 - Pomahamezitlepe.cz: https://www.pomahamezitlepe.cz, důvod: e-shop s potřebami pro zvířata
 - Krematorium pro domácí zvířata Hýskov (záměr EIA 2014): https://portal.cenia.cz/eiasea/detail/EIA_STC1762, důvod: ukončený záměr
+- kremacezviratjihlava.cz: http://kremacezviratjihlava.cz, důvod: parkovaná doména (FORPSI, bez obsahu); odkaz z webu KZ Brno, pobočku Jihlava pokrývá krematoriumzviratjihlava.cz
+- POHŘEBNÍ ÚSTAV MUSIL JAROSLAV (Moravský Krumlov: https://pohrebniustavmusil.cz, důvod: lidská pohřební služba; kremaci zvířat uvádí jen nabídka na firmy.cz, na vlastním webu není – sledovat

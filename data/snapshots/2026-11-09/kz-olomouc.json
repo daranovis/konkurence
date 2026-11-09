@@ -1,0 +1,215 @@
+{
+  "slug": "kz-olomouc",
+  "name": "Kremace zvířat Olomouc",
+  "operator": "KZ Ostrava s.r.o., IČ 09276271 (Holvekova 99/30, Ostrava-Kunčičky) – pobočka Krematoria zvířat Ostrava, které dle webu provozuje stejná společnost jako KZ Praha spolu se dvěma lokálními spolumajiteli",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.kremacezviratekolomouc.cz",
+    "https://www.kremacezviratekolomouc.cz/cenik",
+    "https://www.kremacezviratekolomouc.cz/o-nas",
+    "https://www.kremacezviratekolomouc.cz/sluzby",
+    "https://www.kremacezviratekolomouc.cz/garance",
+    "https://www.kremacezviratekolomouc.cz/produkty",
+    "https://www.kremacezviratekolomouc.cz/caste-dotazy",
+    "https://www.kremacezviratekolomouc.cz/kontakt"
+  ],
+  "page_hashes": {
+    "https://www.kremacezviratekolomouc.cz/cenik": "8e2620bd1796c337106518f60296df5bdbb99cb5b6fc7f60a841c4c566514eb3",
+    "https://www.kremacezviratekolomouc.cz/o-nas": "8f15df7d2e2923cfe9c2d81ea3918ac85ae295edadf4d70c35d093d1b047f2b2"
+  },
+  "location": "Táboritů 237/1, 779 00 Olomouc (krajská kancelář s chladicím boxem; kremace v Ostravě-Kunčičkách)",
+  "kraj": "Olomoucký",
+  "type": "pobocka",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2190,
+    "1-5": 3490,
+    "5-10": 4490,
+    "10-20": 5490,
+    "20-40": 6490,
+    "40-60": 7490,
+    "60+": 8490,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 2190
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3490
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4490
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5490
+      },
+      {
+        "label": "20–40 kg",
+        "price": 6490
+      },
+      {
+        "label": "40–60 kg",
+        "price": 7490
+      },
+      {
+        "label": "60–80 kg",
+        "price": 8490
+      },
+      {
+        "label": "80–120 kg",
+        "price": 11990
+      }
+    ],
+    "included": [
+      "ekologická papírová rakev",
+      "vyjmutí z vaku a očištění před kremací",
+      "kamerový záznam každé kremace (Garance)",
+      "převzetí v krajské kanceláři v pracovní dny 8–18 h zdarma",
+      "videozáznam začátku kremace na e-mail zdarma (do měsíce)"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "Neuvedena; pouze individuální kremace (FAQ: zvíře je v peci vždy samo)"
+  },
+  "transport": {
+    "summary": "Vyzvednutí (doma/u veterináře) a převoz do krajské kanceláře v Olomouckém kraji 750 Kč. Dovoz urny domů v Olomouci + 15 km 500 Kč, dál v Olomouckém kraji 650 Kč. Zaslání pamětních předmětů 390 Kč. Doprava mimo kraj neuvedena. FAQ: v Olomouci a okolí příjezd do 30–90 min, jinde v kraji v den zavolání. Pohotovost 24/7 po telefonu; /kontakt: příjem každý den vč. víkendů a svátků 6–21 h. Zvíře se z Olomouce převáží ke kremaci do Krematoria zvířat Ostrava.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí v pracovní dny 18–21 h a 6–8 h, o víkendu a svátcích",
+      "price": 690
+    },
+    {
+      "label": "Chladicí box (jednorázově)",
+      "price": 390
+    },
+    {
+      "label": "Speciální vak na zemřelé v chladicím boxu",
+      "price": 490
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení v obřadní síni (v Ostravě) do 40 kg",
+      "price": 690
+    },
+    {
+      "label": "Rozloučení v obřadní síni (v Ostravě) nad 40 kg",
+      "price": 890
+    },
+    {
+      "label": "Sledování začátku kremace",
+      "price": 490
+    },
+    {
+      "label": "Sledování žehu po celou dobu",
+      "price": 690
+    },
+    {
+      "label": "Online sledování začátku kremace",
+      "price": 490
+    },
+    {
+      "label": "Online sledování žehu",
+      "price": 690
+    },
+    {
+      "label": "Otisk tlapky na památku",
+      "price": 990
+    },
+    {
+      "label": "Otisk tlapky na papír pro tetování",
+      "price": 790
+    },
+    {
+      "label": "Fotografie v obřadní síni na USB",
+      "price": 750
+    },
+    {
+      "label": "Videozáznam začátku kremace na e-mail",
+      "price": 0
+    },
+    {
+      "label": "Videozáznam začátku kremace na USB",
+      "price": 450
+    },
+    {
+      "label": "Zaslání pamětních předmětů domů",
+      "price": 390
+    },
+    {
+      "label": "Rozloučení v kanceláři v Olomouci (naposledy pohladit)",
+      "price": null
+    },
+    {
+      "label": "Uspání doma smluvním veterinářem",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Základní plastová urnička se samolepicím štítkem",
+      "price_from": 150,
+      "url": "https://www.kremacezviratekolomouc.cz/cenik"
+    },
+    {
+      "label": "Urny (dovoz z Německa, keramické se Swarovski, dřevo, kov), šperky na popel, pamětní sklo, památeční diamanty, dřevěné a proutěné rakve, kresba mazlíčka, náhrobky, květiny (katalog bez cen v ceníku)",
+      "price_from": null,
+      "url": "https://www.kremacezviratekolomouc.cz/produkty"
+    }
+  ],
+  "bonuses": [
+    "Program Garance (kód + kremační kámen, kamera v peci, záznam zdarma na e-mail)",
+    "„Žádné další skryté poplatky“",
+    "Člen Asociace zvířecího pohřebnictví a Sdružení pohřebnictví ČR",
+    "Partner pro východní Čechy: Pohřební a kremační služby pro zvířata Fatima; partner ČAVLMZ a VET NURSE ACADEMY"
+  ],
+  "payment_options": [
+    "hotově",
+    "kartou",
+    "převodem na účet (předem po domluvě)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Úvodní stránka: 2 textové reference (Olomouc, Žárová u Velkých Losin), další na /reference; odkaz na Google recenze bez čísla."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": true,
+    "chat": null,
+    "blog": false,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "Šablona webu sítě KZ Praha/Ostrava (Garance, Produkty, Objednávka, Reference, Galerie)",
+      "Kalkulátor ceny s platbou („Spočítat cenu a zaplatit“)",
+      "Kontakt s podrobným návodem příjezdu autem i MHD (zastávka, minuty pěšky)",
+      "Kontaktní formulář; přehled poboček sítě"
+    ]
+  },
+  "notable": [
+    "Regionální cenotvorba sítě KZ: Olomouc 3 490 / 5 490 Kč (1–5 / 10–20 kg) je o 500 Kč levnější než mateřská Ostrava (3 990 / 5 990), Karlovy Vary dokonce 1 990 / 3 990 – síť ladí ceny podle místní konkurence (v Olomouci ANYT 3 790 / 5 390). Pro MP: počítat s tím, že KZ může zlevnit i v krajích MP; sledovat ceníky poboček týdně.",
+    "Ceník končí tlačítkem „Spočítat cenu a zaplatit“ – kalkulačka celkové ceny s online platbou; inspirace pro MP (kalkulačka kremace + svozu + urny na jedné stránce).",
+    "Kontaktní stránka s návodem cesty autem i MHD a popisem budovy – MP může doplnit totéž u Memory Pet Pointů.",
+    "Síť KZ pokrývá východní Čechy přes partnera Fatima – v Královéhradeckém kraji (spádová oblast MP) tak KZ nemá vlastní pobočku, ale odkazuje na Fatimu; příležitost pro MP posílit Hradecko/Trutnovsko."
+  ],
+  "weaknesses": [
+    "V Olomouci jen kancelář s chladicím boxem; kremace, obřadní síň a sledování žehu oknem jsou v Ostravě.",
+    "Krátká otevírací doba kanceláře (Po, Út, Čt, Pá 8–12, St 8–17); rozpory: ceník „převzetí zdarma 8–18 h“, FAQ „Po–Pá 6–21“, kontakt „každý den 6–21“.",
+    "Rozpor: /produkty „V ceně kremace je i základní plastová urnička“ vs. ceník „Základní plastová urnička 150 Kč“.",
+    "Neuvedena doprava mimo Olomoucký kraj ani lhůta vrácení popela; pouze česká verze webu."
+  ],
+  "notes": "Pobočka patří pod Krematorium zvířat Ostrava (ne přímo KZ Praha): /o-nas „…následně jej převezeme do Krematoria zvířat Ostrava, kde proběhne individuální kremace“; provozovatel na /kontakt KZ Ostrava s.r.o., IČ 09276271. Ceny o 500 Kč nižší než KZ Ostrava/Liberec v kategoriích 1–80 kg, 0–1 kg 2 190 (vs 2 490), 80–120 kg stejně 11 990. Poplatky a služby stejné jako u ostatních poboček; dovoz urny 500/650 Kč. Ověřeno v surovém HTML ceníku. Kategorie 60+ = cena 60–80 kg (80–120 kg 11 990 Kč v raw). Pro MP nízká priorita (mimo spádovou oblast). Tel. +420 733 180 330, info@KremaceZviratekOlomouc.cz. Text mířený na AI nenalezen. 2026-11-09: hash /cenik se oproti 2026-11-06 změnil, ale všechny ceny a položky ceníku jsou beze změny (pravděpodobně technická/šablonová změna)."
+}

@@ -1,0 +1,281 @@
+{
+  "slug": "vitem",
+  "name": "Kremace zvířat Vitem",
+  "operator": "Vitem s.r.o. (IČ 05776538); kremace probíhá v Krematoriu zvířat Praha",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.kremacezviratvitem.cz/",
+    "https://www.kremacezviratvitem.cz/cenik.html",
+    "https://www.kremacezviratvitem.cz/o-nas.html",
+    "https://www.kremacezviratvitem.cz/sluzby.html",
+    "https://www.kremacezviratvitem.cz/garance.html",
+    "https://www.kremacezviratvitem.cz/produkty.html",
+    "https://www.kremacezviratvitem.cz/kontakt.html"
+  ],
+  "page_hashes": {
+    "https://www.kremacezviratvitem.cz/cenik.html": "ddecff7e92645bdbdbbf01676ab98ba7a058c8c33043626c87ad17eb9e6f851d",
+    "https://www.kremacezviratvitem.cz/sluzby.html": "905769e4ac63127a0a4d8fb4bdf3e5d0470a4db7248906e61fb1e61d18d6ba2b",
+    "https://www.kremacezviratvitem.cz/produkty.html": "c5dbd917ab6f52ff90b64dee65562eef05443565861f00bc22a8165430684f00",
+    "https://www.kremacezviratvitem.cz/garance.html": "d20d5b36b7f4f9ef09e833ca3d4c07af26c534876ef54158e52e8e0e16f8aa44"
+  },
+  "location": "Rybniční 2902, 352 01 Aš; Nádražní 328, 357 31 Horní Slavkov (sídlo)",
+  "kraj": "Karlovarský",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 2800,
+    "1-5": 2800,
+    "5-10": 3800,
+    "10-20": 4900,
+    "20-40": 5900,
+    "40-60": 7300,
+    "60+": 8300,
+    "raw": [
+      {
+        "label": "0–4,9 kg",
+        "price": 2800
+      },
+      {
+        "label": "5–9,9 kg",
+        "price": 3800
+      },
+      {
+        "label": "10–19,9 kg",
+        "price": 4900
+      },
+      {
+        "label": "20–39,9 kg",
+        "price": 5900
+      },
+      {
+        "label": "40–59,9 kg",
+        "price": 7300
+      },
+      {
+        "label": "60–79,9 kg",
+        "price": 8300
+      },
+      {
+        "label": "nad 80 kg",
+        "price": 11990
+      }
+    ],
+    "included": [
+      "základní ekologická rakev",
+      "převoz ke kremaci",
+      "termín dle pořadníku",
+      "videozáznam na e-mail",
+      "předání urničky v provozní době"
+    ]
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Převzetí v provozní době zdarma; převoz po městě v provozní době zdarma, mimo město 15 Kč/km; mimo provozní dobu, o víkendech a svátcích příplatek 15 Kč/km. Vůz s chlazením, nonstop podle vytíženosti vozidla.",
+    "free": "převoz po městě v provozní době",
+    "per_km": 15,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Převzetí mimo provozní dobu, o víkendu nebo svátku",
+      "price": 900
+    },
+    {
+      "label": "Příplatek za převoz mimo provozní dobu, víkend, svátek",
+      "price": "15 Kč/km"
+    },
+    {
+      "label": "Speciální úložný vak",
+      "price": 390
+    },
+    {
+      "label": "Paušál za uložení v chladicím zařízení",
+      "price": 390
+    },
+    {
+      "label": "Termín dle přání v provozní době",
+      "price": 1000
+    },
+    {
+      "label": "Termín dle přání mimo provozní dobu, víkend, svátek (příplatek)",
+      "price": 6000
+    },
+    {
+      "label": "Předání urničky mimo provozní dobu",
+      "price": 900
+    }
+  ],
+  "services": [
+    {
+      "label": "Sledování počátku kremace",
+      "price": 590
+    },
+    {
+      "label": "Sledování celé kremace",
+      "price": 690
+    },
+    {
+      "label": "On-line sledování počátku nebo celé kremace (dočasně nedostupné)",
+      "price": 490
+    },
+    {
+      "label": "Videozáznam na CD",
+      "price": 150
+    },
+    {
+      "label": "Videozáznam na USB flash disk",
+      "price": 590
+    },
+    {
+      "label": "Videozáznam na e-mail",
+      "price": 0
+    },
+    {
+      "label": "Poslední rozloučení v obřadní síni",
+      "price": 600
+    },
+    {
+      "label": "Fotografie zvířete při rozloučení",
+      "price": 550
+    },
+    {
+      "label": "Dovoz urničky mimo město v provozní době",
+      "price": "15 Kč/km"
+    },
+    {
+      "label": "Zaslání urničky",
+      "price": 390
+    },
+    {
+      "label": "Uspání v domácím prostředí",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Urny s LED podsvícením",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=4923-urny-s-led-podsvicenim"
+    },
+    {
+      "label": "Porcelánové urny",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=4920-porcelanove-urny"
+    },
+    {
+      "label": "Urny na popel",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3061-urny-na-popel"
+    },
+    {
+      "label": "Šperky s popelem",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3060-sperky-s-popelem"
+    },
+    {
+      "label": "Památeční sklo",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3059-pamatecni-sklo"
+    },
+    {
+      "label": "Dřevěné rakve",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3058-drevene-rakve"
+    },
+    {
+      "label": "Otisk tlapky",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3057-otisk-tlapky"
+    },
+    {
+      "label": "Památeční diamant",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3054-pamatecni-diamant"
+    },
+    {
+      "label": "Náhrobek",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3053-nahrobek"
+    },
+    {
+      "label": "Kresba Vašeho mazlíčka",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3051-kresba-vaseho-mazlicka"
+    },
+    {
+      "label": "Bio urny",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3048-bio-urny"
+    },
+    {
+      "label": "Rozsypové tubusy",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3045-rozsypove-tubusy"
+    },
+    {
+      "label": "Květiny",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3056-kvetiny"
+    },
+    {
+      "label": "Gravírované šperky",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3055-gravirovane-sperky"
+    },
+    {
+      "label": "Nápisy, kamínky, štítky",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3049-napisy-kaminky-stitky"
+    },
+    {
+      "label": "Výstelky do rakví",
+      "price_from": null,
+      "url": "https://www.kremacezviratvitem.cz/produkty.html?a=3046-vystelky-do-rakvi"
+    }
+  ],
+  "bonuses": [
+    "Samostatná stránka Garance: šamotový přívěšek s unikátním kódem jde se zvířetem do pece a pak s popelem do urny",
+    "Kamerový záznam celého procesu od příjmu po vyjmutí z pece",
+    "Videozáznam kremace na e-mail zdarma",
+    "Člen Asociace zvířecího pohřebnictví"
+  ],
+  "payment_options": [],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "na webu sekce Reference, číselné hodnocení neuvedeno"
+  },
+  "website_features": {
+    "online_order": null,
+    "price_calculator": false,
+    "chat": null,
+    "blog": true,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "sekce Novinky",
+      "samostatná stránka Garance",
+      "katalog produktů bez cen",
+      "galerie",
+      "reference"
+    ]
+  },
+  "notable": [
+    "Samostatná stránka 'Garance' vysvětlující identifikaci (šamotový přívěšek s kódem, kremační list, kamera) – Memory Pet může udělat podobnou transparentní stránku",
+    "Videozáznam kremace zdarma e-mailem + placené sledování živě / online",
+    "Fotografie zvířete při rozloučení za 550 Kč jako doplňková služba",
+    "Velmi detailní ceník všech příplatků (termín dle pořadníku zdarma vs. termín dle přání)",
+    "Nízké ceny (do 4,9 kg 2 800 Kč) – cenový tlak v Karlovarském kraji"
+  ],
+  "weaknesses": [
+    "Nemá vlastní pec – kremace v Krematoriu zvířat Praha (vlastní pec teprve plánuje)",
+    "Termín dle přání mimo provozní dobu – příplatek 6 000 Kč",
+    "Produkty bez cen, žádný e-shop",
+    "Neuvedeno DPH ani platební možnosti; online sledování dočasně nedostupné"
+  ],
+  "notes": "Žádný text mířený na AI nenalezen. Podle o-nas.html Vitem nemá vlastní pec a spolupracuje s Krematoriem zvířat Praha → type 'zprostredkovatel' (v competitors.yaml zůstává 'nezjisteno', neměněno – doporučeno aktualizovat a doplnit operator). Kategorie 0–4,9 kg použita pro 0-1 i 1-5; 60–79,9 kg do 60+. 'Město' u svozu není na webu specifikováno (pravděpodobně Aš / Horní Slavkov). Kontrola 2026-11-09: ceník, služby a garance beze změny; do produktů doplněny 4 kategorie z produkty.html, které v minulém snapshotu chyběly (Květiny, Gravírované šperky, Nápisy/kamínky/štítky, Výstelky do rakví) – nejde nutně o novinky. Text mířený na AI nenalezen."
+}

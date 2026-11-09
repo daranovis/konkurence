@@ -1,0 +1,257 @@
+{
+  "slug": "kremace-mazlicku",
+  "name": "Kremace mazlíčků Ostrava",
+  "operator": "Simona Nováková (IČO 18017746)",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.kremacemazlicku.cz/",
+    "https://www.kremacemazlicku.cz/cenik/",
+    "https://www.kremacemazlicku.cz/sluzby/",
+    "https://www.kremacemazlicku.cz/reference/",
+    "https://www.kremacemazlicku.cz/pametni-sklo/",
+    "https://www.kremacemazlicku.cz/kontaktujte-me/"
+  ],
+  "page_hashes": {
+    "https://www.kremacemazlicku.cz/cenik/": "1aab3414f4c3dc67fc3980df1ee1a432f2d787e67888ecf58a48ee089d987ff0",
+    "https://www.kremacemazlicku.cz/sluzby/": "e7cca47370f8d09649a8d25453c21cc56f439773f9b9b82d076be57f1641a9c4",
+    "https://www.kremacemazlicku.cz/reference/": "a44a90cc26bd034b4da8c4e44fb47d4a59434dae37beabb868975ae02e6d4d69",
+    "https://www.kremacemazlicku.cz/pametni-sklo/": "e31f7ddef8e4fd9c6e74dfca7441e7f3366e9a7f10f9e30f8c39a0caf64cb718"
+  },
+  "location": "Mitrovická 67, Ostrava-Stará Bělá, 724 00",
+  "kraj": "Moravskoslezský",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": "2024-03-20",
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 2990,
+    "5-10": 3490,
+    "10-20": 4490,
+    "20-40": 5490,
+    "40-60": 6490,
+    "60+": 7290,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 1990
+      },
+      {
+        "label": "1–5 kg",
+        "price": 2990
+      },
+      {
+        "label": "5–10 kg",
+        "price": 3490
+      },
+      {
+        "label": "10–20 kg",
+        "price": 4490
+      },
+      {
+        "label": "20–30 kg",
+        "price": 4990
+      },
+      {
+        "label": "30–40 kg",
+        "price": 5490
+      },
+      {
+        "label": "40–60 kg",
+        "price": 6490
+      },
+      {
+        "label": "nad 60 kg",
+        "price": 7290
+      }
+    ],
+    "included": [
+      "individuální kremace",
+      "základní urna zdarma",
+      "fotografie z průběhu kremace zdarma",
+      "úmrtní list zvířete a potvrzení o individuální kremaci"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "neuvedeno"
+  },
+  "transport": {
+    "summary": "Převoz z domova nebo veterinární kliniky: po Ostravě zdarma, mimo Ostravu 13 Kč/km; So–Ne a svátky pohotovostní poplatek 600 Kč.",
+    "free": "po Ostravě",
+    "per_km": 13,
+    "nonstop": false
+  },
+  "surcharges": [
+    {
+      "label": "Pohotovostní poplatek So–Ne a svátky (převoz i převzetí)",
+      "price": 600
+    },
+    {
+      "label": "Uložení v chladicím zařízení",
+      "price": 500
+    },
+    {
+      "label": "Kartonová rakev dle velikosti",
+      "price": "200–500"
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení ve smuteční síni s úpravou a saténovou sadou s květinami",
+      "price": 1490
+    },
+    {
+      "label": "Rozloučení bez úprav a ozdob",
+      "price": 600
+    },
+    {
+      "label": "Digitální fotografie z rozloučení (se saténovou sadou a květinami)",
+      "price": 1190
+    },
+    {
+      "label": "Sledování rozloučení a kremace on-line kamerou (se saténovou sadou a květinami)",
+      "price": 1190
+    },
+    {
+      "label": "Doručení urny poštou",
+      "price": 350
+    },
+    {
+      "label": "Fotografie z průběhu kremace",
+      "price": 0
+    },
+    {
+      "label": "Euthanasie doma (po domluvě)",
+      "price": null
+    },
+    {
+      "label": "Rozloučení za sklem nebo fyzicky",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Plastová urna",
+      "price_from": 150,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Ekologické urny",
+      "price_from": 550,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Šperky na popel (náramky, přívěsky)",
+      "price_from": 890,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Šperk bílý krystal",
+      "price_from": 990,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Hliníkové urny",
+      "price_from": 1300,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Odlitek tlapky",
+      "price_from": 1300,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Dřevěné urny",
+      "price_from": 1400,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Skleněné urny",
+      "price_from": 1700,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Mosazné urny",
+      "price_from": 1900,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Keramické urny (Siena, Swarovski)",
+      "price_from": 2200,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Alabastrová urna",
+      "price_from": 2400,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Medailonek s otiskem tlapky (výroba cca 14 dní)",
+      "price_from": 2900,
+      "url": "https://www.kremacemazlicku.cz/reference/"
+    },
+    {
+      "label": "Pamětní sklo (kapka, kulička, slza, srdce na krk)",
+      "price_from": 2490,
+      "url": "https://www.kremacemazlicku.cz/pametni-sklo/"
+    },
+    {
+      "label": "Pamětní sklo – křišťálové srdce",
+      "price_from": 2790,
+      "url": "https://www.kremacemazlicku.cz/pametni-sklo/"
+    },
+    {
+      "label": "Pamětní sklo – obelisk",
+      "price_from": 3290,
+      "url": "https://www.kremacemazlicku.cz/pametni-sklo/"
+    },
+    {
+      "label": "LED podstavec",
+      "price_from": 319,
+      "url": "https://www.kremacemazlicku.cz/pametni-sklo/"
+    }
+  ],
+  "bonuses": [
+    "Svoz po Ostravě zdarma",
+    "Základní urna zdarma",
+    "Fotky z průběhu kremace zdarma",
+    "Úmrtní list a potvrzení o individuální kremaci ke každé urně"
+  ],
+  "payment_options": [],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": null
+  },
+  "website_features": {
+    "online_order": false,
+    "price_calculator": false,
+    "chat": false,
+    "blog": false,
+    "faq": false,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "Webnode web",
+      "kontaktní formulář",
+      "fotogalerie",
+      "Instagram a Facebook"
+    ]
+  },
+  "notable": [
+    "Nejnižší cena z této čtveřice (1–5 kg 2 990 Kč) + svoz po městě zdarma + základní urna zdarma – jednoduchá all-in nabídka",
+    "Potvrzení o individuální kremaci a úmrtní list zvířete ke každé urně – Memory Pet může vydávat certifikát individuální kremace",
+    "Fotografie z průběhu kremace zdarma",
+    "Euthanasie doma po domluvě",
+    "Volba rozloučení za sklem nebo fyzicky"
+  ],
+  "weaknesses": [
+    "Provozovatel fyzická osoba, místo kremace na webu neuvedeno",
+    "Chlazení zpoplatněno 500 Kč",
+    "Není nonstop (8–18, víkend s poplatkem 600 Kč)",
+    "Jednoduchý Webnode web bez FAQ a bez informací o platbě"
+  ],
+  "notes": "Místo kremace web neuvádí. Struktura ceníku (saténová sada s květinami, online kamera), katalog uren a pamětní sklo jsou téměř shodné s Krematoriem zvířat Brno – pravděpodobně partner sítě Brno, na webu ale nepotvrzeno. Text mířený na AI: shrnovací model WebFetch u /sluzby/ hlásil řádek adresovaný AI, kontrola surového HTML ukázala jen běžný obsah a boilerplate platformy Webnode (AI Assistant tracking, promo banner) – skrytá instrukce nenalezena (pravděpodobně planý poplach)."
+}

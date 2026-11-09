@@ -1,0 +1,174 @@
+{
+  "slug": "goodbye",
+  "name": "Goodbye.cz – zvířecí krematorium (Goodbye Pets)",
+  "operator": "Goodbye s.r.o., IČO 08319588, Mirošovická 704, 251 64 Mnichovice (koncese na provozování pohřební služby; primárně lidská pohřební služba)",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://goodbye.cz/zvireci-krematorium/",
+    "https://goodbye.cz/zvireci-krematorium/cena/",
+    "https://pets.goodbye.cz",
+    "https://goodbye.cz/obchodni-podminky/"
+  ],
+  "page_hashes": {
+    "https://goodbye.cz/zvireci-krematorium/cena/": "3598997d6eee76370fd7f28df41a05453c150b095df940f6c2de49f7116e388f",
+    "https://goodbye.cz/zvireci-krematorium/": "024ca096abd6e0cf822f4eca3dd1abc8afa68b043a8165bf93479c5ada3dd1e3"
+  },
+  "location": "Praha (adresa krematoria/pece na webu neuvedena; sídlo provozovatele Mnichovice)",
+  "kraj": "Praha / Středočeský",
+  "type": "nezjisteno",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 1990,
+    "1-5": 3990,
+    "5-10": 4990,
+    "10-20": 5990,
+    "20-40": 6990,
+    "40-60": 7990,
+    "60+": 8990,
+    "raw": [
+      {
+        "label": "do 1 kg",
+        "price": 1990
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3990
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4990
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5990
+      },
+      {
+        "label": "20–40 kg",
+        "price": 6990
+      },
+      {
+        "label": "40–60 kg",
+        "price": 7990
+      },
+      {
+        "label": "60–80 kg",
+        "price": 8990
+      },
+      {
+        "label": "nad 80 kg",
+        "price": 10990
+      },
+      {
+        "label": "Hlavní stránka: 'od 2 980 Kč' vč. přepravy (konečná cena)",
+        "price": 2980
+      }
+    ],
+    "included": [
+      "individuální kremace",
+      "základní plastová urnička",
+      "přepravní vak",
+      "chlazení zvířete",
+      "možnost krátkého rozloučení"
+    ]
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Svoz po celé ČR 24/7 (domov, veterinář). Praha 990 Kč, do 2 hodin i mimo pracovní dobu/víkendy/svátky; celé Čechy 26 Kč/km; osobní předání zdarma. Vrácení urny: rozvoz po Praze 500 Kč, Pošta ČR 300 Kč. Zdroj: https://goodbye.cz/zvireci-krematorium/cena/",
+    "free": "osobní předání zvířete",
+    "per_km": 26,
+    "nonstop": true
+  },
+  "surcharges": [],
+  "services": [
+    {
+      "label": "Kremace s účastí majitele",
+      "price": 5000
+    },
+    {
+      "label": "Otisk tlapky (hlína/papír) a odstřih srsti v krabičce",
+      "price": "od 500 Kč (hlavní stránka: otisky 750–1 250 Kč)"
+    },
+    {
+      "label": "Rozvoz urny po Praze",
+      "price": 500
+    },
+    {
+      "label": "Zaslání urny Poštou ČR",
+      "price": 300
+    },
+    {
+      "label": "Předběžná domluva postupu (blížící se konec, vážná nemoc)",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Ozdobné urny (keramické, dřevěné, kovové)",
+      "price_from": 1100,
+      "url": "https://goodbye.cz/zvireci-krematorium/cena/"
+    },
+    {
+      "label": "Šperk s popelem",
+      "price_from": 1100,
+      "url": "https://goodbye.cz/zvireci-krematorium/cena/"
+    },
+    {
+      "label": "Památeční předměty (šperky s popelem, korálky, skleněné sošky) 790–3 990 Kč",
+      "price_from": 790,
+      "url": "https://goodbye.cz/zvireci-krematorium/"
+    },
+    {
+      "label": "Otisky tlapek v rámečku s možností fotky 750–1 250 Kč",
+      "price_from": 750,
+      "url": "https://goodbye.cz/zvireci-krematorium/"
+    }
+  ],
+  "bonuses": [
+    "100% kompenzace uhlíkových emisí po každé kremaci",
+    "Nezávazná nabídka zdarma online",
+    "'Konečná cena' vč. DPH, přepravy a poplatků (od 2 980 Kč)"
+  ],
+  "payment_options": [
+    "platební karta",
+    "bankovní převod",
+    "platební brána (dle obchodních podmínek)"
+  ],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": "Na webu (https://goodbye.cz/zvireci-krematorium/): '400+ recenzí s průměrem 4,93 hvězdiček' a 'Nejlépe hodnocený poskytovatel kremace v ČR za rok 2025' – hodnocení celé Goodbye (převážně lidská pohřební služba), zdroj recenzí neuveden. Google hodnocení zvířecí kremace nezjištěno."
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": null,
+    "chat": false,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "vyřízení online do 15 minut (pets.goodbye.cz)",
+      "záložní linka 8–18 h",
+      "TikTok, Instagram, Facebook, LinkedIn",
+      "video obsah"
+    ]
+  },
+  "notable": [
+    "Online sjednání kremace 'do 15 minut' s konečnou cenou vč. DPH – Memory Pet by mohl nabídnout online objednávku s okamžitou cenou/kalkulačkou",
+    "Garance příjezdu do 2 hodin v Praze 24/7 – konkrétní časový slib, který Memory Pet nekomunikuje (jen 'co možná nejdříve')",
+    "Uhlíková neutralita (100% kompenzace emisí) jako marketingový argument",
+    "Možnost domluvit postup předem u nevyléčitelně nemocného zvířete (pre-planning)",
+    "Silná značka lidské pohřební služby s přesahem do zvířat, aktivní na TikToku"
+  ],
+  "weaknesses": [
+    "Nekonzistentní ceny: 'od 2 980 Kč' (s přepravou) vs. 'od 1 990 Kč' při přivezení vs. ceník do 1 kg 1 990 Kč",
+    "Adresa krematoria/pece ani to, zda kremuje vlastní pec nebo partner, není na webu uvedena (jen 'moderní krematorium v Praze')",
+    "Drahý svoz mimo Prahu – 26 Kč/km (Memory Pet 12 Kč/km)",
+    "FAQ obsahuje otázky bez viditelných odpovědí",
+    "Ceny vyšší než Memory Pet ve všech kategoriích (např. 1–5 kg 3 990 vs 3 300 Kč)"
+  ],
+  "notes": "Provozovatel: Goodbye s.r.o. (IČO 08319588, Mnichovice) – pohřební služba, zvířecí kremace je doplňková linka. Umístění pece NEZJIŠTĚNO: web uvádí 'moderní krematorium zvířat v Praze' a zároveň 'Kremace probíhají ve specializovaných zvířecích krematoriích … zcela oddělené od naší lidské pohřební služby', obchodní podmínky partnera ani provozovnu neuvádějí, rychlý WebSearch nic nepotvrdil. Pravděpodobně zprostředkovatel (v Praze působí Krematorium zvířat Praha v Běchovicích a Kerberos ve Strašnicích), ale to je domněnka, proto type 'nezjisteno'. Kategorie se kryjí s MemoryPet; 60+ = cena 60–80 kg. Text mířený na AI nenalezen. Ozdobné urny na hlavní stránce 1 100–2 990 Kč. Google hodnocení nezjištěno; web uvádí 400+ recenzí s průměrem 4,93 (celá Goodbye)."
+}

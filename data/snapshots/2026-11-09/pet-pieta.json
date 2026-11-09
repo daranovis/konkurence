@@ -1,0 +1,65 @@
+{
+  "slug": "pet-pieta",
+  "name": "Pohřební ústav PET-PIETA",
+  "operator": "Partnerská pohřební služba Krematoria zvířat Praha (zajišťuje svoz dle ceníku KZ Praha); provozovatel na webu neuveden",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.pietnisluzby.cz",
+    "https://www.pietnisluzby.cz/cenik",
+    "https://pietnisluzby.cz/kremace/cenik-2/",
+    "https://www.krematoriumzviratpraha.cz/cenik"
+  ],
+  "page_hashes": {
+    "https://www.pietnisluzby.cz": "f3ce5b2126475cf2b6cefea636d92c48df9dc4b53090852546487012ccb8b4de"
+  },
+  "location": null,
+  "kraj": "Praha",
+  "type": "zprostredkovatel",
+  "price_list_valid_from": null,
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": null,
+    "1-5": null,
+    "5-10": null,
+    "10-20": null,
+    "20-40": null,
+    "40-60": null,
+    "60+": null,
+    "raw": [],
+    "included": []
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Vlastní web nic neuvádí (rekonstrukce). Dle ceníku Krematoria zvířat Praha zajišťuje Pet-Pieta svoz pro KZ Praha v zónách: Praha 990 Kč, žlutá 1 500 Kč, modrá 2 200 Kč, zelená 2 500 Kč, oranžová 3 000 Kč.",
+    "free": null,
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [],
+  "services": [],
+  "products": [],
+  "bonuses": [],
+  "payment_options": [],
+  "reviews": {
+    "google_rating": null,
+    "google_count": null,
+    "other": null
+  },
+  "website_features": {
+    "online_order": null,
+    "price_calculator": null,
+    "chat": null,
+    "blog": null,
+    "faq": null,
+    "eshop": null,
+    "languages": [],
+    "other": [
+      "Web v rekonstrukci – pouze oznámení „Nonstop dispečink“, kancelář Po–Pá 9:00–18:00"
+    ]
+  },
+  "notable": [],
+  "weaknesses": [
+    "Web nefunkční / v rekonstrukci – žádné informace o službách a cenách; odkazy z webu KZ Praha (/cenik, /kremace/cenik-2/) vrací 404"
+  ],
+  "notes": "K 2026-11-09 web pietnisluzby.cz stále zobrazuje pouze oznámení o rekonstrukci („Na stránkách právě probíhá rekonstrukce“, nonstop dispečink, kancelář Po–Pá 9:00–18:00); snapshot převzat z 2026-11-06 s aktualizovaným checked_at a page_hashes. Web pietnisluzby.cz k 2026-11-06 zobrazuje pouze oznámení o rekonstrukci (Pet-Pieta, nonstop dispečink, kancelář Po–Pá 9–18). Podstránky /cenik a /kremace/cenik-2/ = HTTP 404. Údaje o svozu převzaty z https://www.krematoriumzviratpraha.cz/cenik. WebSearch: firmy.cz uvádí PET-PIETA na adrese Beranových 130, Praha-Letňany (neověřeno z webu subjektu). Text mířený na AI nenalezen. Zopakovat kontrolu po spuštění nového webu."
+}

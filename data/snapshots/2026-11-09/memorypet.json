@@ -1,0 +1,244 @@
+{
+  "slug": "memorypet",
+  "name": "Memory Pet Krematorium",
+  "operator": "Memory Servis s.r.o., IČO 09245057, Dubice 32, 470 01 Česká Lípa",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.memorypet.cz",
+    "https://www.memorypet.cz/cenik/",
+    "https://www.memorypet.cz/sluzby/",
+    "https://www.memorypet.cz/sluzby/urny-a-vzpominkove-predmety/",
+    "https://www.memorypet.cz/memory-pet-point/",
+    "https://www.memorypet.cz/kontakt/",
+    "https://www.memorypet.cz/objednavka-kremace/"
+  ],
+  "page_hashes": {
+    "https://www.memorypet.cz/cenik/": "75ef35c6af5ab3356a31d9519721d4d5e29ceec24d6d334dd2aa18b2580fa3fd",
+    "https://www.memorypet.cz/sluzby/": "97b05708d9f94d31f82ef490ebcf9f2944b60f1306714fbf9c9bec6fe18f2f75",
+    "https://www.memorypet.cz/sluzby/urny-a-vzpominkove-predmety/": "178cf0d06206adfbc885fd4ad9c64a16ed572b8a492844f0e9d12fdb4bba1a3e",
+    "https://www.memorypet.cz/memory-pet-point/": "1170e074f6106871521b57bae5e5f7c6811d0d5e94ff1394f818427b62b3a1cd",
+    "https://www.memorypet.cz/kontakt/": "089439d3026ec3ab1c2d94d1715139734cdee64c2e4aa872e337f6567a7f232c"
+  },
+  "location": "Dubice 32, 470 01 Česká Lípa",
+  "kraj": "Liberecký",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": "2022-01-01",
+  "prices_include_vat": null,
+  "cremation_prices": {
+    "0-1": 2100,
+    "1-5": 3300,
+    "5-10": 4300,
+    "10-20": 5300,
+    "20-40": 6300,
+    "40-60": 7300,
+    "60+": 8300,
+    "raw": [
+      {
+        "label": "0–1 kg",
+        "price": 2100
+      },
+      {
+        "label": "1–5 kg",
+        "price": 3300
+      },
+      {
+        "label": "5–10 kg",
+        "price": 4300
+      },
+      {
+        "label": "10–20 kg",
+        "price": 5300
+      },
+      {
+        "label": "20–40 kg",
+        "price": 6300
+      },
+      {
+        "label": "40–60 kg",
+        "price": 7300
+      },
+      {
+        "label": "60+ kg",
+        "price": 8300
+      }
+    ],
+    "included": [
+      "ekologická rakev",
+      "základní plastová urna",
+      "kremační list (zdarma)",
+      "vyřízení dokumentů pro státní správu (zdarma)",
+      "kremace v termínu určeném krematoriem"
+    ]
+  },
+  "collective_cremation": null,
+  "transport": {
+    "summary": "Zónový ceník podle okresů: Česká Lípa 550 Kč; Děčín, Jablonec n. N., Liberec, Litoměřice, Mělník, Mladá Boleslav, Teplice, Ústí n. L. 750 Kč; Jičín, Kladno, Most, Nymburk, Praha, Semily 1 450 Kč; Hradec Králové, Chomutov, Louny, Trutnov 1 950 Kč; ostatní okresy 12 Kč/km; mimo provozní dobu, víkendy a svátky 12 Kč/km (tam i zpět). Svoz 'co možná nejdříve', telefon nonstop 24/7. Zdroj: https://www.memorypet.cz/cenik/",
+    "free": null,
+    "per_km": 12,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Termín kremace dle výběru v provozní době",
+      "price": 1900
+    },
+    {
+      "label": "Termín v pracovní dny mimo provozní dobu",
+      "price": 2900
+    },
+    {
+      "label": "Termín o víkendech a svátcích",
+      "price": 4900
+    },
+    {
+      "label": "Převozní a úložný vak",
+      "price": 450
+    },
+    {
+      "label": "Převzetí mimo provozní dobu a o svátcích",
+      "price": "1 000 Kč + cena převozu"
+    },
+    {
+      "label": "Převzetí v provozní době (krematorium, veterinář, doma)",
+      "price": "zdarma + cena převozu"
+    },
+    {
+      "label": "Uložení v chladicím zařízení do kremace (paušál)",
+      "price": 390
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení v obřadní síni",
+      "price": 990
+    },
+    {
+      "label": "Rozloučení včetně sledování počátku žehu",
+      "price": 1490
+    },
+    {
+      "label": "Rakev s výzdobou",
+      "price": 1300
+    },
+    {
+      "label": "Květinová výzdoba",
+      "price": "podle katalogu"
+    },
+    {
+      "label": "Fotografie obřadu e-mailem",
+      "price": 890
+    },
+    {
+      "label": "Videozáznam začátku kremace e-mailem",
+      "price": 990
+    },
+    {
+      "label": "Pískování textu na urnu/sklo/podstavec",
+      "price": 710
+    },
+    {
+      "label": "Otisk tlapky na papír",
+      "price": 490
+    },
+    {
+      "label": "Vyzvednutí urny/skla/šperků v provozní době",
+      "price": "zdarma"
+    },
+    {
+      "label": "Zaslání kurýrem",
+      "price": 250
+    },
+    {
+      "label": "Zaslání kurýrem na dobírku",
+      "price": 300
+    },
+    {
+      "label": "Kremace na splátky",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Zvířecí urny",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/zvireci-urny/"
+    },
+    {
+      "label": "Památeční sklo",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/pamatecni-sklo/"
+    },
+    {
+      "label": "Skleněné šperky na popel",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/pamatecni-sklo/sklenene-sperky/"
+    },
+    {
+      "label": "Stříbrné šperky na popel",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/zvireci-stribrne-sperky/"
+    },
+    {
+      "label": "Šperky See You",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/sperky-see-you/"
+    },
+    {
+      "label": "Vzpomínkové diamanty",
+      "price_from": null,
+      "url": "https://www.memoryurny.cz/kategorie/vzpominkove-diamanty/"
+    }
+  ],
+  "bonuses": [
+    "Sleva 10 % na kremaci pro seniory 65+, držitele ZTP a majitele asistenčních, služebních a loveckých psů (nesčítají se, nutno doložit)",
+    "Pohotovostní režim i 22. 12. – 1. 1.",
+    "Záruka nezaměnitelnosti / garance jistoty, certifikovaná individuální kremace (bez popsaných podmínek)",
+    "Kremace na splátky (uvedeno ve službách)",
+    "Samoobslužná místa Memory Pet Point"
+  ],
+  "payment_options": [
+    "splátky (zmíněno v nabídce služeb, podmínky na stránkách služeb neuvedeny)"
+  ],
+  "reviews": {
+    "google_rating": 5.0,
+    "google_count": 64,
+    "other": "Uvedeno na webu (widget firmy.cz/Google) – 5,0 z 64 hodnocení"
+  },
+  "website_features": {
+    "online_order": true,
+    "price_calculator": false,
+    "chat": false,
+    "blog": true,
+    "faq": true,
+    "eshop": true,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "Průvodce kremací",
+      "Memory poradna (poradna chovatele)",
+      "e-shop na samostatné doméně memoryurny.cz",
+      "reference zákazníků"
+    ]
+  },
+  "notable": [
+    "Nejpodrobnější ceník ze sledovaných: zónový svoz po okresech, obřad, sledování žehu, foto/video, pískování",
+    "Síť 5 samoobslužných Memory Pet Point (Praha 6, Česká Lípa, Liberec, Plzeň, Trutnov) + 4 připravované (Jičín, Mladá Boleslav, Havlíčkův Brod, Nymburk)",
+    "Google 5,0 / 64 hodnocení uvedeno přímo na webu"
+  ],
+  "weaknesses": [
+    "Ceník uvádí platnost od 1. 1. 2022 – působí zastarale (konkurent PET HEAVEN má ceník od 14. 3. 2026)",
+    "Na ceníku není uvedeno, zda jsou ceny s DPH (Goodbye výslovně uvádí 'vč. DPH, konečná cena')",
+    "Nekonzistentní kontakty: hlavní e-mail na staré doméně info@krematoriumzviratcl.cz, majitel na dalibor.novak@memorycrystal.cz; Memory Pet Point má jiný telefon (481 012 204) a e-mail info@memorypetpoint.com",
+    "Na webu stále banner 'Krematorium zvířat Česká Lípa se mění na Memory Pet Krematorium'; na kontaktu adresa 'Krematorium zvířat Česká Lípa'; Facebook zobrazovaný název 'Krematoriumzviratceskalipa' vs URL MemoryPetKrematorium",
+    "Úvodní stránka zmiňuje Memory Pet Point jen v České Lípě, Praze a Plzni, zatímco stránka /memory-pet-point/ uvádí 5 míst (navíc Liberec, Trutnov)",
+    "Úvodní stránka tvrdí, že jde o jediné zařízení v Libereckém, Ústeckém a Královéhradeckém kraji; svoz na úvodní stránce vůbec nezmíněn",
+    "Adresa krematoria není na většině stránek jako text (jen odkaz na Google Maps); plná adresa pouze na /kontakt/",
+    "Odkaz 'Záruka nezaměnitelnosti' vede na /co-je-kremacni-privesek/ bez popsaných podmínek garance",
+    "Ceny uren a šperků nejsou na webu krematoria, jen odkazy na memoryurny.cz",
+    "Váhové kategorie Memory Pet Point (0–2, 2–10, 10–30, 30–60 kg) se liší od kategorií krematoria – dvě různé cenové logiky v jedné značce",
+    "Na ceníku chybí platební možnosti (splátky jsou jen ve výčtu služeb), chybí kalkulačka ceny",
+    "Hromadná kremace není na webu zmíněna (ani jako 'nenabízíme')"
+  ],
+  "notes": "Baseline – vlastní web. Žádný text mířený na AI nebyl na přečtených stránkách nalezen. Objednávková stránka /objednavka-kremace/ obsahuje jen odkaz na formulář (nevyplňováno). Otevírací doba dle /kontakt/: Po–Pá 8:00–16:30, jinak pohotovostní linka. Kontakty: 481 012 200 (nonstop), +420 481 012 205 (L. Illek)."
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "vecna-loviste",
+  "name": "Věčná loviště",
+  "operator": "Věčná loviště s.r.o. (IČO 04200675)",
+  "checked_at": "2026-11-09",
+  "sources": [
+    "https://www.vecnaloviste.cz/",
+    "https://www.vecnaloviste.cz/cenik",
+    "https://www.vecnaloviste.cz/sluzby",
+    "https://www.vecnaloviste.cz/caste-dotazy",
+    "https://www.vecnaloviste.cz/o-nas"
+  ],
+  "page_hashes": {
+    "https://www.vecnaloviste.cz/cenik": "d2b504d404322c113d5fec0d4bcda483e7ebae153d0b832aee072f56933d64b3",
+    "https://www.vecnaloviste.cz/sluzby": "d5dc79f9ccad6011c4c2289a9020311285e98c7543f78f8aa1aa38ac3a815596",
+    "https://www.vecnaloviste.cz/caste-dotazy": "57d2539c583f8a5ec9ee82c788d6e1dc07543a4b430dbd58f1c7b5af408a42d3"
+  },
+  "location": "Drnov 61, 274 01 Žižice (cca 30 min od Prahy)",
+  "kraj": "Středočeský",
+  "type": "vlastni_krematorium",
+  "price_list_valid_from": null,
+  "prices_include_vat": true,
+  "cremation_prices": {
+    "0-1": 2700,
+    "1-5": 4500,
+    "5-10": 5500,
+    "10-20": 6500,
+    "20-40": 7500,
+    "40-60": 8500,
+    "60+": 9500,
+    "raw": [
+      {
+        "label": "kalkulátor (data stránky cenik): pásmo 0–1 kg, cena na horní hranici",
+        "price": 2700
+      },
+      {
+        "label": "kalkulátor: pásmo 1–5 kg, cena na horní hranici (+400 Kč/kg uvnitř pásma)",
+        "price": 4500
+      },
+      {
+        "label": "kalkulátor: pásmo 5–10 kg, cena na horní hranici (+200 Kč/kg)",
+        "price": 5500
+      },
+      {
+        "label": "kalkulátor: pásmo 10–20 kg, cena na horní hranici (+100 Kč/kg)",
+        "price": 6500
+      },
+      {
+        "label": "kalkulátor: pásmo 20–40 kg, cena na horní hranici (+50 Kč/kg)",
+        "price": 7500
+      },
+      {
+        "label": "kalkulátor: pásmo 40–60 kg, cena na horní hranici (+50 Kč/kg)",
+        "price": 8500
+      },
+      {
+        "label": "kalkulátor: pásmo 60–80 kg, cena na horní hranici (+50 Kč/kg)",
+        "price": 9500
+      },
+      {
+        "label": "kalkulátor: pásmo 80–120 kg, cena na horní hranici (+50 Kč/kg)",
+        "price": 11500
+      },
+      {
+        "label": "5 kg – ukázková cena zobrazená v kalkulátoru (cenik)",
+        "price": 4500
+      },
+      {
+        "label": "FAQ: kremace od 4 500 Kč (do 1 kg)",
+        "price": 4500
+      },
+      {
+        "label": "FAQ: 80–100 kg",
+        "price": 18000
+      }
+    ],
+    "included": [
+      "základní urna"
+    ]
+  },
+  "collective_cremation": {
+    "offered": false,
+    "prices": "pouze individuální kremace"
+  },
+  "transport": {
+    "summary": "Vlastní dovoz 0 Kč; svoz z domu nebo od veterináře ve speciálním vaku, cena podle dojezdových zón / adresy v kalkulátoru (sazby na webu neuvedeny). Mimo otevírací dobu Po–Pá 9–17 nonstop po telefonické dohodě.",
+    "free": "vlastní dovoz",
+    "per_km": null,
+    "nonstop": true
+  },
+  "surcharges": [
+    {
+      "label": "Speciální převozní vak (doporučeno)",
+      "price": 450
+    },
+    {
+      "label": "Uložení v chladícím boxu (doporučeno)",
+      "price": 300
+    },
+    {
+      "label": "Převzetí mimo otevírací dobu (Po–Pá 9–17)",
+      "price": 700
+    },
+    {
+      "label": "Přednostní kremace ve zvoleném termínu",
+      "price": 3500
+    }
+  ],
+  "services": [
+    {
+      "label": "Rozloučení v obřadní síni",
+      "price": 2900
+    },
+    {
+      "label": "Doručení urny s popelem",
+      "price": 600
+    },
+    {
+      "label": "Zaslání urny přes Zásilkovnu",
+      "price": null
+    },
+    {
+      "label": "Eutanazie doma ve spolupráci s certifikovaným veterinářem",
+      "price": null
+    }
+  ],
+  "products": [
+    {
+      "label": "Základní urna (v ceně), designové a ručně vyráběné urny na místě",
+      "price_from": null,
+      "url": "https://www.vecnaloviste.cz/sluzby"
+    }
+  ],
+  "bonuses": [
+    "Základní urna v ceně kremace",
+    "Garance individuální kremace – nikdy více zvířat najednou",
+    "Evidenční nerezový plíšek od převzetí po předání popela",
+    "Lze použít vlastní urnu"
+  ],
+  "payment_options": [],
+  "reviews": {
+    "google_rating": 4.9,
+    "google_count": 203,
+    "other": "údaj uvedený na webu (o-nas), recenze zobrazené na hlavní stránce"
+  },
+  "website_features": {
+    "online_order": null,
+    "price_calculator": true,
+    "chat": null,
+    "blog": null,
+    "faq": true,
+    "eshop": false,
+    "languages": [
+      "cs"
+    ],
+    "other": [
+      "kalkulátor ceny podle váhy (0,1–120 kg), adresy svozu a doplňků",
+      "galerie",
+      "Google recenze na webu"
+    ]
+  },
+  "notable": [
+    "Kalkulátor ceny: váha + adresa svozu + zaškrtávací doplňky označené 'doporučeno' → celková cena; Memory Pet by mohl převzít",
+    "Architektonicky oceňovaná budova (bývalý vojenský bunkr, zrcadlová stěna, Grand Prix Architektů 2021) – silný storytelling a PR",
+    "Obřad s hudbou přes Bluetooth, vlastními hračkami, svíčkou a květinami",
+    "Eutanazie doma ve spolupráci s veterinářem + následný převoz",
+    "Popel do 24–48 h, zaslání urny Zásilkovnou",
+    "Google hodnocení 4,9 (203) zobrazené přímo na webu"
+  ],
+  "weaknesses": [
+    "Dražší v nižších váhách (1–5 kg 4 500 Kč) a nekonzistentní ceny na webu: FAQ uvádí od 4 500 Kč do 1 kg a 18 000 Kč za 80–100 kg, kalkulátor 2 700 Kč do 1 kg a 11 500 Kč za 80–120 kg",
+    "Úplný ceník podle kategorií není vypsán jako tabulka, jen skrytě v datech kalkulátoru",
+    "Ceny svozu nejsou transparentně uvedeny",
+    "Obřad 2 900 Kč, přednostní termín 3 500 Kč"
+  ],
+  "notes": "Žádný text mířený na AI nenalezen. Kontrola 2026-11-09: kategorie doplněny z dat kalkulátoru vložených ve stránce https://www.vecnaloviste.cz/cenik (cremationPrices: min/max/price/pricePerKg; podle JS kalkulátoru je 'price' cena na horní hranici pásma a uvnitř pásma se odečítá pricePerKg za každý kg pod horní hranicí). Hodnoty v kategoriích = 'price' pásma, nic nedopočítáno. Data pravděpodobně existovala už 6. 11. (WebFetch je tehdy nezobrazil) – jde o upřesnění, ne nutně o změnu ceny. FAQ stále uvádí 4 500 Kč do 1 kg a 18 000 Kč za 80–100 kg (rozpor s kalkulátorem; max. váha FAQ 100 kg vs. kalkulátor 120 kg). Doplňky, otevírací doba a Google hodnocení 4,9 (203) na o-nas beze změny. Ceny svozu počítá kalkulátor dle adresy (sazby nezveřejněny). Pec: dvoukomorová B&L Cremation Systems."
+}
